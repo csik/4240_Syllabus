@@ -1,8 +1,6 @@
 INFO/STS 4240: Designing Technologies for Social Impact
 =======================================================
 
-Navigation:Course description [Schedule](https://courses.infosci.cornell.edu/info4240/2021fa/index.php?page=schedule) [Assignments](https://courses.infosci.cornell.edu/info4240/2021fa/index.php?page=assignments) [Course policies](https://courses.infosci.cornell.edu/info4240/2021fa/index.php?page=hwpolicy) [Texts](https://courses.infosci.cornell.edu/info4240/2021fa/index.php?page=texts) [Copyright](https://courses.infosci.cornell.edu/info4240/2021fa/index.php?page=copyright)
-
 Instructors: Prof. Chris Csíkszentmihályi (with special guest Prof. Phoebe Sengers)\
 Lecture:Tu, Th 1:00pm - 2:15pm ; required short pre-lecture video available through Canvas\
 Asynchronous lecture option: Recordings of lecture will be made available to allow for asynchronous attendance. Please note: (1) there will be a lag owing to the time to produce accurate closed captions; and (2) videos of a week's lectures will be available through the following Sunday at 5pm EST\
