@@ -1,6 +1,6 @@
 INFO/STS 4240: Designing Technologies for Social Impact
 =======================================================
-# Course Description
+# The Course Description
 
 Instructors: Prof. Chris Csíkszentmihályi (with special guest Prof. Phoebe Sengers)\
 Lecture:Tu, Th 1:00pm - 2:15pm ; required short pre-lecture video available through Canvas\
