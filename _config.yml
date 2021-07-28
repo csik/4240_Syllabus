@@ -2,10 +2,10 @@ remote_theme: csik/minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 collections:
-  classes
+  classes:
     output: true
     permalink: /classes/:path/
-  modules
+  modules:
     output: true
     permalink: /modules/:path/
-  - texts
+  texts:
