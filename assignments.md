@@ -1,3 +1,7 @@
+---
+title: Assignments
+---
+
 ### Assignments Overview
 
 #### Reading
