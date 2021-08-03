@@ -1,5 +1,5 @@
 ---
-title: Texts
+layout: default
 ---
 
 ### Textbook
