@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ### Textbook
 
 The course uses a **course reader**, which you can purchase from the Cornell Store.
