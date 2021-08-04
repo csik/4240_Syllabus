@@ -1,6 +1,5 @@
----
 title: Course Policies
----
+
 ### In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. Over and above the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/) we use a course [code of conduct]() derived from the Mozilla and Ubuntu codes of conduct.
 
