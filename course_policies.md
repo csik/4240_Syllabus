@@ -1,3 +1,4 @@
+
 ---
 title: Course Policies
 permalink: /course_policies.md
