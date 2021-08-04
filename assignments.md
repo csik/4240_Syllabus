@@ -1,8 +1,3 @@
----
-title: Assignments
-layout: default
----
-
 ## Assignments Overview
 
 ### Reading

@@ -1,7 +1,3 @@
----
-layout: default
-title: Texts
----
 ## Course Texts
 ### Textbook
 

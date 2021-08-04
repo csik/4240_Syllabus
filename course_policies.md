@@ -1,7 +1,3 @@
----
-title: Course Policies
-layout: default
----
 ## Course Policies
 
 ### In-person policy

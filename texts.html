@@ -1,0 +1,11 @@
+---
+layout: default
+title: Texts
+---
+<html>
+    
+{% capture my_include %}{% include_relative texts.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+
+</html>
