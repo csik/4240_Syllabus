@@ -1,6 +1,7 @@
 ---
 title: Course Policies
-permalink: /course_policies.md
+permalink: /course_policies
+layout: default
 ---
 
 ### In-person policy
