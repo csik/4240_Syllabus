@@ -1,12 +1,15 @@
 ---
 title: Assignments
+layout: default
 ---
 
 ### Assignments Overview
 
 #### Reading
 
-The foundation for your work in this class are the **course readings**, which contain the core course content. You are expected to 1) have thoughtfully read the day's reading **before** coming to class, 2) taken notes on the author's ideas and arguments, and 3) your thoughts in response. Course readings vary considerably in discipline and difficulty; be aware that a reading's text length may not correlate to your reading time.
+The foundation for your work in this class are the **course readings**, which contain the core course content. 
+
+You are expected to 1) have thoughtfully read the day's reading **before** coming to class, 2) taken notes on the author's ideas and arguments, and 3) your thoughts in response. Course readings vary considerably in discipline and difficulty; be aware that a reading's text length may not correlate to your reading time.
 
 #### Lecture prep
 

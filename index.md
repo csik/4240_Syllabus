@@ -1,3 +1,8 @@
+---
+layout: default
+title: Course Description
+---
+
 INFO/STS 4240: Designing Technologies for Social Impact
 =======================================================
 
