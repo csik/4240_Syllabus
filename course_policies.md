@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Course Policies
+layout: default
 ---
 
 ### In-person policy
