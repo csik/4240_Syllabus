@@ -12,7 +12,7 @@ The rest of the course readings are available on-line or will be handed out thro
 
 Abileah, Rae, and Jodie Evans. "Principle: Bring the Issue Home." *Beautiful Trouble: A Toolbox for Revolution*, edited by Andrew Boyd and Dave Oswald Mitchell, OR Books, 2012. *JSTOR*, doi:[10.2307/j.ctt1bkm5nd](https://doi.org/10.2307/j.ctt1bkm5nd).
 
-Arieff, Allison. "Opinion | Solving All the Wrong Problems." *The New York Times*, 9 July 2016. *NYTimes.com*, <https://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html>.
+Arieff, Allison. "Opinion / Solving All the Wrong Problems." *The New York Times*, 9 July 2016. *NYTimes.com*, <https://www.nytimes.com/2016/07/10/opinion/sunday/solving-all-the-wrong-problems.html>.
 
 Aronoff, Kate, et al. "The Dark Side of Bill Gates's Climate Techno-Optimism." *The New Republic*, Mar. 2021. *The New Republic*, <https://newrepublic.com/article/161533/bill-gates-climate-vaccines>.
 
@@ -40,21 +40,21 @@ Boyd, Andrew, and Dave Oswald Mitchell. *Beautiful Trouble: A Toolbox for Revol
 
 Brandt, Eva. "Designing Exploratory Design Games: A Framework for Participation in Participatory Design?" *Proceedings of the Ninth Conference on Participatory Design: Expanding Boundaries in Design - Volume 1*, Association for Computing Machinery, 2006, pp. 57--66. *ACM Digital Library*, doi:[10.1145/1147261.1147271](https://doi.org/10.1145/1147261.1147271).
 
-Brooks, David. "Opinion | A Really Good Thing Happening in America." *The New York Times*, 8 Oct. 2018. *NYTimes.com*, <https://www.nytimes.com/2018/10/08/opinion/collective-impact-community-civic-architecture.html>.
+Brooks, David. "Opinion / A Really Good Thing Happening in America." *The New York Times*, 8 Oct. 2018. *NYTimes.com*, <https://www.nytimes.com/2018/10/08/opinion/collective-impact-community-civic-architecture.html>.
 
 Broussard, Meredith. *Artificial Unintelligence: How Computers Misunderstand the World*. The MIT Press, 2018. *DOI.org (Crossref)*, doi:[10.7551/mitpress/11022.001.0001](https://doi.org/10.7551/mitpress/11022.001.0001).
 
 Brynjarsdottir, Hronn, et al. "Sustainably Unpersuaded: How Persuasion Narrows Our Vision of Sustainability." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, Association for Computing Machinery, 2012, pp. 947--56. *ACM Digital Library*, doi:[10.1145/2207676.2208539](https://doi.org/10.1145/2207676.2208539).
 
-Cairo, Alberto. *Emotional Data Visualization: Periscopic's "U.S. Gun Deaths" and the Challenge of Uncertainty | | Peachpit*. 2013, <https://www.peachpit.com/articles/article.aspx?p=2036558>.
+Cairo, Alberto. *Emotional Data Visualization: Periscopic's "U.S. Gun Deaths" and the Challenge of Uncertainty / Peachpit*. 2013, <https://www.peachpit.com/articles/article.aspx?p=2036558>.
 
 Consolvo, Sunny, et al. "Designing for Behavior Change in Everyday Life." *Computer*, vol. 42, no. 6, June 2009, pp. 86--89. *ACM Digital Library*, doi:[10.1109/MC.2009.185](https://doi.org/10.1109/MC.2009.185).
 
-Crawford, Kate. "Opinion | Artificial Intelligence's White Guy Problem." *The New York Times*, 25 June 2016. *NYTimes.com*, <https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html>.
+Crawford, Kate. "Opinion / Artificial Intelligence's White Guy Problem." *The New York Times*, 25 June 2016. *NYTimes.com*, <https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html>.
 
 "DataVizChallenge.Org: Visualize Your Taxes." *DataVizChallenge.Org*. *www.datavizchallenge.org*, <http://datavizchallenge.org/>. Accessed 4 May 2020.
 
-Davis, Ben. *A Critique of Social Practice Art | International Socialist Review*. *isreview.org*, <https://isreview.org/issue/90/critique-social-practice-art>. Accessed 4 May 2020.
+Davis, Ben. *A Critique of Social Practice Art / International Socialist Review*. *isreview.org*, <https://isreview.org/issue/90/critique-social-practice-art>. Accessed 4 May 2020.
 
 Dörk, Marian, et al. "Critical InfoVis: Exploring the Politics of Visualization." *CHI '13 Extended Abstracts on Human Factors in Computing Systems*, Association for Computing Machinery, 2013, pp. 2189--98. *ACM Digital Library*, doi:[10.1145/2468356.2468739](https://doi.org/10.1145/2468356.2468739).
 
@@ -66,7 +66,7 @@ Edgerton, David. *The Shock of the Old: Technology and Global History since 190
 
 Erete, Sheena, and Jennifer O. Burrell. "Empowered Participation: How Citizens Use Technology in Local Governance." *Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems*, Association for Computing Machinery, 2017, pp. 2307--19. *ACM Digital Library*, doi:[10.1145/3025453.3025996](https://doi.org/10.1145/3025453.3025996).
 
-Ewing, John. *Virtual Streetcorners | Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/case/virtual-streetcorners/>. Accessed 4 May 2020.
+Ewing, John. *Virtual Streetcorners / Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/case/virtual-streetcorners/>. Accessed 4 May 2020.
 
 Flanagan, Mary, et al. "Embodying Values in Technology: Theory and Practice." *Information Technology and Moral Philosophy*, edited by Jeroen van den Hoven and JohnEditors Weckert, Cambridge University Press, 2008, pp. 322--53, doi:[10.1017/CBO9780511498725.017](https://doi.org/10.1017/CBO9780511498725.017).
 
@@ -76,7 +76,7 @@ Foverskov, Maria, and Thomas Binder. "Super Dots: Making Social Media Tangible f
 
 Froehlich, Jon, et al. "UbiGreen: Investigating a Mobile Tool for Tracking and Supporting Green Transportation Habits." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, Association for Computing Machinery, 2009, pp. 1043--52. *ACM Digital Library*, doi:[10.1145/1518701.1518861](https://doi.org/10.1145/1518701.1518861).
 
-Gaver, Bill, and John Bowers. *Annotated Portfolios | Interactions*. <https://dl.acm.org/doi/10.1145/2212877.2212889>. Accessed 4 May 2020.
+Gaver, Bill, and John Bowers. *Annotated Portfolios / Interactions*. <https://dl.acm.org/doi/10.1145/2212877.2212889>. Accessed 4 May 2020.
 
 Gaver, Bill, and Heather Martin. "Alternatives: Exploring Information Appliances through Conceptual Design Proposals." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, Association for Computing Machinery, 2000, pp. 209--16. *ACM Digital Library*, doi:[10.1145/332040.332433](https://doi.org/10.1145/332040.332433).
 
@@ -152,11 +152,11 @@ prado, luiza, and Pedro Oliveira. "Questioning the 'Critical' in Speculative & C
 
 Pulliam-Moore, Charles. "Marvel's 'Black Panther' Isn't Just Another Black Superhero." *NPR*, 16 Nov. 2014. *NPR*, <https://www.npr.org/sections/codeswitch/2014/11/11/363413255/marvels-black-panther-isnt-just-another-black-superhero>.
 
-Reinsborough, Patrick, and Doyle Canning. *Points of Intervention | Beautiful Trouble*. pp. 250--53. *beautifultrouble.org*, <https://beautifultrouble.org/theory/points-of-intervention/>. Accessed 4 May 2020.
+Reinsborough, Patrick, and Doyle Canning. *Points of Intervention / Beautiful Trouble*. pp. 250--53. *beautifultrouble.org*, <https://beautifultrouble.org/theory/points-of-intervention/>. Accessed 4 May 2020.
 
 Rohde, Mike. "Sketching: The Visual Thinking Power Tool." *A List Apart*, 25 Jan. 2011. *alistapart.com*, <https://alistapart.com/article/sketching-the-visual-thinking-power-tool/>.
 
-Russell, Joshua Kahn. *Take Leadership from the Most Impacted | Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/principle/take-leadership-from-the-most-impacted/>. Accessed 4 May 2020.
+Russell, Joshua Kahn. *Take Leadership from the Most Impacted / Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/principle/take-leadership-from-the-most-impacted/>. Accessed 4 May 2020.
 
 Sargent, Antwaun. "Afrofuturist Museum Mines Artifacts from the Future." *Vice*, 22 May 2016. *www.vice.com*, <https://www.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future>.
 
@@ -164,7 +164,7 @@ Schulz, Thomas. *Tomorrowland: How Silicon Valley Shapes Our Future*. *www.spi
 
 Scott, James C. "The High Modernist City." *Seeing like a State: How Certain Schemes to Improve the Human Condition Have Failed*, Yale University Press, 1998.
 
-Smucker, Jonathan Matthew. *Seek Common Ground | Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/principle/seek-common-ground/>. Accessed 4 May 2020.
+Smucker, Jonathan Matthew. *Seek Common Ground / Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/principle/seek-common-ground/>. Accessed 4 May 2020.
 
 Spinuzzi, Clay. "The Methodology of Participatory Design." *Technical Communication*, vol. 52, no. 2, Society for Technical Communication, May 2005, pp. 163--75.
 
@@ -180,7 +180,7 @@ Weber, Jasmine. "An Afrofeminist Project Uses Technology to Empower Marginalized
 
 Williams, Kaiton. "An Anxious Alliance." *Aarhus Series on Human Centered Computing*, vol. 1, no. 1, 1, Oct. 2015, pp. 11--11. *tidsskrift.dk*, doi:[10.7146/aahcc.v1i1.21146](https://doi.org/10.7146/aahcc.v1i1.21146).
 
-Winchester, Woodrow. *Afrofuturism, Inclusion, and the Design Imagination | ACM Interactions*. no. XXV, Apr. 2018, <http://interactions.acm.org/archive/view/march-april-2018/afrofuturism-inclusion-and-the-design-imagination>.
+Winchester, Woodrow. *Afrofuturism, Inclusion, and the Design Imagination / ACM Interactions*. no. XXV, Apr. 2018, <http://interactions.acm.org/archive/view/march-april-2018/afrofuturism-inclusion-and-the-design-imagination>.
 
 Womack, Ytasha. *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*. First edition., First edition., Chicago Review Press, 2013.
 
