@@ -11,10 +11,13 @@ The social impact of technologies is typically thought about fairly late, if eve
 
 Technical background is not needed for this course, but may be drawn upon if you have it.
 
+IGNORE THIS
+---
 {% for class in site.classes %}
   <h2>{{ class.name }} - {{ class.module }}</h2>
   <p>{{ class.content | markdownify }}</p>
 {% endfor %}
+---
 
 ### Course Philosophy
 
