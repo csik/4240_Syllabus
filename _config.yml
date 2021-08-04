@@ -9,3 +9,4 @@ collections:
     output: true
     permalink: /modules/:path/
 baseurl: "/4240_Syllabus/"
+title: "4240_Syllabus"

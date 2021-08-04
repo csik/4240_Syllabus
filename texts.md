@@ -2,7 +2,7 @@
 layout: default
 title: Texts
 ---
-
+## Course Texts
 ### Textbook
 
 The course uses a **course reader**, which you can purchase from the Cornell Store.
