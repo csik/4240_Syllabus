@@ -1,6 +1,6 @@
 ---
 title: Course Policies
-permalink: /course_policies
+permalink: /course_policies/
 layout: default
 ---
 
