@@ -27,7 +27,7 @@ Bannon, Liam J. "From Human Factors to Human Actors: The Role of Psychology and 
 
 Bennett, Michael. "What Black Panther Could Mean for the Afrofuturism Movement." *Slate Magazine*, 20 Feb. 2018. *slate.com*, <https://slate.com/technology/2018/02/what-black-panther-could-mean-for-the-afrofuturism-movement.html>.
 
-Bleecker, Julian. "Design Fiction: A Short Essay on Design, Science, Fact and Fiction." *Near Future Laboratory*, vol. 29, 2009.
+Bleecker, Julian. "Design Fiction: A Short Essay on Design, Science, Fact and Fiction." *Near Future Laboratory*, vol. 29, 2009. *nearfuturelaboratory*, <https://blog.nearfuturelaboratory.com/2009/03/17/design-fiction-a-short-essay-on-design-science-fact-and-fiction/>.
 
 Bogost, Ian. "Playing Politics: Videogames for Politics, Activism, and Advocacy." *First Monday*, Sept. 2006. *journals.uic.edu*, doi:[10.5210/fm.v0i0.1617](https://doi.org/10.5210/fm.v0i0.1617).
 
@@ -54,8 +54,6 @@ Crawford, Kate. "Opinion / Artificial Intelligence's White Guy Problem." *The N
 Davis, Ben. *A Critique of Social Practice Art / International Socialist Review*. *isreview.org*, <https://isreview.org/issue/90/critique-social-practice-art>. Accessed 4 May 2020.
 
 Dörk, Marian, et al. "Critical InfoVis: Exploring the Politics of Visualization." *CHI '13 Extended Abstracts on Human Factors in Computing Systems*, Association for Computing Machinery, 2013, pp. 2189--98. *ACM Digital Library*, doi:[10.1145/2468356.2468739](https://doi.org/10.1145/2468356.2468739).
-
-Downey, Gary, et al. "Engineering Cultures: Expanding the Engineering Method for Global Problem Solvers." *Ethnic Studies*, Jan. 2005.
 
 Dunne, Anthony, and Fiona Raby. *Design Noir: The Secret Life of Electronic Objects*. August, 2001.
 
@@ -84,8 +82,6 @@ Gaver, William, and Anthony Dunne. "Projected Realities: Conceptual Design for C
 Gillespie, Tarleton. "The Relevance of Algorithms." *Media Technologies*, The MIT Press. *www.universitypressscholarship.com*, <https://www.universitypressscholarship.com/view/10.7551/mitpress/9780262525374.001.0001/upso-9780262525374-chapter-9>. Accessed 4 May 2020.
 
 Hancock, Jay. "They Pledged to Donate Rights to Their COVID Vaccine, Then Sold Them to Pharma." *Kaiser Health News*, 25 Aug. 2020, <https://khn.org/news/rather-than-give-away-its-covid-vaccine-oxford-makes-a-deal-with-drugmaker/>.
-
-Herf, Jeffrey. "Reactionary Modernism: Technology, Culture, and Politics in Weimar and the Third Reich." *Fulcrum.Org*, Cambridge University Press.
 
 Hustwit, Gary. *Objectified*. 2009, <https://www.hustwit.com/objectified>.
 
@@ -119,15 +115,13 @@ Maack, Már Másson. "Whether Technology Is Good or Bad Depends on the People Th
 
 Mazzucato, Mariana. *Entrepreneurial State: Debunking Public vs. Private Myths in Risk and Innovation*. Anthem Press, 2013. *ProQuest Ebook Central*, <http://ebookcentral.proquest.com/lib/cornell/detail.action?docID=1076687>.
 
-McDonough, William, and Michael Braungart. "Towards a Sustaining Architecture for the 21st Century: The Promise of Cradle-to-Cradle Design." *Industry and Environment*, vol. 26, no. 2, 2003, pp. 13--16.
+McDonough, William, and Michael Braungart. "Towards a Sustaining Architecture for the 21st Century: The Promise of Cradle-to-Cradle Design." *Industry and Environment*, vol. 26, no. 2, 2003, pp. 13--16. *c2c-centre*, <http://www.c2c-centre.com/sites/default/files/McDonough%20-%20Towards%20a%20sustaining%20architecture%20for%20the%2021st%20century-%20the%20promise%20of%20cradle-to-cradle%20design_0.pdf>.
 
 Miranda, Carolina A., and Carolina A. Miranda. "How the Art of Social Practice Is Changing the World, One Row House at a Time." *ARTnews.Com*, 7 Apr. 2014. *www.artnews.com*, <https://www.artnews.com/art-news/news/art-of-social-practice-is-changing-the-world-one-row-house-at-a-time-2415/>.
 
 Nelson, Alondra. "'Making the Impossible Possible'AN INTERVIEW WITH NALO HOPKINSON." *Social Text*, vol. 20, no. 2 (71), Duke University Press, June 2002, pp. 97--113. *read.dukeupress.edu*, doi:[10.1215/01642472-20-2_71-97](https://doi.org/10.1215/01642472-20-2_71-97).
 
 Nissenbaum, H. "How Computer Systems Embody Values." *Computer*, vol. 34, no. 3, Mar. 2001, pp. 120--119. *IEEE Xplore*, doi:[10.1109/2.910905](https://doi.org/10.1109/2.910905).
-
-O'Mara, Margaret Pugh. *The Code: Silicon Valley and the Remaking of America*. Penguin Press, 2019.
 
 Papanek, Victor J. *Design for the Real World: Human Ecology and Social Change*. [1st American ed.], [1st American ed.], Pantheon Books, 1972.
 
@@ -137,7 +131,7 @@ Penny, Laurie. "Life-Hacks of the Poor and Aimless." *The Baffler*, July 2016.�
 
 "Persuasive Computers: Perspectives and Research Directions." *Proceedings of the SIGCHI Conference on Human Factors in Computing Systems*, ACM Press/Addison-Wesley Publishing Co., 1998, pp. 225--32. *ACM Digital Library*, doi:[10.1145/274644.274677](https://doi.org/10.1145/274644.274677).
 
-Pierce, James. *Working by Not Quite Working: Resistance as a Technique for Alternative and Oppositional Designs*.
+Pierce, James. *Working by Not Quite Working: Resistance as a Technique for Alternative and Oppositional Designs*. <https://kilthub.cmu.edu/articles/thesis/Working_by_Not_Quite_Working_Resistance_as_a_Technique_for_Alternative_and_Oppositional_Designs/6724283>.
 
 Pierce, James, and Eric Paulos. "Some Variations on a Counterfunctional Digital Camera." *Proceedings of the 2014 Conference on Designing Interactive Systems*, Association for Computing Machinery, 2014, pp. 131--40. *ACM Digital Library*, doi:[10.1145/2598510.2602968](https://doi.org/10.1145/2598510.2602968).
 
@@ -163,7 +157,7 @@ Scott, James C. "The High Modernist City." *Seeing like a State: How Certain Sc
 
 Smucker, Jonathan Matthew. *Seek Common Ground / Beautiful Trouble*. *beautifultrouble.org*, <https://beautifultrouble.org/principle/seek-common-ground/>. Accessed 4 May 2020.
 
-Spinuzzi, Clay. "The Methodology of Participatory Design." *Technical Communication*, vol. 52, no. 2, Society for Technical Communication, May 2005, pp. 163--75.
+Spinuzzi, Clay. "The Methodology of Participatory Design." *Technical Communication*, vol. 52, no. 2, Society for Technical Communication, May 2005, pp. 163--75. <https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf>.
 
 Star, Susan Leigh, and Geoffrey C. Bowker. "How to Infrastructure." *Handbook of New Media: Social Shaping and Social Consequences of ICTs, Updated Student Edition*, SAGE Publications Ltd, 2010, pp. 230--45. *SAGE Knowledge*, doi:[10.4135/9781446211304](https://doi.org/10.4135/9781446211304).
 
@@ -179,6 +173,6 @@ Williams, Kaiton. "An Anxious Alliance." *Aarhus Series on Human Centered Compu
 
 Winchester, Woodrow. *Afrofuturism, Inclusion, and the Design Imagination / ACM Interactions*. no. XXV, Apr. 2018, <http://interactions.acm.org/archive/view/march-april-2018/afrofuturism-inclusion-and-the-design-imagination>.
 
-Womack, Ytasha. *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*. First edition., First edition., Chicago Review Press, 2013.
+Womack, Ytasha. *Afrofuturism: The World of Black Sci-Fi and Fantasy Culture*. First edition., First edition., Chicago Review Press, 2013. <https://ebookcentral-proquest-com.proxy.library.cornell.edu/lib/cornell/detail.action?docID=1381831>.
 
-Yaszek, Lisa. "Race in Science Fiction: The Case of Afrofuturism." *Virtual-SF*, 2013, p. 11.
+Yaszek, Lisa. "Race in Science Fiction: The Case of Afrofuturism." *Virtual-SF*, 2013, p. 11. <http://virtual-sf.com/wp-content/uploads/2013/08/Yaszek.pdf>.

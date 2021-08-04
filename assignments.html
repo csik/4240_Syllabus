@@ -1,0 +1,11 @@
+---
+layout: default
+title: Assignments and Grading
+---
+<html>
+    
+{% capture my_include %}{% include_relative assignments.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+
+</html>

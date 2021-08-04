@@ -1,0 +1,12 @@
+---
+layout: default
+title: Schedule
+---
+
+<html>
+    
+{% capture my_include %}{% include_relative schedule.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+
+</html>
