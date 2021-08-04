@@ -1,7 +1,7 @@
-
 ---
 title: Copyright & Sharing
 ---
+
 ### Copyright policy
 
 #### Disseminating course materials
