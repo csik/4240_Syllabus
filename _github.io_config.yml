@@ -1,0 +1,13 @@
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: csik/minimal
+collections:
+  classes:
+    output: true
+    permalink: /classes/:path/
+  modules:
+    output: true
+    permalink: /modules/:path/
+url: "https://csik.github.io"
+baseurl: "/4240_Syllabus/"
+title: "4240_Syllabus"
