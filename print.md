@@ -3,7 +3,7 @@ layout: print
 title: Print
 ---
 ### Print Edition
-An up to date version of this syllabus may be found at [https://csik.github.io{{ site.baseurl }}](https://csik.github.io{{ site.baseurl }}).
+An up to date version of this syllabus may be found at [{{ site.url }}{{ site.baseurl }}/]({{ site.url }}{{ site.baseurl }}/).
 
 {% include_relative index.md %}
 ---

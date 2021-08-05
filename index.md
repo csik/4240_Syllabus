@@ -51,4 +51,4 @@ Upon completion of this course, students will be able to:
 
 You can explore the rest of the syllabus through the navbar on the left of this page by clicking on the other syllabus topics. If you have questions, please contact instructor Prof. Csikszentmihalyi, at [cpc83 at cornell.edu](mailto:cpc83@cornell.edu).
 
-You can download the full syllabus with all information in a [print-friendly format]({{ site.url }}{{ site.baseurl }}print).
+You can download the full syllabus with all information in a [print-friendly format]({{ site.url }}{{ site.baseurl }}/print).

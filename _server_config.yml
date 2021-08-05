@@ -8,6 +8,6 @@ collections:
   modules:
     output: true
     permalink: /modules/:path/
-baseurl: "/4240_Syllabus"
-url: "http://localhost:4000"
+url: "https://courses.infosci.cornell.edu"
+baseurl: "/info4240/2021fa"
 title: "4240_Syllabus"
