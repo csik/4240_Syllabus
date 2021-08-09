@@ -30,7 +30,7 @@ We do not excuse individual absences in this course. We understand that people w
 
 ### Final exam
 
-The final exam will be a written exam where you craft a critically engaged design analysis and exploration on a topic in current events. You'll be allowed to choose from several of the design strategies covered in the course. The exam questions (minus the topic and which strategies to use) will be released in early so that you can prepare for it.
+The final exam will be a written exam where you craft a critically engaged design analysis and exploration on a topic in current events. You'll be allowed to choose from several of the design strategies covered in the course. The exam questions (minus the topic and which strategies to use) will be released before exam period so that you can prepare for it.
 
 ## Grade breakdown
 

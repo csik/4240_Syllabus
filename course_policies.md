@@ -39,7 +39,7 @@ Some other resources that might be of use include:
 
 1.  [Office of Student Disability Services](https://sds.cornell.edu/)
 2.  [Cornell Health CAPS (Counseling & Psychological Services)](https://health.cornell.edu/services/counseling-psychiatry)
-3.  Undocumented/DACA Student support: In the Dean of Students office, contact Kevin Graham ( Kevin.Graham @ cornell.edu ) and see [this list of campus resources](https://dos.cornell.edu/undocumented-daca-support/undergraduate-admissions-financial-aid)
+3.  Undocumented/DACA Student support: In the Dean of Students office, contact Kevin Graham (Kevin.Graham @ cornell.edu) and see [this list of campus resources](https://dos.cornell.edu/undocumented-daca-support/undergraduate-admissions-financial-aid)
 
 ### Regrade policy and grading explanations
 

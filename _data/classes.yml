@@ -1,0 +1,199 @@
+  - date: 2021-08-25
+    type: module
+    slug: mIntroduction
+
+  - date: 2021-08-26
+    type: lecture
+    slug: lTDSI
+
+  - date: 2021-08-27
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-08-31
+    type: lecture
+    slug: lValuesInDesign
+
+  - date: 2021-09-02
+    type: lecture
+    slug: lSpeculativeDesgn
+
+  - date: 2021-09-03
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-09-07
+    type: lecture
+    slug: lRespondingToReadings
+
+  - date: 2021-09-09
+    type: lecture
+    slug: lImpact
+
+  - date: 2021-09-10
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-09-14
+    type: lecture
+    slug: lCaseModernist
+
+  - date: 2021-09-15
+    type: module
+    slug: mDesignLegislation
+
+  - date: 2021-09-16
+    type: lecture
+    slug: lPersuasiveComputing
+
+  - date: 2021-09-17
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-09-21
+    type: lecture
+    slug: lPoliInfoVis
+
+  - date: 2021-09-23
+    type: lecture
+    slug: lPoliGames
+
+  - date: 2021-09-24
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-09-28
+    type: lecture
+    slug: lPersuationCoercion
+
+  - date: 2021-09-30
+    type: lecture
+    slug: lExpandingFraming
+
+  - date: 2021-10-01
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-10-02
+    type: module
+    slug: mInfrastructuring
+
+  - date: 2021-10-05
+    type: lecture
+    slug: lPoliticsAlgorithms
+
+  - date: 2021-10-07
+    type: lecture
+    slug: lInfrastructure
+
+  - date: 2021-10-08
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-10-12
+    type: holiday
+    slug: hFallBreak 
+
+  - date: 2021-10-14
+    type: lecture
+    slug: lAlgorithmicFairness
+
+  - date: 2021-10-15
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-10-19
+    type: lecture
+    slug: lData-DrivenWork
+
+  - date: 2021-10-21
+    type: lecture
+    slug: lInfrastructuralActivism
+
+  - date: 2021-10-22
+    type: section
+    slug: sSectionBlank
+ 
+  - date: 2021-10-23
+    type: module
+    slug: mExpandingParticipation
+
+  - date: 2021-10-26
+    type: lecture
+    slug: lParticipatoryDesign
+
+  - date: 2021-10-28
+    type: lecture
+    slug: lDialogicArtPractice
+
+  - date: 2021-10-29
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-11-02
+    type: lecture
+    slug: lCivicConversations
+
+  - date: 2021-11-03
+    type: module
+    slug: mDesigningImagination
+
+  - date: 2021-11-04
+    type: lecture
+    slug: lNarrativeImpact
+
+  - date: 2021-11-05
+    type: section
+    slug: sSectionBlank 
+
+  - date: 2021-11-09
+    type: lecture
+    slug: lMentalHealthDay1
+
+  - date: 2021-11-11
+    type: lecture
+    slug: lCriticalDesign
+
+  - date: 2021-11-12
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-11-16
+    type: lecture
+    slug: lCriticalDesignWorkshop
+
+  - date: 2021-11-18
+    type: lecture
+    slug: lAfrofuturism
+
+  - date: 2021-11-19
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-11-23
+    type: lecture
+    slug: lFinalReview
+
+  - date: 2021-11-25
+    type: holiday
+    slug: hThanksgiving
+
+  - date: 2021-11-26
+    type: holiday
+    slug: hDayAfterThanksgiving
+
+  - date: 2021-11-30
+    type: lecture
+    slug: lSiliconValley
+
+  - date: 2021-12-02
+    type: lecture
+    slug: lBeyondSV
+
+  - date: 2021-12-03
+    type: section
+    slug: sSectionBlank
+
+  - date: 2021-12-07
+    type: lecture
+    slug: lCourseConclusion

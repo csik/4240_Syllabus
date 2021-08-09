@@ -1,0 +1,14 @@
+pages:
+  - name: Home
+    url: index.html
+  - name: Policies
+    url: "course_policies.html"
+  - name: Assignments
+    url: assignments.html
+  - name: Schedule
+    url: schedule.html
+  - name: Texts
+    url: texts.html
+  - name: Copyright
+    url: copyright.html
+

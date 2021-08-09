@@ -11,14 +11,6 @@ The social impact of technologies is typically thought about fairly late, if eve
 
 Technical background is not needed for this course, but may be drawn upon if you have it.
 
-IGNORE THIS
----
-{% for class in site.classes %}
-  <h2>{{ class.name }} - {{ class.module }}</h2>
-  <p>{{ class.content | markdownify }}</p>
-{% endfor %}
----
-
 ### Course Philosophy
 
 Across the contemporary world, technologies are an intimate part of everyone's daily lives. The act of designing technologies does not simply create efficiencies or functionality; it also offers possibilities for (and constraints on) on our possibile actions, ways of looking at the world, and modes through which we can relate to one another. Designs thus, intentionally or not, embody values---ones we as a community of users sometimes accept, sometimes reject, sometimes build on, and sometimes alter.

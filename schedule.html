@@ -1,12 +1,9 @@
 ---
-layout: default
+layout: home
 title: Schedule
+nav_name: Schedule
 ---
 
-<html>
-    
 {% capture my_include %}{% include_relative schedule.md %}{% endcapture %}
-    {{ my_include | markdownify }}
 
-
-</html>
+{{ my_include | markdownify }}

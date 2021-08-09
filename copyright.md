@@ -6,25 +6,5 @@
 
 ### Reusing material on this site
 
-Other instructors are welcome to reuse materials, texts, assignment descriptions, policies, or anything else you find useful on this publically available webpage. You do not need to ask permission, although we appreciate hearing it if it's been useful to you!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Other instructors from anywhere in the world are welcome to reuse materials, texts, assignment descriptions, policies, or anything else you find useful on this publically available webpage. You do not need to ask permission, although we appreciate hearing it if it's been useful to you!
 
