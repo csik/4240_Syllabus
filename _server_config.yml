@@ -5,6 +5,6 @@ collections:
   classes:
     output: true
     permalink: /classes/:path/
-url: "https://courses.infosci.cornell.edu"
 baseurl: "/info4240/2021fa"
+url: "https://courses.infosci.cornell.edu"
 title: "4240_Syllabus"
