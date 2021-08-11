@@ -135,7 +135,7 @@ Readings:
 </div>
 
 {% elsif class.type == "holiday" %}
-<div class="section" id="rPerClass" style="width:100%">
+<div class="holiday" id="rPerClass" style="width:100%">
 <div class="titleparent">
 <div class="two-column2">
 <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
