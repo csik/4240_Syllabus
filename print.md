@@ -3,7 +3,7 @@ layout: home
 title: Print
 nav_name: Print
 ---
-### Print Edition
+# Print Edition
 An up to date version of this syllabus may be found at [{{ site.url }}{{ site.baseurl }}/]({{ site.url }}{{ site.baseurl }}/).
 
 {% include_relative index.md %}
@@ -13,6 +13,8 @@ An up to date version of this syllabus may be found at [{{ site.url }}{{ site.ba
 {% include_relative assignments.md %}
 ---
 {% include_relative copyright.md %}
+---
+{% include_relative 5240.md %}
 ---
 {% include_relative schedule.md %}
 ---

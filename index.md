@@ -1,4 +1,4 @@
-INFO/STS 4240: Designing Technologies for Social Impact
+INFO/STS 4240/5240: Designing Technologies for Social Impact
 =======================================================
 
 # Course Description
@@ -11,7 +11,7 @@ The social impact of technologies is typically thought about fairly late, if eve
 
 Technical background is not needed for this course, but may be drawn upon if you have it.
 
-### Course Philosophy
+## Course Philosophy
 
 Across the contemporary world, technologies are an intimate part of everyone's daily lives. The act of designing technologies does not simply create efficiencies or functionality; it also offers possibilities for (and constraints on) on our possibile actions, ways of looking at the world, and modes through which we can relate to one another. Designs thus, intentionally or not, embody values---ones we as a community of users sometimes accept, sometimes reject, sometimes build on, and sometimes alter.
 
@@ -26,7 +26,7 @@ These questions cross between two domains which are not often brought into conve
 
 This course is oriented to an advanced undergraduate and master's student audience. An ability to read critically and willingness to take intellectual risks are essential in this course.
 
-### Learning objectives
+## Learning objectives
 
 Upon completion of this course, students will be able to:
 
@@ -39,8 +39,12 @@ Upon completion of this course, students will be able to:
 - Recognize and comment on issues in values and design in everyday life
 - Construct a compelling argument that builds on documented evidence and the arguments of others
 
-### For further information
+## 5240
 
-You can explore the rest of the syllabus through the navbar on the left of this page by clicking on the other syllabus topics. If you have questions, please contact instructor Prof. Csikszentmihalyi, at [cpc83 at cornell.edu](mailto:cpc83@cornell.edu).
+Graduate students taking this course are registered in 5240, which covers everything in 4240 but adds a parallel layer to the course of 1) understanding the organizational aspect of design for social impact: who is making the design and why? What are the relationships between various entity models (e.g. individual, corporate, non-profit, F/LOSS) and the sorts of designs and impacts they can foster? 2) extra assignments to codify and convey that understanding. For more details check the [5240 tab above]({{ site.url }}{{ site.baseurl }}/5240.html).
+
+## For further information
+
+You can explore the rest of the syllabus through the navbar at the top of this page by clicking on the other syllabus topics. If you have questions, please contact instructor Prof. Csikszentmihalyi, at [cpc83 at cornell.edu](mailto:cpc83@cornell.edu).
 
 You can download the full syllabus with all information in a [print-friendly format]({{ site.url }}{{ site.baseurl }}/print).
