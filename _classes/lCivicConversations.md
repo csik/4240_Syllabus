@@ -2,7 +2,7 @@
 title: "Creating Civic Conversations"
 type: lecture
 readings:
-  - "Erete and Burrell: [Empowered Participation](http://library.usc.edu.ph/ACM/CHI%202017/1proc/p2307.pdf)"
+  - "Erete and Burrell: [Empowered Participation](https://doi.org/10.1145/3025453.3025996)"
   - "Asad and LeDantec: [Creating the Atlanta Community Engagement Playbook](https://www.atlantastudies.org/2017/11/09/mariam-asad-and-christopher-le-dantec-creating-the-atlanta-community-engagement-playbook/)"
 ---
 How can technologies be used by citizens to have a say in how they are governed? What role can designers play to support such conversations?

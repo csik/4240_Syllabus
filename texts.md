@@ -49,7 +49,7 @@ Consolvo, Sunny, et al. "Designing for Behavior Change in Everyday Life." *Comp
 
 Crawford, Kate. "Opinion / Artificial Intelligence's White Guy Problem." *The New York Times*, 25 June 2016. *NYTimes.com*, <https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html>.
 
-"DataVizChallenge.Org: Visualize Your Taxes." *DataVizChallenge.Org*. *www.datavizchallenge.org*, <http://datavizchallenge.org/>. Accessed 4 May 2020.
+"DataVizChallenge.Org: Visualize Your Taxes." *DataVizChallenge.Org*. *www.datavizchallenge.org*, <http://datavizchallenge.org/>. Accessed 4 May 2020. **Note: This resource may have been taken down by Google. See video about it here:** <https://www.youtube.com/watch?v=N118ePe_uzk>.
 
 Davis, Ben. *A Critique of Social Practice Art / International Socialist Review*. *isreview.org*, <https://isreview.org/issue/90/critique-social-practice-art>. Accessed 4 May 2020.
 

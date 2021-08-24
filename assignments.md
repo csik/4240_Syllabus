@@ -2,7 +2,7 @@
 
 ## Reading
 
-The foundation for your work in this class are the **course readings**, which contain the core course content. 
+The foundation for your work in this class are the **course readings**, which contain the core course content.
 
 You are expected to 1) have thoughtfully read the day's reading **before** coming to class, 2) taken notes on the author's ideas and arguments, and 3) your thoughts in response. Course readings vary considerably in discipline and difficulty; be aware that a reading's text length may not correlate to your reading time.
 
@@ -43,7 +43,7 @@ Grading is not just a matter of numbers, but also of case-based judgment. The in
 
 # Academic Integrity
 
-Our expectation is that you are generally aware of the need for academic integrity and self-motivated to achieve it. Issues with academic integrity that have come up in this course in the past have typically arisen because a student was unaware of the specific requirements of [academic integrity at Cornell](http://cuinfo.cornell.edu/Academic/AIC.html), rather than students trying to "game the system" for their own advantage. Some examples of situations encountered include:
+Our expectation is that you are generally aware of the need for academic integrity and self-motivated to achieve it. Issues with academic integrity that have come up in this course in the past have typically arisen because a student was unaware of the specific requirements of [academic integrity at Cornell](https://theuniversityfaculty.cornell.edu/dean/academic-integrity/code-of-academic-integrity/), rather than students trying to "game the system" for their own advantage. Some examples of situations encountered include:
 
 -   Not knowing how to properly cite or use non-academic on-line sources, informal sources such as another student's comments in class, or another person's ideas (as opposed to their words)
 -   Not being aware when doing literature reviews that close paraphrasing of someone else's text is considered a form of plagiarism, even when the original text is cited
