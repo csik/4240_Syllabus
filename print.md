@@ -8,7 +8,7 @@ An up to date version of this syllabus may be found at [{{ site.url }}{{ site.ba
 
 {% include_relative index.md %}
 ---
-{% include_relative course_policies.md %}
+{% include_relative policies.md %}
 ---
 {% include_relative assignments.md %}
 ---

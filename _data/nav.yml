@@ -2,7 +2,7 @@ pages:
   - name: Home
     url: index.html
   - name: Policies
-    url: "course_policies.html"
+    url: "policies.html"
   - name: Assignments
     url: assignments.html
   - name: Schedule
