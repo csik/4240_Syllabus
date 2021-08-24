@@ -1,7 +1,7 @@
 # Course Texts
 ## Textbook
 
-The course uses a "digital only" [course reader](https://www.vitalsource.com/products/designing-technoloy-for-social-impact-christopher-csikszentmihalyi-v9781649504975?term=9781649504975), which you can purchase from the Cornell Store. We only include articles or chapters that cannot be shared any other (legal) way. There is no paper reader -- once purchased you will be able to download it.
+The course uses a "digital only" [course reader](https://cornellstore.vitalsource.com/products/designing-technoloy-for-social-impact-christopher-csikszentmihalyi-v9781649504975?term=9781649504975), which you can purchase from the Cornell Store. We only include articles or chapters that cannot be shared any other (legal) way. There is no paper reader -- once purchased you will be able to download it.
 
 The rest of the course readings are available on-line. To access many of these readings through the links, you will need to be on the Cornell network, or logged in to the Cornell library through a proxy using your NetID. You can find out more about how to do this [here](https://www.library.cornell.edu/services/apps/passkey).
 

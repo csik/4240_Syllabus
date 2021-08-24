@@ -41,7 +41,7 @@ Upon completion of this course, students will be able to:
 
 ## 5240
 
-Graduate students taking this course are registered in 5240, which covers everything in 4240 but adds a parallel layer to the course of 1) understanding the organizational aspect of design for social impact: who is making the design and why? What are the relationships between various entity models (e.g. individual, corporate, non-profit, F/LOSS) and the sorts of designs and impacts they can foster? 2) extra assignments to codify and convey that understanding. For more details check the [5240 tab above]({{ site.url }}{{ site.baseurl }}/5240.html).
+Graduate students taking this course are registered in 5240, which covers everything in 4240 but adds a parallel layer to the course of 1) understanding the organizational aspect of design for social impact: who is making the design and why? What are the relationships between various entity models (e.g. individual, corporate, non-profit, F/LOSS) and the sorts of designs and impacts they can foster? And 2) extra assignments to codify and convey that understanding. For more details check the [5240 tab above]({{ site.url }}{{ site.baseurl }}/5240.html).
 
 ## For further information
 
