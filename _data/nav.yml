@@ -9,8 +9,8 @@ pages:
     url: schedule.html
   - name: Texts
     url: texts.html
-  - name: Copyright
-    url: copyright.html
+  - name: Updates
+    url: updates.html
   - name: 5240
     url: 5240.html
 
