@@ -1,14 +1,14 @@
 ---
 layout: home
 title: Updates
+nav_name: Updates
 ---
 <h1>Updates</h1>
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
+      <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{post.date | date: "%a, %b %d"}} – {{ post.title }}</a></h2>
     </li>
   {% endfor %}
 </ul>
