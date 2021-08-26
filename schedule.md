@@ -2,6 +2,8 @@
 {% assign lectcount = 1 %}
 {% assign sectcount = 1 %}
 {% assign modcount = 1 %}
+{% assign asscount = 1 %}
+{% assign asscount = 1 %}
 
 <style>
 .tdate {
@@ -67,6 +69,17 @@ th, td {
   min-height: 0;
   overflow-wrap: normal;
 }
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  50% {
+    opacity: 0;
+  }
+}
+
 </style>
 
 {% for class in site.data.classes %}
@@ -134,12 +147,27 @@ Readings:
 {% assign sectcount = sectcount | plus: 1 %}
 </div>
 
+{% elsif class.type == "assignment" %}
+<div class="assignment" id="rPerClass" style="width:100%">
+<div class="titleparent">
+<div class="two-column2">
+<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span class="tnumber"> ASSIGNMENT{{ asscount | prepend: '00' | slice: -2, 2 }}</span>
+</div>
+<div class="two-column1">
+<h3><span class="ttitle"><div class="blink_me"> {{ node.title }} </div></span></h3>
+</div>
+</div>
+{{ node.content | markdownify}}
+{% assign asscount = asscount | plus: 1 %}
+</div>
+
 {% elsif class.type == "holiday" %}
 <div class="holiday" id="rPerClass" style="width:100%">
 <div class="titleparent">
 <div class="two-column2">
 <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
-<span class="tnumber"> ¡H!{{ sectcount | prepend: '00' | slice: -2, 2 }}</span>
+<span class="tnumber"> ¡H!</span>
 </div>
 <div class="two-column1">
 <h3><span class="ttitle"> {{ node.title }}</span></h3>

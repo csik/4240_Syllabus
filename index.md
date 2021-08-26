@@ -48,3 +48,5 @@ Graduate students taking this course are registered in 5240, which covers everyt
 You can explore the rest of the syllabus through the navbar at the top of this page by clicking on the other syllabus topics. If you have questions, please contact instructor Prof. Csikszentmihalyi, at [cpc83 at cornell.edu](mailto:cpc83@cornell.edu).
 
 You can download the full syllabus with all information in a [print-friendly format]({{ site.url }}{{ site.baseurl }}/print).
+
+**Important Note:** This syllabus is written in good faith to indicate as well as possible the arc of the course. Things may change, expecially in a pandemic semester. 

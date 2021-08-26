@@ -22,6 +22,10 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2021-09-05
+    type: assignment
+    slug: aDWCI
+
   - date: 2021-09-07
     type: lecture
     slug: lRespondingToReadings
@@ -50,6 +54,10 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2021-09-19
+    type: assignment
+    slug: aDW1
+
   - date: 2021-09-21
     type: lecture
     slug: lPoliInfoVis
@@ -61,6 +69,10 @@
   - date: 2021-09-24
     type: section
     slug: sSectionBlank
+  
+  - date: 2021-09-26
+    type: assignment
+    slug: aMP1
 
   - date: 2021-09-28
     type: lecture
@@ -77,6 +89,10 @@
   - date: 2021-10-02
     type: module
     slug: mInfrastructuring
+
+  - date: 2021-10-03
+    type: assignment
+    slug: aDW2
 
   - date: 2021-10-05
     type: lecture
@@ -118,6 +134,10 @@
     type: module
     slug: mExpandingParticipation
 
+  - date: 2021-10-24
+    type: assignment
+    slug: aDW3
+
   - date: 2021-10-26
     type: lecture
     slug: lParticipatoryDesign
@@ -146,6 +166,10 @@
     type: section
     slug: sSectionBlank 
 
+  - date: 2021-11-07
+    type: assignment
+    slug: aDW4
+
   - date: 2021-11-09
     type: lecture
     slug: lMentalHealthDay1
@@ -170,6 +194,10 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2021-11-20
+    type: assignment
+    slug: aDW5
+
   - date: 2021-11-23
     type: lecture
     slug: lFinalReview
@@ -182,6 +210,10 @@
     type: holiday
     slug: hDayAfterThanksgiving
 
+  - date: 2021-11-27
+    type: module 
+    slug: mForwardOutward
+
   - date: 2021-11-30
     type: lecture
     slug: lSiliconValley
@@ -193,6 +225,10 @@
   - date: 2021-12-03
     type: section
     slug: sSectionBlank
+
+  - date: 2021-12-05
+    type: assignment
+    slug: aDW6
 
   - date: 2021-12-07
     type: lecture
