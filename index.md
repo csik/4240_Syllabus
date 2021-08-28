@@ -4,7 +4,7 @@ INFO/STS 4240/5240: Designing Technologies for Social Impact
 # Course Description
 
 **Instructors:** Prof. Chris Csíkszentmihályi (with special guest Prof. Phoebe Sengers)\
-**Lecture:** Tu, Th 1:00pm - 2:15pm ; required short pre-lecture video available through Canvas\
+**Lecture:** Tu, Th 1:00pm - 2:15pm\
 **Sections:** Fridays, [various times and locations](https://classes.cornell.edu/browse/roster/FA21/class/INFO/4240)
 
 The social impact of technologies is typically thought about fairly late, if ever, in the design process. Indeed, it can be difficult at design time to predict what effects technologies will have. Nevertheless, design decisions always "lock in" particular social values early on. In this course, we will draw on science & technology studies, technology design, and the arts to analyze the values embodied in technology design, and to design technologies to promote positive social impact. How can we "read" what social and cultural values technology designs consciously or unconsciously promote? To what degree can social impact be "written into" a technology? How can we take social and cultural values into account in design?

@@ -6,9 +6,11 @@ The foundation for your work in this class are the **course readings**, which c
 
 You are expected to 1) have thoughtfully read the day's reading **before** coming to class, 2) taken notes on the author's ideas and arguments, and 3) your thoughts in response. Course readings vary considerably in discipline and difficulty; be aware that a reading's text length may not correlate to your reading time.
 
-## Lecture prep
+## Lecture
 
-Once you've reviewed the course readings, you will watch a **lecture pre-video**, which will introduce the major concepts that the lecture will cover. These pre-videos allow you to have more flexibility in how and when you engage the course material. Once you've watched the pre-video, you will take a **quiz**. The purpose of the quiz is not to 'test' you but to improve your understanding and retention of the material by having you immediately apply the material you just learned about. It also gives you immediate feedback about how well you understood the material, so you know if you need to review the readings and pre-video in more depth. You may take the quiz as many times as you like to improve your score. You will get full credit for a quiz taken before the scheduled lecture time, and half credit if the quiz is taken after the scheduled lecture.
+You are responsile for being attentive in lecture, and taking notes. You should be keeping an ear out for the main points of the lecture -- often they will be said several times in slightly different ways. We will rarely if ever ask you to recount a date, specific fact, or name from a lecture, but if we mention a name or event you should be familiar with it. An example from the first lecture: You should have written down the main arguments that Nissenbaum and Papenek made, and have a good idea of why OLPC ran into trouble in the field. 
+
+After most lectures you'll have until the following lecture to answer a short Canvas quiz. The quiz will ask some fairly simple questions that refer to the lecture. If you can answer all the questions without a problem, you've mastered the important points of the lecture. If you miss them, you're going to want to either 1) take more careful notes, or 2) think a bit longer before answering; sometimes the question won't be clear but if you think about individual parts of the story you'll be able to derive it.
 
 ## Design workbooks
 
@@ -24,7 +26,7 @@ Over the course of the semester, you will have several **design mini-projects**
 
 Your **participation in class** is essential to your success in the course. In class we will analyze, build on, and debate about the course readings; practice design skills; work on homeworks; and engage in other activities to aid your facility in the course material. We cover material in lecture and section that is not available through any other means.
 
-Sections are not recorded to allow for the privacy of section participants and their contributions. You may note that sections don't formally affect your grade, but we strongly encourage you to attend unless you are ill, because sections help prepare you for every assignment in the course. How much does attending section help? In previous years, students who did not significantly engage in section received, on average, a full letter lower final grade compared to students who attended regularly!
+Sections are not recorded to allow for the privacy of section participants and their contributions. Lectures are not recorded because we've found that students who watch videos of lectures retain far less than if they come in person. We're trying to help you get a good grade. You may note that sections don't formally affect your grade, but we strongly encourage you to attend unless you are ill, because sections help prepare you for every assignment in the course. How much does attending section help? In previous years, students who did not significantly engage in section received, on average, a full letter lower final grade compared to students who attended regularly!
 
 We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material.
 
