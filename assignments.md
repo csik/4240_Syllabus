@@ -1,3 +1,10 @@
+## Individual assignments
+- [Design Workbook](dw) 
+- [Miniproject 1: Persuasive technology OR Political Visualization](mp1)
+- [Miniproject 2: Infrastructural design](mp2)
+- [Miniproject 3: Participatory design](mp3)
+- [Miniproject 4: Critical design](mp4)
+
 # Assignments Overview
 
 ## Reading
@@ -14,13 +21,13 @@ After most lectures you'll have until the following lecture to answer a short Ca
 
 ## Design workbooks
 
-Over the course of the semester, you will document your thoughts and ideas in response to the readings in a **design workbook.** Each page in your workbook will identify a specific idea from the author's arguments that caught your attention, and explore its implications through a rough design sketch, annotated with thoughts about how your design relates to, extends, challenges, or otherwise explores the author's idea you chose to respond to. At the end of each **unit**, you will submit the portion of your design workbook that responds to readings **from that unit**. We strongly suggest that you write up each design response directly after finishing the corresponding reading, rather than waiting until the end of the unit. You should expect each design response in your workbook to take about 20 minutes to execute. If you find it taking significantly longer, please visit office hours for aid in tuning up your strategies for crafting responses.
+Over the course of the semester, you will document your thoughts and ideas in response to the readings in a **design workbook.** Each page in your workbook will identify a specific idea from the author's arguments that caught your attention, and explore its implications through a rough design sketch, annotated with thoughts about how your design relates to, extends, challenges, or otherwise explores the author's idea you chose to respond to. At the end of each **module**, you will submit the portion of your design workbook that responds to readings **from that module**. We strongly suggest that you write up each design response directly after finishing the corresponding reading, rather than waiting until the end of the module. You should expect each design response in your workbook to take about 20 minutes to execute. If you find it taking significantly longer, please visit office hours for aid in tuning up your strategies for crafting responses.
 
 These workbooks are central to the course, and we encourage you to have fun with them. That said, the key to doing them successfully is to **show that you understood the reading**. At their core, they are like a book review that you can use as a springboard to synthesize something creative each week. But remember: show mastery of the reading first!
 
 ## Design mini-projects
 
-Over the course of the semester, you will have several **design mini-projects** which will help you develop facility in some of the design methods we are learning about in the course. These are each structured a bit differently, and one involves a partner. They are slightly more work than a unit's workbooks.
+Over the course of the semester, you will have several **design mini-projects** which will help you develop facility in some of the design methods we are learning about in the course. These are each structured a bit differently, and one involves a partner. They are slightly more work than a module's workbooks.
 
 ## Class participation
 
