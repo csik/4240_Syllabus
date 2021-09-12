@@ -1,5 +1,5 @@
 ---
- title: "Speculative Design"
+ title: "Speculative Workbooks"
  type: lecture
  slug: lValuesInDesign
  readings:
