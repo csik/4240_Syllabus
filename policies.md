@@ -1,4 +1,38 @@
+<style type="text/css">
+    
+    table {
+        width: 100%;
+    	border: none;
+    	border-spacing: 10px;
+    }
+    table td {
+    	padding: 5px;
+    }
+    table tr {
+    	padding: 2px;
+    }
+    
+</style>
+
 # Course Policies
+
+## Office Hours
+
+| Tuesday | 5-6PM | zoom | Noah | <https://cornell.zoom.us/j/9105553263?pwd=Yk9Lc0lkMWFzNjZneUhrQlovOGgvdz09> |
+| Thursday | 3-4PM | zoom | Sharon | <https://cornell.zoom.us/j/96255371212?pwd=RVdMVFFadXJSWGRmY0ZNM2FSQStQUT09> |
+| Thursday | 8-9PM | zoom | Cristie | <https://cornell.zoom.us/j/9193792562?pwd=K0ViajFIdHNMV281bDRxNW4vbXNJQT09> |
+| Thursday | 9-10PM | zoom | Noah  | <https://cornell.zoom.us/j/9105553263?pwd=Yk9Lc0lkMWFzNjZneUhrQlovOGgvdz09> |
+| Friday | 10-11AM | zoom | Emilie | <https://cornell.zoom.us/j/91949372289?pwd=SitncVJrNWtwVG80aDV6ZzJuK1Njdz09> |
+| Friday | 11AM-12PM | Rhodes 402 | John | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Friday | 4-5PM | zoom | Kehui | <https://cornell.zoom.us/j/3498465659?pwd=QVlGZWhvTUNGVEtBZ3BpWjRYSHlOZz09> |
+| Friday | 5-6PM | Rhodes 402 | Skyler | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Friday | 6-7PM | zoom | John | <https://cornell.zoom.us/j/8916462820?pwd=WVEwci9DejRFNERYeGJqc3VweDZNdz09> |
+| Saturday | 11AM-12PM | zoom | Ann | <https://cornell.zoom.us/j/96773436476?pwd=WlJNZGVPWCttS2RsU28walEvWE5iQT09> |
+| Saturday | 3-4PM | zoom | Jenn | <https://cornell.zoom.us/j/6366370855?pwd=MysxbVhaVWxFZk4rMDlDQ3RTT09Idz09> |
+| Sunday | 9-10AM | zoom | Ann | <https://cornell.zoom.us/j/96773436476?pwd=WlJNZGVPWCttS2RsU28walEvWE5iQT09> |
+| Sunday | 10-11AM | Rhodes 402 | Kassidy | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Sunday | 12-1PM | Rhodes 402 | Jenn | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Sunday | 1-2PM | zoom | Patricio | <https://cornell.zoom.us/j/97722055112?pwd=REQzNHE4WFNvclpqQ2M0MUxRamFJQT09> |
 
 ## In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. Over and above the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/) we use a course [code of conduct]() derived from the Mozilla and Ubuntu codes of conduct.
