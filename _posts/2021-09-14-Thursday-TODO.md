@@ -7,7 +7,7 @@ author: Jenn
 
 Designing software and hardware to persuade people to alter their ways of thinking or their behavior, and thereby contribute to solving social problems.
 
-### 1) Read before Class:
+### 1) Read before class:
 
 -   Fogg: [Persuasive computers: perspectives and research directions](http://dx.doi.org/10.1145/274644.274677)
 
@@ -15,6 +15,11 @@ Designing software and hardware to persuade people to alter their ways of thinki
 
 -   Froehlich et al: [UbiGreen](https://dl.acm.org/doi/10.1145/1518701.1518861)
 
+### 2) Watch before class:
+<iframe src="https://cornell.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2054b98b-08b4-4702-a584-acd5017de45c&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
+### 3) Take before midnight on Wednesday:
+[PersuaQuiz](https://canvas.cornell.edu/courses/33335/quizzes/63217)
 
 #### Additional resources: Another useful how-to for persuasive technology: Fogg: [Creating persuasive technologies: An eight-step design process](https://doi.org/10.1145/1541948.1542005)
 
