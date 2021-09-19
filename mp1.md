@@ -25,7 +25,7 @@ In this project, you will develop and flesh out a concept design for a persuasiv
 
 1.  Identify a social or political issue that you care about. (1 sentence)
 2.  Related to this issue, identify a concrete behavior that people engage in that you would like your device to help them change. (1 phrase)
-3.  As an early brainstorm, quickly sketch out 3 different ideas for how a persuasive technology could intervene to help people change that behavior. Each of the ideas should use a _different persuasive affordance_. (a few bullet points each, optionally including an image)
+3.  As an early brainstorm, quickly sketch out 3 different ideas for how a persuasive technology could intervene to help people change that behavior. Each of the ideas should use a _different persuasive affordance_: see list at bottom of this page. (a few bullet points each, optionally including an image)
     *   Note that for this assignment, a persuasive technology must be a technology (not eg. a policy)
     *   Note that persuasive technologies are not, generally speaking, speculative.
 4.  Sleep on your first ideas.
@@ -55,6 +55,133 @@ Your grade will consist of the following elements:
 4.  5 points: **Design quality**: The design is significantly advanced from the original sketches and is creative and original.
 5.  10 points: **Effort**: Effort has been put into the assignment.
 
-</div>
 
-</div>
+
+### Guide to Persuasive Affordances
+
+<p><p><a href="https://canvas.cornell.edu/courses/33335/files/4258533?wrap=1"></a></p>
+<table>
+<tbody>
+<tr>
+<td>
+<p><strong>Persuasive Affordance</strong></p>
+</td>
+<td>
+<p><strong>Definition</strong></p>
+</td>
+<td>
+<p><strong>Example</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Reduce barriers (time, effort, cost)</strong></p>
+</td>
+<td>
+<p>Make it easy for people to do what you want them to do</p>
+</td>
+<td>
+<p>One-click shopping on Amazon makes it effortless to buy something.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Increase self-efficacy</strong></p>
+</td>
+<td>
+<p>Help people to feel more effective in reaching the goals you want to support, for example by providing them with feedback that shows some success at achieving the goal.</p>
+</td>
+<td>
+<p>A calorie tracker can give people a sense that they are actually doing something when they diet and exercise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Provide information for better decision-making</strong></p>
+</td>
+<td>
+<p>Give people information that will lead them to make the decision you feel is better for them (without misleading).</p>
+</td>
+<td>
+<p>Carbon footprint calculators can show people&nbsp; the effect of their activities is.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Change mental models</strong></p>
+</td>
+<td>
+<p>Change how people think about a situation so that they will act differently.</p>
+</td>
+<td>
+<p>People have different mental models of how thermostats work - some think of turning up the temperature as increasing the flow of heat, while others think of it as changing the temperature at which the furnace switches on or off. The latter model tends to lead to&nbsp; less energy use.&nbsp; Thermostats could be designed to more clearly evoke a "switch" model to reduce energy usage.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Provide first-hand learning, insight, visualization, resolve</strong></p>
+</td>
+<td>
+<p>Give people a personal experience of the issue you care about so they will think about it differently</p>
+</td>
+<td>
+<p>Provide people with pollution information tailored to their own city block to motivate them to take action</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Promote understanding of cause-effect relationships</strong></p>
+</td>
+<td>
+<p>Represent the non-immediate consequences of people's actions</p>
+</td>
+<td>
+<p>An electrical monitor that represents energy use by showing its effects on polar bears or sea level.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Motivate through experience, sensation</strong></p>
+</td>
+<td>
+<p>Give people bodily sensations (for example, through compelling visualizations) that change their behavior</p>
+</td>
+<td>
+<p>Provide a virtual reality environment on an exercise bike that stimulates people to exercise harder.=</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Establish social norms</strong></p>
+</td>
+<td>
+<p>Help people calibrate what behavior is reasonable or desirable by establishing a social standard</p>
+</td>
+<td>
+<p>A water use meter that reports one's own usage compared to everyone else on the street.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Invoke social rules and dynamics</strong></p>
+</td>
+<td>
+<p>Use computers as social actors that follow social rules (e.g. if I do you a favor you should do me one)</p>
+</td>
+<td>
+<p>Tell the user the app is proud of them when they do what you believe they should do.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Provide social support or sanction</strong></p>
+</td>
+<td>
+<p>Leverage people's desire to please and connect with their friends and/or to not be ashamed in front of them</p>
+</td>
+<td>
+<p>Post writing goals on Facebook and update every day about whether one achieved them</p>
+</td>
+</tr>
+
+</tbody></table><br></p>

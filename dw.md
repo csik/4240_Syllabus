@@ -5,6 +5,9 @@ title: Design Workbooks
 
 ## Design Workbook
 
+### Please watch this video to correctly submit your workbook pages.
+<iframe src="https://cornell.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e386985f-78d5-4c02-98bb-ada7013240e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 ### Goals
 
 The goal of this assignment is to develop your ability to use early design concepts (1) to exemplify and explore possible societal impacts of design and (2) to develop your own voice on class topics.
@@ -45,7 +48,7 @@ Again, your submissions will not be judged negatively on poor artistic execution
 
 The **Design Workbook Checkin** is a trial run to check that you can submit to Gradescope and that you understand the assignment. You will submit one single design workbook page based on any reading from Module 1 **due on Sept. 5**. This will give you early feedback before you submit the entire assignment. We will give you feedback using our standard rubric (see below), but the checkin is graded pass/fail; you will get full credit for any sincere attempt.
 
-**DW1,** your first full workbook assignment, is due Sept. 19. There are five lectures with required readings in Module 1, so you'll submit five workbook pages, based on five different readings (of your choice!) from Module 1. You will upload your design responses to gradescope in pdf format. Please watch the videos on Canvas to see how to match readings to questions. If you work in a non-digital medium (e.g. pencil and paper), you can upload photos or scans of your work as a pdf. Regardless, please double-check both your handwriting and the image quality; your work must be legible to be graded.
+**DW1,** your first full workbook assignment, is due Sept. 19. There are five lectures with required readings in Module 1, so you'll submit five workbook pages, based on five different readings (of your choice!) from Module 1. You will upload your design responses to gradescope in pdf format. Please watch the [videos on Canvas](https://nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRHUVBvUU1Hd3JCMUwzUVdFPS0tZDhkZWY3ZTQ0ODZjOGU4NDNhOTE4OTkxNzJkYTViN2UxNTlmMmYzYw.mp4) to see how to match readings to questions. If you work in a non-digital medium (e.g. pencil and paper), you can upload photos or scans of your work as a pdf. Regardless, please double-check both your handwriting and the image quality; your work must be legible to be graded.
 
 ### Grading
 
