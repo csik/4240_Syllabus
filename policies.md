@@ -18,23 +18,23 @@
 
 ## Office Hours
 
-| Tuesday | 11:30AM - 12:30PM | zoom | Leo | [](https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09)<https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09> |
-| Tuesday | 3PM-4PM | zoom | Jiuheng | [](https://cornell.zoom.us/j/4178705646?pwd=ZDhQWGszcGxhK1NnRWpnMUs5dXIydz09)<https://cornell.zoom.us/j/4178705646?pwd=ZDhQWGszcGxhK1NnRWpnMUs5dXIydz09> |
+| Tuesday | 11:30AM - 12:30PM | zoom | Leo* | [](https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09)<https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09> |
+| Tuesday | 3PM-4PM | zoom | Jiuheng* | [](https://cornell.zoom.us/j/4178705646?pwd=ZDhQWGszcGxhK1NnRWpnMUs5dXIydz09)<https://cornell.zoom.us/j/4178705646?pwd=ZDhQWGszcGxhK1NnRWpnMUs5dXIydz09> |
 | Tuesday | 5-6PM | zoom | Noah | <https://cornell.zoom.us/j/9105553263?pwd=Yk9Lc0lkMWFzNjZneUhrQlovOGgvdz09> |
-| Wednesday | 9AM-10AM | zoom | Deanna | <https://cornell.zoom.us/j/97488136102?pwd=RjY0dytyUUNVbXJHZkpWNjRwM0tWdz09> |
-| Wednesday | 6PM-7PM | zoom | Xiaoyan | [](https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09)[https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT0](https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09)9 |
-| Thursday | 9AM-10AM | zoom | Daniel | <https://cornell.zoom.us/j/3864390549?pwd=Zm9FOWRvTlRYR0oxY0pLcnYxejFJQT09> |
-| Thursday | 11:30AM - 12:30PM | zoom | Leo | [](https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09)<https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09> |
+| Wednesday | 9AM-10AM | zoom | Deanna* | <https://cornell.zoom.us/j/97488136102?pwd=RjY0dytyUUNVbXJHZkpWNjRwM0tWdz09> |
+| Wednesday | 6PM-7PM | zoom | Xiaoyan* | [](https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09)[https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT0](https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09)9 |
+| Thursday | 9AM-10AM | zoom | Daniel* | <https://cornell.zoom.us/j/3864390549?pwd=Zm9FOWRvTlRYR0oxY0pLcnYxejFJQT09> |
+| Thursday | 11:30AM - 12:30PM | zoom | Leo* | [](https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09)<https://cornell.zoom.us/my/leokang?pwd=ZWlJWXdwYjFDRUpzZUJoTVRwOGhoQT09> |
 | Thursday | 3-4PM | zoom | Sharon | <https://cornell.zoom.us/j/96255371212?pwd=RVdMVFFadXJSWGRmY0ZNM2FSQStQUT09> |
-| Thursday | 5PM-6PM | Rhodes 402 | Daniel | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Thursday | 5PM-6PM | Rhodes 402 | Daniel* | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
 | Thursday | 7PM-8PM | zoom | Ian | <https://cornell.zoom.us/j/3507139598?pwd=aXc1VVBzWUtvNFdXYktpMGhOczlaQT09> |
 | Thursday | 8-9PM | zoom | Cristie | <https://cornell.zoom.us/j/9193792562?pwd=K0ViajFIdHNMV281bDRxNW4vbXNJQT09> |
 | Thursday | 9-10PM | zoom | Noah | <https://cornell.zoom.us/j/9105553263?pwd=Yk9Lc0lkMWFzNjZneUhrQlovOGgvdz09> |
-| Friday | 9-10AM | Rhodes 402 | Deanna | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
-| Friday | 11AM - 12PM | Rhodes 402 | Jiuheng | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Friday | 9-10AM | Rhodes 402 | Deanna* | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
+| Friday | 11AM - 12PM | Rhodes 402 | Jiuheng* | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
 | Friday | 10-11AM | zoom | Emilie | <https://cornell.zoom.us/j/91949372289?pwd=SitncVJrNWtwVG80aDV6ZzJuK1Njdz09> |
 | Friday | 11AM-12PM | Rhodes 402 | John | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
-| Friday | 3PM-4PM | Rhodes 402 | Xiaoyan | [](https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09)<https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09> |
+| Friday | 3PM-4PM | Rhodes 402 | Xiaoyan* | [](https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09)<https://cornell.zoom.us/my/xiaoyanli?pwd=UU9mYzVOZTlHelVXWDRkcDVxUzJZUT09> |
 | Friday | 4-5PM | zoom | Kehui | <https://cornell.zoom.us/j/3498465659?pwd=QVlGZWhvTUNGVEtBZ3BpWjRYSHlOZz09> |
 | Friday | 5-6PM | Rhodes 402 | Skyler | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
 | Friday | 6-7PM | zoom | John | <https://cornell.zoom.us/j/8916462820?pwd=WVEwci9DejRFNERYeGJqc3VweDZNdz09> |
@@ -44,6 +44,8 @@
 | Sunday | 10-11AM | Rhodes 402 | Kassidy | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
 | Sunday | 12-1PM | Rhodes 402 | Jenn | <https://goo.gl/maps/Vno9GbbYQLMa6yas8> |
 | Sunday | 1-2PM | zoom | Patricio | <https://cornell.zoom.us/j/97722055112?pwd=REQzNHE4WFNvclpqQ2M0MUxRamFJQT09> |
+
+* indicates graduate TA, able to give advice in 5240.
 
 ## In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. Over and above the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/) we use a course [code of conduct]() derived from the Mozilla and Ubuntu codes of conduct.

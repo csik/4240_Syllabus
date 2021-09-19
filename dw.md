@@ -5,7 +5,8 @@ title: Design Workbooks
 
 ## Design Workbook
 
-### Please watch [THIS VIDEO](https://nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRHUVBvUU1Hd3JCMUwzUVdFPS0tZDhkZWY3ZTQ0ODZjOGU4NDNhOTE4OTkxNzJkYTViN2UxNTlmMmYzYw.mp4) to correctly submit your workbook pages.
+### Please watch this video to correctly submit your workbook pages.
+<iframe src="https://cornell.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e386985f-78d5-4c02-98bb-ada7013240e3&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 ### Goals
 

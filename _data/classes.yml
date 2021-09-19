@@ -118,6 +118,10 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2021-10-17
+    type: assignment
+    slug: aMP2
+
   - date: 2021-10-19
     type: lecture
     slug: lData-DrivenWork
