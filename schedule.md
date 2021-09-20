@@ -22,7 +22,7 @@
   top: 0;
 }
 .mtitle {
-  font-size: 36pt;
+  font-size: 32pt;
   position: relative;
   top: 0;
 }
