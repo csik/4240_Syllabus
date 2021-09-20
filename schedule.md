@@ -128,7 +128,7 @@ Readings:
 <!-- <div class="two-column2"> -->
 <!-- <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span>  -->
 <!-- <span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span> -->
-</div>
+<!-- </div> -->
 <div class="two-column1">
 <h3><span class="ttitle"> MODULE {{ modcount | prepend: '00' | slice: -2, 2 }}: {{ node.title }}</span></h3>
 </div>
