@@ -1,0 +1,11 @@
+plugins:
+ - jekyll-remote-theme # add this line to the plugins list if you already have one
+ - jekyll-feed
+remote_theme: csik/jek
+collections:
+  classes:
+    output: true
+    permalink: /classes/:path/
+baseurl: "/4240_Syllabus"
+url: "http://localhost:4000"
+title: "4240_Syllabus"
