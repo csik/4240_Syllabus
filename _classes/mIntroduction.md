@@ -1,5 +1,5 @@
 ---
-title: "Introduction: Values, Technology, and Design"
+title: "MODULE_1: Introduction: Values, Technology, and Design"
 type: module
 slug: mIntroduction
 ---
