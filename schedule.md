@@ -14,10 +14,15 @@
 .tnumber {
   /* font-family: "Monoco", monospace; */
   opacity: 0.5;
- 
-} 
+
+}
 .ttitle {
   font-size: x-large;
+  position: relative;
+  top: 0;
+}
+.mtitle {
+  font-size: 36pt;
   position: relative;
   top: 0;
 }
@@ -65,11 +70,11 @@ th, td {
     grid-column-gap: 5%;
     grid-row-gap: 5%;
 }
-.two-column1 { 
+.two-column1 {
   grid-area: 1 / 2 / 2 / 3;
   padding-right: 20px;
   }
-.two-column2 { 
+.two-column2 {
   grid-area: 1 / 1 / 1 / 1;
   min-width: 0;
   min-height: 0;
@@ -96,7 +101,7 @@ th, td {
 <div class="lecture"  id="rPerClass" style="width:100%">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span>
 <!-- <span class="tnumber"> LECTURE{{ lectcount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
@@ -130,7 +135,7 @@ Readings:
 <!-- <span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span> -->
 <!-- </div> -->
 <div class="two-column1">
-<h3><span class="ttitle"> MODULE {{ modcount | prepend: '00' | slice: -2, 2 }}: {{ node.title }}</span></h3>
+<h3><span class="mtitle"> MODULE {{ modcount | prepend: '00' | slice: -2, 2 }}: {{ node.title }}</span></h3>
 </div>
 </div>
 {{ node.content | markdownify }}
@@ -142,7 +147,7 @@ Readings:
 <div class="section" id="rPerClass" style="width:100%">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span>
 <!-- <span class="tnumber"> SECTION{{ sectcount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
@@ -157,7 +162,7 @@ Readings:
 <div class="assignment" id="rPerClass" style="width:100%">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span>
 <!-- <span class="tnumber"> ASSIGNMENT{{ asscount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
@@ -172,7 +177,7 @@ Readings:
 <div class="holiday" id="rPerClass" style="width:100%">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span>
 <span class="tnumber"> ¡H!</span>
 </div>
 <div class="two-column1">
@@ -181,7 +186,5 @@ Readings:
 </div>
 </div>
 {% endif %}
-  
+
 {% endfor %}
-
-
