@@ -7,12 +7,12 @@
 
 <style>
 .tdate {
-  font-family: "Monoco", monospace;
-  font-size: x-large;
+  /* font-family: "Monoco", monospace; */
+  font-size: medium;
   background-color: "#f5fff4";
 }
 .tnumber {
-  font-family: "Monoco", monospace;
+  /* font-family: "Monoco", monospace; */
   opacity: 0.5;
  
 } 
@@ -21,21 +21,27 @@
   position: relative;
   top: 0;
 }
+
+.assignment {
+  background-color: #fff192;
+}
+
 .lecture{
-  background-color: #f5fff4;
+  /* background-color: #f5fff4; */
 }
 .module{
-  background-color: #bbbbbb;
+  background-color: #bbddbb;
 }
 .holiday{
-  background-color: #bbddbb;
+  background-color: #bbbbbb;
 }
 .section{
   background-color: #aaccdd;
 }
 #rPerClass {
-  padding-top: 15px;
+  /* padding-top: 15px; */
   border-bottom: 2px solid DarkGray;
+  padding: 15px;
 }
 th, td {
   border-style: none;
@@ -91,10 +97,10 @@ th, td {
 <div class="titleparent">
 <div class="two-column2">
 <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
-<span class="tnumber"> LECTURE{{ lectcount | prepend: '00' | slice: -2, 2 }}</span>
+<!-- <span class="tnumber"> LECTURE{{ lectcount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
-<h3><span class="ttitle"> {{ node.title }}</span></h3>
+<h3><span class="ttitle"> LECTURE {{ lectcount | prepend: '00' | slice: -2, 2 }}: {{ node.title }}</span></h3>
 </div>
 </div>
 <div class="parent">
@@ -119,12 +125,12 @@ Readings:
 {% elsif class.type == "module" %}
 <div class="module" id="rPerClass" style="width:100%">
 <div class="titleparent">
-<div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
-<span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span>
+<!-- <div class="two-column2"> -->
+<!-- <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span>  -->
+<!-- <span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
-<h3><span class="ttitle"> {{ node.title }}</span></h3>
+<h3><span class="ttitle"> MODULE {{ modcount | prepend: '00' | slice: -2, 2 }}: {{ node.title }}</span></h3>
 </div>
 </div>
 {{ node.content | markdownify }}
@@ -137,10 +143,10 @@ Readings:
 <div class="titleparent">
 <div class="two-column2">
 <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
-<span class="tnumber"> SECTION{{ sectcount | prepend: '00' | slice: -2, 2 }}</span>
+<!-- <span class="tnumber"> SECTION{{ sectcount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
-<h3><span class="ttitle"> {{ node.title }}</span></h3>
+<h3><span class="ttitle"> {{ node.title}} {{sectcount | prepend: '00' | slice: -2, 2 }}</span></h3>
 </div>
 </div>
 {{ node.content | markdownify}}
@@ -152,10 +158,10 @@ Readings:
 <div class="titleparent">
 <div class="two-column2">
 <span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
-<span class="tnumber"> ASSIGNMENT{{ asscount | prepend: '00' | slice: -2, 2 }}</span>
+<!-- <span class="tnumber"> ASSIGNMENT{{ asscount | prepend: '00' | slice: -2, 2 }}</span> -->
 </div>
 <div class="two-column1">
-<h3><span class="ttitle"><div class="blink_me"> {{ node.title }} </div></span></h3>
+<h3><span class="ttitle">{{ node.title }}</span></h3>
 </div>
 </div>
 {{ node.content | markdownify}}
