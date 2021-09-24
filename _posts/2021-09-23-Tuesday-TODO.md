@@ -17,7 +17,7 @@ Reflecting on the politics and experience of persuasion. More readings than usua
 
 ### Next Major Assignment Due:
 
--   Mini-Project 1 due on 9/26 - See [MP1 Instructions](https://courses.infosci.cornell.edu/info4240/2021fa/mp1)  and the [guide to persuasive affordances](https://canvas.cornell.edu/courses/33335/pages/a-guide-to-persuasive-affordances), applying the processes practiced in discussion on Friday.
+-   Mini-Project 1 due on 9/26 - See [MP1 Instructions](https://courses.infosci.cornell.edu/info4240/2021fa/mp1)  and the [guide to persuasive affordances](https://canvas.cornell.edu/courses/33335/pages/a-guide-to-persuasive-affordances), applying the processes practiced in discussion last Friday. Also keep in mind the rubric shared in last Tuesday's TODO.
 
 -   Design Workbook 2 due by 10pm on 10/3
 
