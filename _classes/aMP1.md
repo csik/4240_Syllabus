@@ -1,5 +1,5 @@
 ---
-title: "MiniProject 1: Persuasive technology  <br>  or Political Visualization"
+title: "MiniProject 1: Persuasive technology"
 type: assignment
 ---
 
