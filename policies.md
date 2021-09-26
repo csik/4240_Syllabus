@@ -1,18 +1,4 @@
-<style type="text/css">
-
-    table {
-        width: 100%;
-    	border: none;
-    	border-spacing: 10px;
-    }
-    table td {
-    	padding: 5px;
-    }
-    table tr {
-    	padding: 2px;
-    }
-
-</style>
+<link rel="stylesheet" href="css/policies.css">
 
 # Course Policies
 
