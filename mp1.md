@@ -43,7 +43,7 @@ Deliverables:
 1.  Your three early design sketches. The "sketch" may be in words, or include an image. Each sketch must clearly be labelled with the specific affordance it builds on.
 2.  Your final design, including the 4 elements described in step 6 of the instructions (behavior description; mechanism description; visual sketch; argument for effectiveness).
 
-Your project is due electronically via submission to Gradescope by **10:00pm on Sept 26**\. Both deliverables will be included in a single file upload. Your submission must be in .pdf format. If you prefer to do design work with your hands, you may do your project on paper and submit photos of the result embedded in a .pdf.
+Your project is due electronically via submission to Gradescope by **11:59pm on Sept 26**\. Both deliverables will be included in a single file upload. Your submission must be in .pdf format. If you prefer to do design work with your hands, you may do your project on paper and submit photos of the result embedded in a .pdf.
 
 ### Grading rubric
 
