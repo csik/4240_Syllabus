@@ -90,10 +90,6 @@
     type: module
     slug: mInfrastructuring
 
-  - date: 2021-10-03
-    type: assignment
-    slug: aDW2
-
   - date: 2021-10-05
     type: lecture
     slug: lPoliticsAlgorithms
@@ -110,9 +106,13 @@
     type: holiday
     slug: hFallBreak 
 
+  - date: 2021-10-13
+    type: assignment
+    slug: aDW2
+
   - date: 2021-10-14
     type: lecture
-    slug: lAlgorithmicFairness
+    slug: lInfrastructuralActivism
 
   - date: 2021-10-15
     type: section
@@ -128,7 +128,7 @@
 
   - date: 2021-10-21
     type: lecture
-    slug: lInfrastructuralActivism
+    slug: lAlgorithmicFairness
 
   - date: 2021-10-22
     type: section
@@ -157,6 +157,10 @@
   - date: 2021-11-02
     type: lecture
     slug: lCivicConversations
+
+  - date: 2021-11-03
+    type: assignment
+    slug: aMP3
 
   - date: 2021-11-03
     type: module
@@ -221,6 +225,10 @@
   - date: 2021-11-30
     type: lecture
     slug: lSiliconValley
+
+  - date: 2021-12-01
+    type: assignment
+    slug: aMP4
 
   - date: 2021-12-02
     type: lecture

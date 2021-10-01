@@ -48,7 +48,9 @@ Again, your submissions will not be judged negatively on poor artistic execution
 
 The **Design Workbook Checkin** is a trial run to check that you can submit to Gradescope and that you understand the assignment. You will submit one single design workbook page based on any reading from Module 1 **due on Sept. 5**. This will give you early feedback before you submit the entire assignment. We will give you feedback using our standard rubric (see below), but the checkin is graded pass/fail; you will get full credit for any sincere attempt.
 
-**DW1,** your first full workbook assignment, is due Sept. 19. There are five lectures with required readings in Module 1, so you'll submit five workbook pages, based on five different readings (of your choice!) from Module 1. You will upload your design responses to gradescope in pdf format. Please watch the [videos on Canvas](https://nv.instructuremedia.com/fetch/QkFoYkIxc0hhUVRHUVBvUU1Hd3JCMUwzUVdFPS0tZDhkZWY3ZTQ0ODZjOGU4NDNhOTE4OTkxNzJkYTViN2UxNTlmMmYzYw.mp4) to see how to match readings to questions. If you work in a non-digital medium (e.g. pencil and paper), you can upload photos or scans of your work as a pdf. Regardless, please double-check both your handwriting and the image quality; your work must be legible to be graded.
+**DW1,** your first full workbook assignment, is due Sept. 19. There are five lectures with required readings in Module 1, so you'll submit five workbook pages, based on five *different*  readings (of your choice!) from Module 1. You will upload your design responses to gradescope in *pdf* format. Please watch the video above to see how to match readings to questions. If you work in a non-digital medium (e.g. pencil and paper), you can upload photos or scans of your work as a pdf. Regardless, please double-check both your handwriting and the image quality; your work must be legible to be graded. For digital submissions, weird fonts must also be legible.
+
+All future design workbooks (DW2 and onward) will follow the DW1 requirements (except the specific due dates and required readings).
 
 ### Grading
 
