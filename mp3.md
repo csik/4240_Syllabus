@@ -52,4 +52,4 @@ Deliverables:
 1.  A photograph of your annotated technology sketch (i.e. the designed prototype, **with annotations** stating clearly how each design feature relates to a specific thing that you learned through your elicitation process). This submission is the same for both partners on your team and only needs to be submitted by one of you. Make sure you agree on who is submitting it!
 2.  Your individual experience report, as detailed above. Each student will need to submit their report separately. If you are working with a user outside of this class, they do not need to submit a report.
 
-Your project is due electronically via submission to Canvas by **10:00pm** on Wednesday, April 14\. Your submissions must be in .pdf format (you can print your design image to pdf to produce this).
+Your project is due electronically via submission to Canvas by **10:00pm** on Wednesday, Nov. 3. Your submissions must be in .pdf format (you can print your design image to pdf to produce this).

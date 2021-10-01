@@ -8,8 +8,8 @@ name: Todo before Politics of Algorithms
 How do political issues become embodied in the details of how computer programs work? How could they become embodied in new ways?
 
 ## Read before lecture:
-- [Gillespie: The relevance of algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf)
-- [Smucker: Principle: Seek common ground](http://beautifultrouble.org/principle/seek-common-ground/)
+-   Gillespie: [The relevance of algorithms](https://www.microsoft.com/en-us/research/wp-content/uploads/2014/01/Gillespie_2014_The-Relevance-of-Algorithms.pdf)
+-   Smucker: [Principle: Seek common ground](http://beautifultrouble.org/principle/seek-common-ground/)
 
 ## Please watch this video and take the quiz below it:
 <iframe src="https://cornell.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=8069a11e-edc0-409a-b415-ace70164f4db&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&captions=false&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
