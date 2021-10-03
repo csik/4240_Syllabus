@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="css/schedule.css">
 
 # Schedule
+<a class="button" href="#{{ 'now' | date_to_string}}">Go to today's date</a> 
 {% assign lectcount = 1 %}
 {% assign sectcount = 1 %}
 {% assign modcount = 1 %}
@@ -15,7 +16,9 @@
 <div class="lecture"  id="rPerClass">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span id="{{ class.date | date_to_string }}" class="tdate">
+  {{ class.date | date: "%a, %b %d"}}
+</span> 
 <span class="tnumber"> LECTURE{{ lectcount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
 <div class="two-column1">
@@ -45,7 +48,9 @@ Readings:
 <div class="module" id="rPerClass">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span id="{{ class.date | date_to_string }}" class="tdate">
+  {{ class.date | date: "%a, %b %d"}}
+</span> 
 <span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
 <div class="two-column1">
@@ -61,7 +66,9 @@ Readings:
 <div class="section" id="rPerClass">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span id="{{ class.date | date_to_string }}" class="tdate">
+  {{ class.date | date: "%a, %b %d"}}
+</span> 
 <span class="tnumber"> SECTION{{ sectcount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
 <div class="two-column1">
@@ -76,7 +83,9 @@ Readings:
 <div class="assignment" id="rPerClass">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span id="{{ class.date | date_to_string }}" class="tdate">
+  {{ class.date | date: "%a, %b %d"}}
+</span> 
 <span class="tnumber"> ASSIGNMENT{{ asscount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
 <div class="two-column1">
@@ -91,7 +100,9 @@ Readings:
 <div class="holiday" id="rPerClass">
 <div class="titleparent">
 <div class="two-column2">
-<span class="tdate">{{ class.date | date: "%a, %b %d"}}</span> 
+<span id="{{ class.date | date_to_string }}" class="tdate">
+  {{ class.date | date: "%a, %b %d"}}
+</span> 
 <span class="tnumber"> ¡H!</span>
 </div>
 <div class="two-column1">
