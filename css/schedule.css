@@ -18,6 +18,9 @@
 }
 .module{
   background-color: #bbbbbb;
+  margin-left: -300px;
+  padding-left: 300px;
+  padding-right: 292px;
 }
 .holiday{
   background-color: #bbddbb;
