@@ -19,7 +19,7 @@ title: Miniproject 1
 
 <p>You will make this argument in the form of an op-ed, i.e. a brief, structured argument that is accessible to, and influential for, a wide audience.</p>
 
-<p>Skills for this miniproject will be covered in section on March 19 (writing an op-ed) and March 26 (making a technical change to an infrastructure). Please review also your lecture notes from March 16, March 18, March 23 and March 25 and the associated readings for more background.</p>
+<p>Skills for this miniproject will be covered in section on Oct. 8 (writing an op-ed) and Oct. 15 (making a technical change to an infrastructure). Please review also your lecture notes from Sept. 30, Oct. 5, Oct. 7,  and the associated readings for more background.</p>
 
 <h3>Instructions</h3>
 
@@ -49,10 +49,10 @@ Deliverables:
 <li>Acknowledgement of 1 or more obvious <b>counterarguments</b>, with effective argumentation disarming each.</li>
 <li>A <b>conclusion</b> which includes a clear recommendation for what should be done differently.</li>
 </ol>
-</ol>
+
 Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using <a href="Homeworks/opedlength.php">this word counter</a>.
 
- <p>Your project is due electronically via submission through Gradescope by 10:00pm on March 31.  Your submission must be in .pdf format - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).</li>
+ Your project is due electronically via submission through Gradescope by 11:59pm on Sun, Oct 17. Your submission must be in *.pdf format* - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
 <!--
 <h3>Grading rubric</h3>

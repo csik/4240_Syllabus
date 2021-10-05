@@ -17,7 +17,7 @@ Good participatory design results in surprises - surprises to the designer about
 
 ### Instructions
 
-1.  In the first section of Unit 4 (April 9), we will **form teams of two**. In your team, **decide who wants to be the 'designer' and who the 'user.'** If you are not present in section on that day, you will need to find a friend who is willing to act as the 'user' for you (this does not need to be a person in this class). If your friend is not in 4240, you must play the 'designer' role while your friend is the 'user.'
+1.  In the first section of Module 4 (April 9), we will **form teams of two**. In your team, **decide who wants to be the 'designer' and who the 'user.'** If you are not present in section on that day, you will need to find a friend who is willing to act as the 'user' for you (this does not need to be a person in this class). If your friend is not in 4240, you must play the 'designer' role while your friend is the 'user.'
     *   If you are working with another student in 4240, make sure to note the **full name** and the **netID** of your partner.
 2.  **Identify an activity** that the user regularly engages in for which you wish to design. **The activity should be one about which the user feels s/he is an expert, and about which the designer knows little**.
 3.  After interviewing the user briefly about the activity, **develop a hands-on, creative elicitation technique** tailored to that activity which you will use to develop specific insights into and concrete details about that activity. You should start by brainstorming several techniques before settling on and fleshing out your chosen technique.
