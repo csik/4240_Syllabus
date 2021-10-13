@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Miniproject 1
+title: Miniproject 2
 ---
 
 <h2>Mini-project 2: Infrastructural design</h2>
@@ -12,6 +12,14 @@ title: Miniproject 1
 <li>To give you hands-on practice in making design interventions at the level of infrastructure (code and algorithms that structure many people's practices).</li>
 <li>To develop skills in expressing ideas about social impact in the form of an op-ed which can have wide influence.</li>
 </ul></p>  
+
+## MATERIALS FROM SECTION
+
+Here are some materials that we will be using to help shape MP2:
+1. [What is an oped made of?]({{ site.url }}{{ site.baseurl }}/my_assets/img/What is an oped made of.docx)
+1. [Sample oped.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Sample oped.docx)
+1. [Oped creation worksheet.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet.docx)
+1. [Oped creation worksheet_online.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet_online.docx)
 
 <h3>Overview</h3>
 
@@ -52,7 +60,7 @@ Deliverables:
 
 Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using <a href="Homeworks/opedlength.php">this word counter</a>.
 
- Your project is due electronically via submission through Gradescope by 11:59pm on Sun, Oct 17. Your submission must be in *.pdf format* - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
+Your project is due electronically via submission through Gradescope by 11:59pm on Sun, Oct 17. Your submission must be in *.pdf format* - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
 <!--
 <h3>Grading rubric</h3>
