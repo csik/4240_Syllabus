@@ -58,7 +58,7 @@ Deliverables:
 <li>A <b>conclusion</b> which includes a clear recommendation for what should be done differently.</li>
 </ol>
 
-Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using <a href="Homeworks/opedlength.php">this word counter</a>.
+Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using the word counter in Google Docs, under Tools->Word Count.
 
 Your project is due electronically via submission through Gradescope by 11:59pm on Sun, Oct 17. Your submission must be in *.pdf format* - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
