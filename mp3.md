@@ -17,7 +17,7 @@ Good participatory design results in surprises - surprises to the designer about
 
 ### Instructions
 
-1.  In the first section of Unit 4 (April 9), we will **form teams of two**. In your team, **decide who wants to be the 'designer' and who the 'user.'** If you are not present in section on that day, you will need to find a friend who is willing to act as the 'user' for you (this does not need to be a person in this class). If your friend is not in 4240, you must play the 'designer' role while your friend is the 'user.'
+1.  In the first section of Module 4 (10/22), we will **form teams of two**. In your team, **decide who wants to be the 'designer' and who the 'user.'** If you are not present in section on that day, you will need to find a friend who is willing to act as the 'user' for you (this does not need to be a person in this class). If your friend is not in 4240, you must play the 'designer' role while your friend is the 'user.'
     *   If you are working with another student in 4240, make sure to note the **full name** and the **netID** of your partner.
 2.  **Identify an activity** that the user regularly engages in for which you wish to design. **The activity should be one about which the user feels s/he is an expert, and about which the designer knows little**.
 3.  After interviewing the user briefly about the activity, **develop a hands-on, creative elicitation technique** tailored to that activity which you will use to develop specific insights into and concrete details about that activity. You should start by brainstorming several techniques before settling on and fleshing out your chosen technique.
@@ -43,7 +43,7 @@ Good participatory design results in surprises - surprises to the designer about
     5.  (100-200 words) A description of the nature of any **surprises** that came up for you during the course of design and what you learned from them. Hint: if there were no surprises, you probably did something wrong.
     6.  (700 words) A **reflection** explaining how and to what degree your team instantiated participatory design **with specific references to the reading and class notes**.
 
-To aid you in getting the miniproject done with minimal pain, we will devote section on April 9 to starting to develop your elicitation technique, and the lecture slot on April 13 to creating the resulting design and taking notes towards your individual project report. You will profit the most from this set up if you deploy the elicitation techniques prior to lecture on April 13.
+<!--- To aid you in getting the miniproject done with minimal pain, we will devote section on April 9 to starting to develop your elicitation technique, and the lecture slot on April 13 to creating the resulting design and taking notes towards your individual project report. You will profit the most from this set up if you deploy the elicitation techniques prior to lecture on April 13. !--->
 
 ### Submission
 
@@ -52,4 +52,4 @@ Deliverables:
 1.  A photograph of your annotated technology sketch (i.e. the designed prototype, **with annotations** stating clearly how each design feature relates to a specific thing that you learned through your elicitation process). This submission is the same for both partners on your team and only needs to be submitted by one of you. Make sure you agree on who is submitting it!
 2.  Your individual experience report, as detailed above. Each student will need to submit their report separately. If you are working with a user outside of this class, they do not need to submit a report.
 
-Your project is due electronically via submission to Canvas by **10:00pm** on Wednesday, April 14\. Your submissions must be in .pdf format (you can print your design image to pdf to produce this).
+Your project is due electronically via submission to Canvas by **11:59pm** on Wednesday, Nov. 3. Your submissions must be in .pdf format (you can print your design image to pdf to produce this).

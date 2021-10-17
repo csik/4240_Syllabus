@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Miniproject 1
+title: Miniproject 2
 ---
 
 <h2>Mini-project 2: Infrastructural design</h2>
@@ -13,13 +13,21 @@ title: Miniproject 1
 <li>To develop skills in expressing ideas about social impact in the form of an op-ed which can have wide influence.</li>
 </ul></p>  
 
+## MATERIALS FROM SECTION
+
+Here are some materials that we will be using to help shape MP2:
+1. [What is an oped made of?]({{ site.url }}{{ site.baseurl }}/my_assets/img/What is an oped made of.docx)
+1. [Sample oped.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Sample oped.docx)
+1. [Oped creation worksheet.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet.docx)
+1. [Oped creation worksheet_online.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet_online.docx)
+
 <h3>Overview</h3>
 
 <p>Contemporary life in the US and many other nations is deeply influenced by computational platforms: code and algorithms that shape what we do, how we communicate, and what we know. In this miniproject, you will make an argument for a change to the design of a contemporary computational platforms with widespread effect, which will result (according to your argument) in an improvement in the social impact of that platform. <b>The change will be at the level of code, i.e. a technical change to the algorithms on which the system relies</b>, rather than, for example, a change to how the system is advertised and promoted.</p>
 
 <p>You will make this argument in the form of an op-ed, i.e. a brief, structured argument that is accessible to, and influential for, a wide audience.</p>
 
-<p>Skills for this miniproject will be covered in section on March 19 (writing an op-ed) and March 26 (making a technical change to an infrastructure). Please review also your lecture notes from March 16, March 18, March 23 and March 25 and the associated readings for more background.</p>
+<p>Skills for this miniproject will be covered in section on Oct. 8 (writing an op-ed) and Oct. 15 (making a technical change to an infrastructure). Please review also your lecture notes from Sept. 30, Oct. 5, Oct. 7,  and the associated readings for more background.</p>
 
 <h3>Instructions</h3>
 
@@ -49,10 +57,10 @@ Deliverables:
 <li>Acknowledgement of 1 or more obvious <b>counterarguments</b>, with effective argumentation disarming each.</li>
 <li>A <b>conclusion</b> which includes a clear recommendation for what should be done differently.</li>
 </ol>
-</ol>
-Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using <a href="Homeworks/opedlength.php">this word counter</a>.
 
- <p>Your project is due electronically via submission through Gradescope by 10:00pm on March 31.  Your submission must be in .pdf format - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).</li>
+Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using the word counter in Google Docs, under Tools->Word Count.
+
+Your project is due electronically via submission through Gradescope by 11:59pm on Sun, Oct 17. Your submission must be in *.pdf format* - you may not use image submission. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
 <!--
 <h3>Grading rubric</h3>
@@ -113,22 +121,37 @@ The argument should pre-empt possible skeptics and critics by acknowledging any 
 
 <p>How much you pay for electricity could change radically under a new proposal in New York State. In the future, your electric bill may depend on how good you are at time management.</p>
 
-<p>This is because, as a recent Ithaca Journal report uncovered, there are plans to charge radically different prices for electricity depending on the time of day [http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/]. As part of an experimental ‘smart metering’ system, Avangrid - the parent company of New York State Electric & Gas and Rochester Gas & Electric - is proposing to change the delivery charge for electricity from current flat rates of 4-5 cents per KWH, to 3 cents in off-peak times and a whopping 18 cents in peak times. Under the proposed plan, electrical consumers who are able to reorganize their energy-intensive activities to occur at non-peak times – for example by running the dryer at 11pm – may decrease costs by up to 40 per cent. But consumers who cannot could see their bills double or triple.</p>
+<p>This is because, as a recent Ithaca Journal report uncovered, there are plans to charge radically different prices for electricity depending on the time of day <a href="http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/">[1]</a>. As part of an experimental ‘smart metering’ system, Avangrid - the parent company of New York State Electric & Gas and Rochester Gas & Electric - is proposing to change the delivery charge for electricity from current flat rates of 4-5 cents per KWH, to 3 cents in off-peak times and a whopping 18 cents in peak times. Under the proposed plan, electrical consumers who are able to reorganize their energy-intensive activities to occur at non-peak times – for example by running the dryer at 11pm – may decrease costs by up to 40 per cent. But consumers who cannot could see their bills double or triple.</p>
 
 <p>This policy addresses an important issue with our electrical infrastructure. Utilities need to generate enough electricity to meet demand at peak times. As peak demand rises, they have to build more plants, but that extra capacity often stands idle. The idea, then, is that charging people more for electricity when it is in demand will encourage people to shift electrical use to non-peak times. This will let us wring more out of our current infrastructure, rather than having to build more. In addition, shifting people to use electricity when it is in greater supply will help us manage the transition from fossil fuels, which are available 24 hours a day, to wind and solar energy, whose supply varies over the day. Avangrid’s experimental system is a test run of variable charging for electricity that is expected to be the future across the nation.</p>
 
 <p>While the motivation for this idea is laudable, the likely social implications are not. This is because the cost of variable pricing will be carried by households that are unwilling or unable to systematically rethink the timing of their energy-intensive activities. These are often vulnerable households.</p>
 
-<p>For example, low-income households will likely take a hard hit. Rearranging one’s schedule of activities simply takes time and thought which people who are already struggling to meet their families’ daily needs may be unable to muster [http://www.sciencedaily.com/releases/2013/07/130702100757.htm]. In addition, lower-income consumers may have less control over factors that influence their electricity use, as Tawanna Dillahunt has shown holds for renters who want to reduce energy use [http://dx.doi.org/10.1145/1620545.1620583]. Finally, planning one’s future time use can be nearly impossible for workers subject to the constantly changing, just-in-time work scheduling practices that are becoming more common in lower-wage sectors [https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html]. Consumers in any of these situations will find their electrical bills skyrocketing, with little they can practically do about it.</p>
+<p>For example, low-income households will likely take a hard hit. Rearranging one’s schedule of activities simply takes time and thought which people who are already struggling to meet their families’ daily needs may be unable to muster <a href="http://www.sciencedaily.com/releases/2013/07/130702100757.htm">[2]</a>. In addition, lower-income consumers may have less control over factors that influence their electricity use, as Tawanna Dillahunt has shown holds for renters who want to reduce energy use <a href="http://dx.doi.org/10.1145/1620545.1620583">[3]</a>. Finally, planning one’s future time use can be nearly impossible for workers subject to the constantly changing, just-in-time work scheduling practices that are becoming more common in lower-wage sectors <a href="https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html">[4]</a>. Consumers in any of these situations will find their electrical bills skyrocketing, with little they can practically do about it.</p>
 
 <p>But the losers under this policy are not just low-income households. Plotting your personal activities over the day to optimize your benefit, as variable pricing encourage consumers to do, is a form of time management that comes naturally to white-collar professionals who plan their own schedules. But for other workers, these ways of thinking are not necessarily natural, or even desirable.</p> 
 
 <p>For example, in my research into how rural Canadians organize their work, rural fisherman-farmers taught me that planning your time in advance doesn’t make sense when your work options are continuously altered by unpredictable weather conditions. If you wait to use your chainsaw until rates are down, it may be dark outside, or it may be raining sideways. Thriving in these conditions relies not on futile attempts to predict what will happen, but on savvy responses in the moment to conditions fundamentally outside your control. Fishermen-farmers are certainly able to plan out their activities in time when they have to, but it’s not their bread-and-butter. As a result, they are not particularly good at it; nor should they have to be.</p>
 
-<p>The same is true for sleep-deprived new parents, people struggling with health issues or addiction, and anyone else who finds rational control of their time beyond their current emotional, financial, or organizational means. The fundamental problem with variable pricing, as energy technology analyst Yolande Strengers points out [https://doi.org/10.1145/2621931], is that it assumes that electrical consumers should all be able to develop and execute a rational reorganization of their activities to optimize their energy use. And under the proposed plan, the cost for failing to live up to that moral demand is a bill up to 4 times higher.</p>
+<p>The same is true for sleep-deprived new parents, people struggling with health issues or addiction, and anyone else who finds rational control of their time beyond their current emotional, financial, or organizational means. The fundamental problem with variable pricing, as energy technology analyst Yolande Strengers points out <a href="https://doi.org/10.1145/2621931">[5]</a>, is that it assumes that electrical consumers should all be able to develop and execute a rational reorganization of their activities to optimize their energy use. And under the proposed plan, the cost for failing to live up to that moral demand is a bill up to 4 times higher.</p>
 
 <p>What should we do instead? If the goal is to even out energy demand without decimating the households who are least able to consciously manage it, there are several alternatives.</p>
 
-<p>As a start, if variable pricing does enter US homes, there should be income cut-offs under which participation would be opt-in only. But a better option would be to change the target audience for it. While variable pricing does not fit how many consumers organize their lives, it does fit with business’s conscious attention to strategy and pricing. It makes sense to concentrate variable pricing on the business context, which uses nearly twice as much energy as the residential sector [https://www.eia.gov/consumption/].</p>
+<p>As a start, if variable pricing does enter US homes, there should be income cut-offs under which participation would be opt-in only. But a better option would be to change the target audience for it. While variable pricing does not fit how many consumers organize their lives, it does fit with business’s conscious attention to strategy and pricing. It makes sense to concentrate variable pricing on the business context, which uses nearly twice as much energy as the residential sector <a href="https://www.eia.gov/consumption/">[6]</a>.</p>
 
-<p>But this policy deserves more fundamental rethinking. As environmental researcher Max Liboiron argues, a more effective design strategy than trying to get consumers to consciously redesign their behavior is to change the factors that influence what people do unthinkingly [https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/]. Electrical policy should shift from forcing people to consciously restructure their behavior, to making non-peak electrical usage an automatic solution.  For example, utilities could work with device manufacturers to make the default ‘on’ time for large appliances such as dishwashers and washing machines be when prices are low. If you need them to turn on right away, you would push an extra button. The expensive option would be the decision that requires extra thought. This form of restructuration would have the benefits of variable pricing without penalizing consumers who don’t manage their time like a white-collar professional.</p>
+<p>But this policy deserves more fundamental rethinking. As environmental researcher Max Liboiron argues, a more effective design strategy than trying to get consumers to consciously redesign their behavior is to change the factors that influence what people do unthinkingly <a href="https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/">[7]</a>. Electrical policy should shift from forcing people to consciously restructure their behavior, to making non-peak electrical usage an automatic solution.  For example, utilities could work with device manufacturers to make the default ‘on’ time for large appliances such as dishwashers and washing machines be when prices are low. If you need them to turn on right away, you would push an extra button. The expensive option would be the decision that requires extra thought. This form of restructuration would have the benefits of variable pricing without penalizing consumers who don’t manage their time like a white-collar professional.</p>
+
+
+1. http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/ <br>
+
+2. http://www.sciencedaily.com/releases/2013/07/130702100757.htm<br>
+
+3. http://dx.doi.org/10.1145/1620545.1620583<br>
+
+4. https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html<br>
+
+5. https://doi.org/10.1145/2621931<br>
+
+6. https://www.eia.gov/consumption/<br>
+
+7. https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/ <br>
