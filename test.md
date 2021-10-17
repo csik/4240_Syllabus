@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="css/test.css">
+
 ---
 layout: home
 ---
@@ -5,27 +7,6 @@ This is a test.
 
 <img src="{{site.baseurl}}/assets/img/favicon/favicon.ico">
 
-
-<style>
-.parent {
-    display: grid;
-    grid-template-columns: 1fr .6fr;
-    grid-auto-flow: column;
-    grid-template-rows: 1fr;
-    grid-column-gap: 5%;
-    grid-row-gap: 5%;
-}
-.two-column1 { 
-  grid-area: 1 / 2 / NaN / NaN;
-  max-width: 100%; 
-  }
-.two-column2 { 
-  grid-area: 1 / 1 / 1 / 1;
-  min-width: 0;
-  min-height: 0;
-  overflow-wrap: normal;
-}
-</style>
 {% assign lectcount = 1 %}
 
 {% for class in site.data.classes %}
