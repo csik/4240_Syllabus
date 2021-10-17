@@ -47,12 +47,14 @@ Readings:
 {% elsif class.type == "module" %}
 <div class="module" id="rPerClass">
 <div class="titleparent">
+<!-- 
 <div class="two-column2">
 <span id="{{ class.date | date_to_string }}" class="tdate">
   {{ class.date | date: "%a, %b %d"}}
 </span> 
 <span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
+!-->
 <div class="two-column1">
 <h3><span class="ttitle"> {{ node.title }}</span></h3>
 </div>
