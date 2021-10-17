@@ -1,11 +1,13 @@
 ---
 layout: post
 author: Jenn
-name: Todo before Data Driven Work
+name: "Todo before Tuesday: Data Driven Work"
 ---
-## Tues 19 October: Data Driven Work
+## Todo for Tues 19 October: Data Driven Work
 
 How are work infrastructures shaping how we will work in the future? What kinds of voices can workers have in them?
+
+## No video, no quiz!
 
 ## 1) Read before Class:
 
@@ -15,4 +17,5 @@ How are work infrastructures shaping how we will work in the future? What kinds 
 
 ## Next Major Assignment Due:
 
--   Design Workbook 3 is due Sunday, 10/24
+-   [Miniproject 2]({{ site.url }}{{ site.baseurl }}/mp2) is due Sunday, 10/17 by 11:59pm.
+-   [Design Workbook 3]({{ site.url }}{{ site.baseurl }}/dw) is due Sunday, 10/24 by 11:59pm.
