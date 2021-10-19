@@ -30,11 +30,11 @@ Good participatory design results in surprises - surprises to the designer about
         *   Participatory design techniques are often **physical, visual, and creative**.
         *   They focus on **reducing** as much as possible **the power differential** between the designer and the person designed for.
         *   They should be **specifically tailored to address the nuances of the task at hand.**
-4.  By April 13, **execute** the elicitation technique you developed as part of a participatory design session. This process should take about 30 minutes.**Your goal here should be to collaboratively elicit as much detail as possible**. You should **both** take notes to document your process and capture details of the activity that seem important, and note surprises that come up along the course of discussion. It might be helpful to **take photographs** of stages in the design process for your own notes or to include in your submission.
+4.  By the lecture on 10/28, **execute** the elicitation technique you developed as part of a participatory design session. This process should take about 30 minutes but could take a bit longer if you are in the groove. **Your goal here should be to collaboratively elicit as much detail as possible**. You should **both** take notes to document your process and capture details of the activity that seem important, and note surprises that come up along the course of discussion. It might be helpful to **take photographs** of stages in the design process for your own notes or to include in your submission.
 5.  Develop your design, by doing the following:
     1.  **Review the results** of the discussion so far. What is striking or surprising about the activity, for the designer or for the now-sensitized user? What mismatches seem to exist between currently existing technology and what your user actually does?
     2.  Using paper, markers, or other supplies, **collaboratively develop a concept prototype** for a technology that would contribute positively to this activity. Make sure **both parties agree** that this would be a desirable technology.
-    3.  **Annotate the technology design** with descriptions of how the design responds to specific details of the user's activity that came up in earlier discussions.We will provide time in our lecture slot on April 13 to develop your project design.
+    3.  **Annotate the technology design** with descriptions of how the design responds to specific details of the user's activity that came up in earlier discussions.We will provide time in our lecture slot on 10/28 to develop your project design, and on 10/29 to further understand PD.
 6.  After elicitation and design, each participant will write up his or her own brief **experience report**. This report will contain the following components:
     1.  Your **role** in the process (user or designer).
     2.  **Your partner's full name**.
@@ -43,7 +43,7 @@ Good participatory design results in surprises - surprises to the designer about
     5.  (100-200 words) A description of the nature of any **surprises** that came up for you during the course of design and what you learned from them. Hint: if there were no surprises, you probably did something wrong.
     6.  (700 words) A **reflection** explaining how and to what degree your team instantiated participatory design **with specific references to the reading and class notes**.
 
-<!--- To aid you in getting the miniproject done with minimal pain, we will devote section on April 9 to starting to develop your elicitation technique, and the lecture slot on April 13 to creating the resulting design and taking notes towards your individual project report. You will profit the most from this set up if you deploy the elicitation techniques prior to lecture on April 13. !--->
+To aid you in getting the miniproject done with minimal pain, we will devote section on 10/22 to starting to develop your elicitation technique, and the lecture slot on 10/28 to creating the resulting design and taking notes towards your individual project report. Finally, we will give you further taining on how to transition from elicitation to design in section on 10/29. You will profit the most from this set up if you deploy the elicitation techniques prior to lecture on 10/28.
 
 ### Submission
 

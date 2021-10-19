@@ -177,13 +177,13 @@
     slug: sSectionBlank 
     topic: Mental Health Day!
 
-  - date: 2021-11-07
-    type: assignment
-    slug: aDW4
-
   - date: 2021-11-09
     type: lecture
     slug: lMentalHealthDay1
+
+  - date: 2021-11-10
+    type: assignment
+    slug: aDW4
 
   - date: 2021-11-11
     type: lecture
