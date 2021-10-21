@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="css/schedule.css">
+<script type="text/javascript" src="scripts/currentDate.js"></script>
 
 # Schedule
 <a class="button" href="#{{ 'now' | date_to_string}}">Go to today's date</a> 
