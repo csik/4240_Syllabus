@@ -25,7 +25,7 @@ In this project, you will develop and flesh out a concept design for a persuasiv
 
 1.  Identify a social or political issue that you care about. (1 sentence)
 2.  Related to this issue, identify a concrete behavior that people engage in that you would like your device to help them change. (1 phrase)
-3.  As an early brainstorm, quickly sketch out 3 different ideas for how a persuasive technology could intervene to help people change that behavior. Each of the ideas should use a _different persuasive affordance_: see list at bottom of this page. (a few bullet points each, optionally including an image)
+3.  As an early brainstorm, quickly sketch out 3 *different* ideas for how a persuasive technology could intervene to help people change that behavior. Each of the ideas should use a _single different persuasive affordance_ and that affordance should be named: see list at bottom of this page.  (a few bullet points each, optionally including an image)
     *   Note that for this assignment, a persuasive technology must be a technology (not eg. a policy)
     *   Note that persuasive technologies are not, generally speaking, speculative.
 4.  Sleep on your first ideas.

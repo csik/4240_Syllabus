@@ -3,7 +3,7 @@ title: "Participatory Design"
 type: lecture
 readings:
   - "Spinuzzi: [The Methodology of Participatory Design](https://repositories.lib.utexas.edu/bitstream/handle/2152/28277/SpinuzziTheMethodologyOfParticipatoryDesign.pdf)"
-  - "Russell [Principle: Take leadership from the most impacted](http://beautifultrouble.org/principle/take-leadership-from-the-most-impacted/)"
+  - "Kahn [Principle: Follow the lead of the most impacted](https://www.beautifultrouble.org/toolbox/#/tool/follow-the-lead-of-the-most-impacted)"
 ---
 Developing methods and philosophies for designing technology directly with non-technically-trained participants.
 

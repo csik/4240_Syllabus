@@ -8,6 +8,7 @@
 {% assign asscount = 1 %}
 {% assign asscount = 1 %}
 
+<div id="all_schedule">
 {% for class in site.data.classes %}
 {% capture test %}_classes/{{class.slug}}.md{% endcapture %}
 {% assign node = site.classes | where:"relative_path", test | first %}
@@ -115,5 +116,28 @@ Readings:
 {% endif %}
   
 {% endfor %}
+
+</div>
+
+<script>
+
+  // Get the division inside which the
+  // spans have to be found
+  let container = document.getElementById("all_schedule");
+  let spans = container.getElementsByTagName("span");
+
+
+  // Iterate over spans
+  for (let span of spans) {
+
+    // Create a new list element with the data
+    // let listElem = document.createElement("li");
+    // listElem.textContent = span.textContent;
+
+    // Insert text content of span inside output html element
+    console.log(span.id);
+  };
+
+</script>
 
 
