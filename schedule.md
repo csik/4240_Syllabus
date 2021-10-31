@@ -89,7 +89,7 @@ Readings:
 <span class="tnumber"> ASSIGNMENT{{ asscount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
 <div class="two-column1">
-<h3><span class="ttitle"><div class="blink_me"> {{ node.title }} </div></span></h3>
+<h3><span class="ttitle"> {{ node.title }} </span></h3>
 </div>
 </div>
 {{ node.content | markdownify}}
