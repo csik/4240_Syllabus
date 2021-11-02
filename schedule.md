@@ -1,7 +1,9 @@
 <link rel="stylesheet" href="css/schedule.css">
 
 # Schedule
-<a class="button" href="#{{ 'now' | date_to_string}}">Go to today's date</a> 
+<!---<a class="button" href="#{{ 'now' | date_to_string}}">Go to today's date</a> 
+!--->
+
 {% assign lectcount = 1 %}
 {% assign sectcount = 1 %}
 {% assign modcount = 1 %}

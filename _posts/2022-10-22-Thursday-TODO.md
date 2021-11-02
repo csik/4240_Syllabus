@@ -1,5 +1,5 @@
 layout: post
-author: Jenn
+author: csik
 name: Todo before 'Participatory Design'
 ---
 ## Thursday 21 October: Participatory Design

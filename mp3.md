@@ -11,7 +11,7 @@ The goal of this project is to give you an experiential sense of how participato
 
 ### Overview
 
-The key attribute of participatory design is that intended users and designers work together to create a design which does justice to the complexity of the users' actual practices. In this mini-project, you will practice this on a brief scale. You will form a team of two. One person will be designated "the designer", the other "the user." The team will develop 2 original elicitation techniques, use them to investigate a practice of the user, and collaboratively sketch a technology design that is appropriate for that practice based on the insights that the elicitation techniques developed.
+The key attribute of participatory design is that intended users and designers work together to create a design which does justice to the complexity of the users' actual practices. In this mini-project, you will practice this on a brief scale. You will form a team of two. One person will be designated "the designer", the other "the user." The team will develop an original elicitation technique, use it to investigate a practice of the user, and collaboratively sketch a technology design that is appropriate for that practice based on the insights that the elicitation techniques developed.
 
 Good participatory design results in surprises - surprises to the designer about the nature of the activity to be designed for and what really matters in it, and surprises to the user with new realizations of what his or her activity is about and what it might be possible to create for it. For this project, you will document your design, describe how its features relate to details of user practice, and explain surprises that came up for you along the way.
 
@@ -25,7 +25,7 @@ Good participatory design results in surprises - surprises to the designer about
         *   It may be helpful to set up a situation that will allow the user to physically act out the activity to demonstrate to the designer how it is done.
         *   It may be helpful to design a structured role-play, for example to check understanding by having the designer pretend s/he is doing the activity and the user explaining when s/he has things wrong.
         *   You might design a sketching activity to flesh out your discussion, for example by creating a collaborative comic strip that illustrates a key issue or aspect of the activity.
-        *   More ways will be covered in lecture.
+        *   More ways will be covered in lecture and/or section.
     *   Remember that:
         *   Participatory design techniques are often **physical, visual, and creative**.
         *   They focus on **reducing** as much as possible **the power differential** between the designer and the person designed for.
