@@ -3,7 +3,7 @@ layout: post
 author: Jenn
 name: Todo before 11/04 'Narrative as Impact'
 ---
-## Thursday 04 November: Narrative as Impact
+## Todo before Thursday 04 November: Narrative as Impact
 Sometimes - perhaps much of the time -the primary impact of a technology is not what it does, but how it shapes our imaginations of what is possible or should happen.
 
 ## Watch this video:
@@ -15,9 +15,11 @@ Sometimes - perhaps much of the time -the primary impact of a technology is not 
 ## Take this quiz:
 [FailureQuiz](https://canvas.cornell.edu/courses/33335/quizzes/63211)
 
-## Next Major Assignment Due: 
+## Next Major Assignments Due: 
+-   MP3 (PD) is due by Wed, Nov 03 by 11:59 PM
 -   Design Workbook 4 is due Wednesday, November 10 by 11:59 PM
 
+... okay, that's a lot of work so please
 ## Enjoy a Mental Health 4240 Weekend! 
 - No section Fri, Nov 05
 - No lecture Tue, Nov 09
