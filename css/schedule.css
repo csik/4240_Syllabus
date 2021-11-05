@@ -85,3 +85,7 @@ th, td {
   background-color: #000000;
   padding: 7px;
 }
+
+.button:hover {
+  background-color: #bbbbbb;
+}

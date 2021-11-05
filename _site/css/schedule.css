@@ -22,7 +22,6 @@
   padding-left: 300px;
   padding-right: 292px;
 }
-
 .holiday{
   background-color: #bbddbb;
 }
@@ -85,4 +84,8 @@ th, td {
   border-radius: 5px;
   background-color: #000000;
   padding: 7px;
+}
+
+.button:hover {
+  background-color: #bbbbbb;
 }
