@@ -180,13 +180,13 @@
     type: lecture
     slug: lMentalHealthDay1
 
-  - date: 2021-11-10
-    type: assignment
-    slug: aDW4
-
   - date: 2021-11-11
     type: lecture
     slug: lCriticalDesign
+
+  - date: 2021-11-12
+    type: assignment
+    slug: aDW4
 
   - date: 2021-11-12
     type: section
@@ -194,17 +194,17 @@
 
   - date: 2021-11-16
     type: lecture
-    slug: lCriticalDesignWorkshop
+    slug: lAfrofuturism
 
   - date: 2021-11-18
     type: lecture
-    slug: lAfrofuturism
+    slug: lCriticalDesignWorkshop
 
   - date: 2021-11-19
     type: section
     slug: sSectionBlank
 
-  - date: 2021-11-20
+  - date: 2021-11-21
     type: assignment
     slug: aDW5
 
@@ -239,10 +239,6 @@
   - date: 2021-12-03
     type: section
     slug: sSectionBlank
-
-  - date: 2021-12-05
-    type: assignment
-    slug: aDW6
 
   - date: 2021-12-07
     type: lecture
