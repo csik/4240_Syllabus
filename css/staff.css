@@ -1,0 +1,18 @@
+.staff {
+  text-align: center;
+  margin: 10px;
+  /* width: 25%;
+  margin: auto; */
+}
+
+.row{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+img {
+  display: block;
+  align-self: center;
+  height:300px;
+}

@@ -1,0 +1,7 @@
+---
+layout: home
+title: Meet the Staff
+nav_name: Staff Page
+---
+{% capture my_include %}{% include_relative staff.md %}{% endcapture %}
+{{ my_include | markdownify }}
