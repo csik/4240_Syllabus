@@ -15,18 +15,26 @@
 }
 .lecture{
   background-color: #f5fff4;
+  padding: 9px;
 }
 .module{
   background-color: #bbbbbb;
   margin-left: -300px;
-  padding-left: 300px;
-  padding-right: 292px;
+  padding-left: 306px;
+  padding-right: 290px;
+}
+
+.assignment{
+  background-color: #FFFFD6;
+  padding: 9px;
 }
 .holiday{
   background-color: #bbddbb;
+  padding: 9px;
 }
 .section{
   background-color: #aaccdd;
+  padding: 9px;
 }
 #rPerClass {
   padding-top: 15px;
@@ -67,9 +75,6 @@ th, td {
   overflow-wrap: normal;
 }
 
-.blink_me {
-  animation: blinker 1s linear infinite;
-}
 
 @keyframes blinker {
   50% {
@@ -84,4 +89,8 @@ th, td {
   border-radius: 5px;
   background-color: #000000;
   padding: 7px;
+}
+
+.button:hover {
+  background-color: #bbbbbb;
 }

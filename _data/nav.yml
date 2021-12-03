@@ -13,3 +13,5 @@ pages:
     url: updates.html
   - name: 5240
     url: 5240.html
+  - name: Staff Page
+    url: staff.html
