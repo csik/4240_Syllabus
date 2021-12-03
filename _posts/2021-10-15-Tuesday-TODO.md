@@ -18,4 +18,4 @@ How are work infrastructures shaping how we will work in the future? What kinds 
 ## Next Major Assignment Due:
 
 -   [Miniproject 2]({{ site.url }}{{ site.baseurl }}/mp2) is due Sunday, 10/17 by 11:59pm.
--   [Design Workbook 3]({{ site.url }}{{ site.baseurl }}/dw) is due Sunday, 10/24 by 11:59pm.
+-   [Design Workbook 3]({{ site.url }}{{ site.baseurl }}/dw) is due Sunday, 10/24 by 11:59pm. Allowed readings are [here]({{ site.url }}{% post_url 2021-10-15-DW3-READINGS %}).
