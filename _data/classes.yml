@@ -243,3 +243,11 @@
   - date: 2021-12-07
     type: lecture
     slug: lCourseConclusion
+
+  - date: 2021-12-11
+    type: assignment
+    slug: aFinalSession1
+
+  - date: 2021-12-13
+    type: assignment
+    slug: aFinalSession2
