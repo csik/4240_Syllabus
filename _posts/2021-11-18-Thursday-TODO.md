@@ -13,7 +13,7 @@ Refining design techniques to express and question values and futures in design.
 
 ## Next Major Assignment Due:
 
--   Design Workbook 5&6 are due Sun, 11/21
+-   Design Workbook 5&6 are due \(see [this post](https://edstem.org/us/courses/8218/discussion/866188)\) Sun, 11/23
 
 -   Mini-Project 4 is due Wed, 12/01
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Jenn
+author: Hal
 name: Todo before 11/04 'Narrative as Impact'
 ---
 ## Todo before Thursday 04 November: Narrative as Impact
