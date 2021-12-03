@@ -11,8 +11,42 @@
   justify-content: center;
 }
 
-img {
-  display: block;
-  align-self: center;
-  height:300px;
+.column {
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column{
+  flex: 25%;
+  max-width: 25%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .column {
+    flex: 50%;
+    max-width: 50%;
+  }
+
+  .staff h2{
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    flex: 100%;
+    max-width: 100%;
+  }
+
+  .staff h2{
+    font-size: 20px;
+  }
 }
