@@ -2,9 +2,11 @@
 
 
 # Schedule
+
 <button class="button" id="dateButton">Go to today's date</button> 
 
 <script type="text/javascript" src="scripts/currentDate.js"></script>
+
 
 {% assign lectcount = 1 %}
 {% assign sectcount = 1 %}
@@ -12,6 +14,7 @@
 {% assign asscount = 1 %}
 {% assign asscount = 1 %}
 
+<div id="all_schedule">
 {% for class in site.data.classes %}
 {% capture test %}_classes/{{class.slug}}.md{% endcapture %}
 {% assign node = site.classes | where:"relative_path", test | first %}
@@ -51,12 +54,14 @@ Readings:
 {% elsif class.type == "module" %}
 <div class="module" id="rPerClass">
 <div class="titleparent">
+<!-- 
 <div class="two-column2">
 <span id="{{ class.date | date_to_string }}" class="tdate">
   {{ class.date | date: "%a, %b %d"}}
 </span> 
 <span class="tnumber"> MODULE{{ modcount | prepend: '00' | slice: -2, 2 }}</span>
 </div>
+!-->
 <div class="two-column1">
 <h3><span class="ttitle"> {{ node.title }}</span></h3>
 </div>
@@ -117,5 +122,28 @@ Readings:
 {% endif %}
   
 {% endfor %}
+
+</div>
+
+<script>
+
+  // Get the division inside which the
+  // spans have to be found
+  let container = document.getElementById("all_schedule");
+  let spans = container.getElementsByTagName("span");
+
+
+  // Iterate over spans
+  for (let span of spans) {
+
+    // Create a new list element with the data
+    // let listElem = document.createElement("li");
+    // listElem.textContent = span.textContent;
+
+    // Insert text content of span inside output html element
+    console.log(span.id);
+  };
+
+</script>
 
 

@@ -126,17 +126,18 @@
     type: lecture
     slug: lData-DrivenWork
 
+  - date: 2021-10-20
+    type: module
+    slug: mExpandingParticipation
+
   - date: 2021-10-21
     type: lecture
-    slug: lAlgorithmicFairness
+    slug: lParticipatoryDesign
 
   - date: 2021-10-22
     type: section
     slug: sSectionBlank
- 
-  - date: 2021-10-23
-    type: module
-    slug: mExpandingParticipation
+    topic: Partner finding PD section
 
   - date: 2021-10-24
     type: assignment
@@ -144,19 +145,20 @@
 
   - date: 2021-10-26
     type: lecture
-    slug: lParticipatoryDesign
+    slug: lCivicConversations
 
   - date: 2021-10-28
     type: lecture
-    slug: lDialogicArtPractice
+    slug: lPDPartnerMeetups
 
   - date: 2021-10-29
     type: section
     slug: sSectionBlank
+    topic: PD second section
 
   - date: 2021-11-02
     type: lecture
-    slug: lCivicConversations
+    slug: lDialogicArtPractice
 
   - date: 2021-11-03
     type: assignment
@@ -172,11 +174,7 @@
 
   - date: 2021-11-05
     type: section
-    slug: sSectionBlank 
-
-  - date: 2021-11-07
-    type: assignment
-    slug: aDW4
+    slug: sSectionCancelled
 
   - date: 2021-11-09
     type: lecture
@@ -187,28 +185,32 @@
     slug: lCriticalDesign
 
   - date: 2021-11-12
+    type: assignment
+    slug: aDW4
+
+  - date: 2021-11-12
     type: section
     slug: sSectionBlank
 
   - date: 2021-11-16
     type: lecture
-    slug: lCriticalDesignWorkshop
+    slug: lAfrofuturism
 
   - date: 2021-11-18
     type: lecture
-    slug: lAfrofuturism
+    slug: lCriticalDesignWorkshop
 
   - date: 2021-11-19
     type: section
     slug: sSectionBlank
 
-  - date: 2021-11-20
-    type: assignment
-    slug: aDW5
-
   - date: 2021-11-23
     type: lecture
     slug: lFinalReview
+
+  - date: 2021-11-23
+    type: assignment
+    slug: aDW5
 
   - date: 2021-11-25
     type: holiday
@@ -238,10 +240,14 @@
     type: section
     slug: sSectionBlank
 
-  - date: 2021-12-05
-    type: assignment
-    slug: aDW6
-
   - date: 2021-12-07
     type: lecture
     slug: lCourseConclusion
+
+  - date: 2021-12-11
+    type: assignment
+    slug: aFinalSession1
+
+  - date: 2021-12-13
+    type: assignment
+    slug: aFinalSession2
