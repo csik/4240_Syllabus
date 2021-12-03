@@ -1,6 +1,7 @@
 .staff {
   text-align: center;
   margin: 10px;
+  margin-bottom: 50px;
   /* width: 25%;
   margin: auto; */
 }
@@ -27,6 +28,10 @@
   margin-top: 8px;
   vertical-align: middle;
   width: 100%;
+}
+
+.staff h2{
+  margin-bottom: -2px;
 }
 
 @media screen and (max-width: 800px) {

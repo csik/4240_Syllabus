@@ -29,12 +29,13 @@
   <h2>Daisy Tseng</h2>
   <img src="my_assets/img/TA_Photos/Daisy_Tseng.JPEG">
 </div>
-
-
 <div class="staff" id="daniel">
   <h2>Daniel M</h2>
   <img src="my_assets/img/TA_Photos/Daniel_M.png">
 </div>
+</div>
+
+<div class= "column">
 <div class="staff" id="danielle">
   <h2>Danielle Luntz</h2>
   <img src="my_assets/img/TA_Photos/Danielle_Luntz.jpg">
@@ -43,9 +44,6 @@
   <h2>Deanna Kocher</h2>
   <img src="my_assets/img/TA_Photos/Deanna_Kocher.jpg">
 </div>
-</div>
-
-<div class= "column">
 <div class="staff" id="emilie">
   <h2>Emilie Guo</h2>
   <img src="my_assets/img/TA_Photos/Emilie_Guo.png">
@@ -58,7 +56,6 @@
   <h2>Hal</h2>
   <img src="my_assets/img/TA_Photos/Hal.jpg">
 </div>
-
 <div class="staff" id="ian">
   <h2>Ian Arawjo</h2>
   <img src="my_assets/img/TA_Photos/Ian_Arawjo.png">
@@ -67,11 +64,13 @@
   <h2>John Lo</h2>
   <img src="my_assets/img/TA_Photos/John_Lo.png">
 </div>
+</div>
+
+<div class= "column">
 <div class="staff" id="julie">
   <h2>Julie Lee</h2>
   <img src="my_assets/img/TA_Photos/Julie_Lee.png">
 </div>
-
 <div class="staff" id="kassidy">
   <h2>Kassidy Slaughter</h2>
   <img src="my_assets/img/TA_Photos/Kassidy_Slaughter.jpg">
@@ -84,9 +83,6 @@
   <h2>Melissa Psaras</h2>
   <img src="my_assets/img/TA_Photos/Melissa_Psaras.jpeg">
 </div>
-</div>
-
-<div class= "column">
 <div class="staff" id="sharon">
   <h2>Sharon Chen</h2>
   <img src="my_assets/img/TA_Photos/Sharon_Chen.jpg">
@@ -98,11 +94,11 @@
 <div class="staff" id="tanvi">
   <h2>Tanvi Athavale</h2>
   <img src="my_assets/img/TA_Photos/Tanvi_Athavale.jpg">
-</div>
 
 <div class="staff" id="xiaoyan">
   <h2>Xiaoyan Li</h2>
   <img src="my_assets/img/TA_Photos/Xiaoyan_Li.jpg">
+</div>
 </div>
 </div>
 </div>
