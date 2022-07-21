@@ -1,253 +1,275 @@
-  - date: 2021-08-25
+  - date: 2022-07-18
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-07-19
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-07-20
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-07-21
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-07-22
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-08-22
     type: module
     slug: mIntroduction
 
-  - date: 2021-08-26
+  - date: 2022-08-23
     type: lecture
     slug: lTDSI
 
-  - date: 2021-08-27
+  - date: 2022-08-25
+    type: lecture
+    slug: lValuesInDesign 
+
+  - date: 2022-08-26
     type: section
     slug: sSectionBlank
 
-  - date: 2021-08-31
-    type: lecture
-    slug: lValuesInDesign
-
-  - date: 2021-09-02
+  - date: 2022-08-30
     type: lecture
     slug: lSpeculativeDesgn
 
-  - date: 2021-09-03
-    type: section
-    slug: sSectionBlank
-
-  - date: 2021-09-05
-    type: assignment
-    slug: aDWCI
-
-  - date: 2021-09-07
+  - date: 2022-09-01
     type: lecture
     slug: lRespondingToReadings
 
-  - date: 2021-09-09
+  - date: 2022-09-02
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-09-05
+    type: assignment
+    slug: aDWCI
+
+  - date: 2022-09-06
     type: lecture
     slug: lImpact
 
-  - date: 2021-09-10
-    type: section
-    slug: sSectionBlank
-
-  - date: 2021-09-14
+  - date: 2022-09-08
     type: lecture
     slug: lCaseModernist
 
-  - date: 2021-09-15
+  - date: 2022-09-09
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-09-15
     type: module
     slug: mDesignLegislation
 
-  - date: 2021-09-16
+  - date: 2022-09-13
     type: lecture
     slug: lPersuasiveComputing
 
-  - date: 2021-09-17
-    type: section
-    slug: sSectionBlank
-
-  - date: 2021-09-19
-    type: assignment
-    slug: aDW1
-
-  - date: 2021-09-21
+  - date: 2022-09-15
     type: lecture
     slug: lPoliInfoVis
 
-  - date: 2021-09-23
+  - date: 2022-09-16
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-09-19
+    type: assignment
+    slug: aDW1
+
+  - date: 2022-09-20
     type: lecture
     slug: lPoliGames
 
-  - date: 2021-09-24
-    type: section
-    slug: sSectionBlank
-  
-  - date: 2021-09-26
-    type: assignment
-    slug: aMP1
-
-  - date: 2021-09-28
+  - date: 2022-09-22
     type: lecture
     slug: lPersuationCoercion
 
-  - date: 2021-09-30
+  - date: 2022-09-23
+    type: section
+    slug: sSectionBlank
+  
+  - date: 2022-09-26
+    type: assignment
+    slug: aMP1
+
+  - date: 2022-09-27
     type: lecture
     slug: lExpandingFraming
 
-  - date: 2021-10-01
-    type: section
-    slug: sSectionBlank
-
-  - date: 2021-10-02
-    type: module
-    slug: mInfrastructuring
-
-  - date: 2021-10-05
+  - date: 2022-09-29
     type: lecture
     slug: lPoliticsAlgorithms
 
-  - date: 2021-10-07
+  - date: 2022-09-30
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-10-02
+    type: module
+    slug: mInfrastructuring
+
+  - date: 2022-10-4
     type: lecture
     slug: lInfrastructure
 
-  - date: 2021-10-08
-    type: section
-    slug: sSectionBlank
-
-  - date: 2021-10-12
-    type: holiday
-    slug: hFallBreak 
-
-  - date: 2021-10-13
-    type: assignment
-    slug: aDW2
-
-  - date: 2021-10-14
+  - date: 2022-10-06
     type: lecture
     slug: lInfrastructuralActivism
 
-  - date: 2021-10-15
+  - date: 2022-10-07
     type: section
     slug: sSectionBlank
 
-  - date: 2021-10-17
-    type: assignment
-    slug: aMP2
+  - date: 2022-10-08
+    type: holiday
+    slug: hFallBreak 
 
-  - date: 2021-10-19
+  - date: 2022-10-13
+    type: assignment
+    slug: aDW2
+
+  - date: 2022-10-13
     type: lecture
     slug: lData-DrivenWork
 
-  - date: 2021-10-20
+  - date: 2022-10-14
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-10-17
+    type: assignment
+    slug: aMP2
+
+  - date: 2022-10-20
     type: module
     slug: mExpandingParticipation
 
-  - date: 2021-10-21
+  - date: 2022-10-18
     type: lecture
     slug: lParticipatoryDesign
 
-  - date: 2021-10-22
+  - date: 2022-10-20
+    type: lecture
+    slug: lPDPartnerMeetups
+
+  - date: 2022-10-21
     type: section
     slug: sSectionBlank
     topic: Partner finding PD section
 
-  - date: 2021-10-24
+  - date: 2022-10-24
     type: assignment
     slug: aDW3
 
-  - date: 2021-10-26
+  - date: 2022-10-25
     type: lecture
     slug: lCivicConversations
 
-  - date: 2021-10-28
+  - date: 2022-10-27
     type: lecture
-    slug: lPDPartnerMeetups
+    slug: lDialogicArtPractice
 
-  - date: 2021-10-29
+  - date: 2022-10-28
     type: section
     slug: sSectionBlank
     topic: PD second section
 
-  - date: 2021-11-02
-    type: lecture
-    slug: lDialogicArtPractice
 
-  - date: 2021-11-03
+
+  - date: 2022-11-03
     type: assignment
     slug: aMP3
 
-  - date: 2021-11-03
+  - date: 2022-11-03
     type: module
     slug: mDesigningImagination
 
-  - date: 2021-11-04
+  - date: 2022-11-01
     type: lecture
     slug: lNarrativeImpact
 
-  - date: 2021-11-05
-    type: section
-    slug: sSectionCancelled
-
-  - date: 2021-11-09
+  - date: 2022-11-03
     type: lecture
     slug: lMentalHealthDay1
 
-  - date: 2021-11-11
+  - date: 2022-11-04
+    type: section
+    slug: sSectionCancelled
+
+  - date: 2022-11-08
     type: lecture
     slug: lCriticalDesign
 
-  - date: 2021-11-12
-    type: assignment
-    slug: aDW4
-
-  - date: 2021-11-12
-    type: section
-    slug: sSectionBlank
-
-  - date: 2021-11-16
-    type: lecture
-    slug: lAfrofuturism
-
-  - date: 2021-11-18
+  - date: 2022-11-10
     type: lecture
     slug: lCriticalDesignWorkshop
 
-  - date: 2021-11-19
+  - date: 2022-11-12
+    type: assignment
+    slug: aDW4
+
+  - date: 2022-11-11
     type: section
     slug: sSectionBlank
 
-  - date: 2021-11-23
+  - date: 2022-11-15
+    type: lecture
+    slug: lAfrofuturism
+
+  - date: 2022-11-17
     type: lecture
     slug: lFinalReview
 
-  - date: 2021-11-23
-    type: assignment
-    slug: aDW5
-
-  - date: 2021-11-25
-    type: holiday
-    slug: hThanksgiving
-
-  - date: 2021-11-26
-    type: holiday
-    slug: hDayAfterThanksgiving
-
-  - date: 2021-11-27
-    type: module 
-    slug: mForwardOutward
-
-  - date: 2021-11-30
-    type: lecture
-    slug: lSiliconValley
-
-  - date: 2021-12-01
-    type: assignment
-    slug: aMP4
-
-  - date: 2021-12-02
-    type: lecture
-    slug: lBeyondSV
-
-  - date: 2021-12-03
+  - date: 2022-11-18
     type: section
     slug: sSectionBlank
 
-  - date: 2021-12-07
+  - date: 2022-11-22
+    type: lecture
+    slug: lSiliconValley
+
+  - date: 2022-11-23
+    type: assignment
+    slug: aDW5
+
+  - date: 2022-11-23
+    type: holiday
+    slug: hThanksgiving
+
+  - date: 2022-11-26
+    type: holiday
+    slug: hDayAfterThanksgiving
+
+  - date: 2022-11-28
+    type: module 
+    slug: mForwardOutward
+
+  - date: 2022-12-01
+    type: assignment
+    slug: aMP4
+
+  - date: 2022-11-29
+    type: lecture
+    slug: lBeyondSV
+
+  - date: 2022-12-01
     type: lecture
     slug: lCourseConclusion
 
-  - date: 2021-12-11
+  - date: 2022-12-02
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-12-11
     type: assignment
     slug: aFinalSession1
 
-  - date: 2021-12-13
+  - date: 2022-12-13
     type: assignment
     slug: aFinalSession2
