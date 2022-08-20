@@ -18,6 +18,22 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2022-08-10
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-08-13
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-08-15
+    type: section
+    slug: sSectionBlank
+
+  - date: 2022-08-20
+    type: section
+    slug: sSectionBlank
+
   - date: 2022-08-22
     type: module
     slug: mIntroduction
@@ -34,6 +50,10 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2022-08-29
+    type: assignment
+    slug: aDW1
+
   - date: 2022-08-30
     type: lecture
     slug: lSpeculativeDesgn
@@ -48,7 +68,7 @@
 
   - date: 2022-09-05
     type: assignment
-    slug: aDWCI
+    slug: aDW2
 
   - date: 2022-09-06
     type: lecture
@@ -62,7 +82,11 @@
     type: section
     slug: sSectionBlank
 
-  - date: 2022-09-15
+  - date: 2022-09-12
+    type: assignment
+    slug: aDW3
+
+  - date: 2022-09-13
     type: module
     slug: mDesignLegislation
 
@@ -80,7 +104,7 @@
 
   - date: 2022-09-19
     type: assignment
-    slug: aDW1
+    slug: aDW4
 
   - date: 2022-09-20
     type: lecture
@@ -93,10 +117,10 @@
   - date: 2022-09-23
     type: section
     slug: sSectionBlank
-  
+
   - date: 2022-09-26
     type: assignment
-    slug: aMP1
+    slug: aDW5
 
   - date: 2022-09-27
     type: lecture
@@ -110,11 +134,19 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2022-09-30
+    type: assignment
+    slug: aMP1
+
   - date: 2022-10-02
     type: module
     slug: mInfrastructuring
 
-  - date: 2022-10-4
+  - date: 2022-10-03
+    type: assignment
+    slug: aDW6
+
+  - date: 2022-10-04
     type: lecture
     slug: lInfrastructure
 
@@ -126,13 +158,13 @@
     type: section
     slug: sSectionBlank
 
-  - date: 2022-10-08
+  - date: 2022-10-11
     type: holiday
     slug: hFallBreak 
 
-  - date: 2022-10-13
+  - date: 2022-10-12
     type: assignment
-    slug: aDW2
+    slug: aDW7
 
   - date: 2022-10-13
     type: lecture
@@ -144,15 +176,19 @@
 
   - date: 2022-10-17
     type: assignment
+    slug: aDW8
+
+  - date: 2022-10-18
+    type: lecture
+    slug: lParticipatoryDesign
+
+  - date: 2022-10-19
+    type: assignment
     slug: aMP2
 
   - date: 2022-10-20
     type: module
     slug: mExpandingParticipation
-
-  - date: 2022-10-18
-    type: lecture
-    slug: lParticipatoryDesign
 
   - date: 2022-10-20
     type: lecture
@@ -165,7 +201,7 @@
 
   - date: 2022-10-24
     type: assignment
-    slug: aDW3
+    slug: aDW9
 
   - date: 2022-10-25
     type: lecture
@@ -180,15 +216,9 @@
     slug: sSectionBlank
     topic: PD second section
 
-
-
-  - date: 2022-11-03
+  - date: 2022-10-31
     type: assignment
-    slug: aMP3
-
-  - date: 2022-11-03
-    type: module
-    slug: mDesigningImagination
+    slug: aDW10
 
   - date: 2022-11-01
     type: lecture
@@ -199,8 +229,20 @@
     slug: lMentalHealthDay1
 
   - date: 2022-11-04
+    type: assignment
+    slug: aMP3
+
+  - date: 2022-11-04
     type: section
     slug: sSectionCancelled
+
+  - date: 2022-11-07
+    type: assignment
+    slug: aDW11
+
+  - date: 2022-11-07
+    type: module
+    slug: mDesigningImagination
 
   - date: 2022-11-08
     type: lecture
@@ -210,13 +252,13 @@
     type: lecture
     slug: lCriticalDesignWorkshop
 
-  - date: 2022-11-12
-    type: assignment
-    slug: aDW4
-
   - date: 2022-11-11
     type: section
     slug: sSectionBlank
+
+  - date: 2022-11-14
+    type: assignment
+    slug: aDW12
 
   - date: 2022-11-15
     type: lecture
@@ -230,13 +272,13 @@
     type: section
     slug: sSectionBlank
 
+  - date: 2022-11-21
+    type: assignment
+    slug: aDW13
+
   - date: 2022-11-22
     type: lecture
     slug: lSiliconValley
-
-  - date: 2022-11-23
-    type: assignment
-    slug: aDW5
 
   - date: 2022-11-23
     type: holiday
@@ -247,16 +289,20 @@
     slug: hDayAfterThanksgiving
 
   - date: 2022-11-28
+    type: assignment
+    slug: aDW14
+
+  - date: 2022-11-28
     type: module 
     slug: mForwardOutward
-
-  - date: 2022-12-01
-    type: assignment
-    slug: aMP4
 
   - date: 2022-11-29
     type: lecture
     slug: lBeyondSV
+
+  - date: 2022-12-01
+    type: assignment
+    slug: aMP4
 
   - date: 2022-12-01
     type: lecture
@@ -266,10 +312,14 @@
     type: section
     slug: sSectionBlank
 
-  - date: 2022-12-11
+  - date: 2022-12-05
+    type: assignment
+    slug: aDW15
+
+  - date: 2022-12-12
     type: assignment
     slug: aFinalSession1
 
-  - date: 2022-12-13
+  - date: 2022-12-14
     type: assignment
     slug: aFinalSession2

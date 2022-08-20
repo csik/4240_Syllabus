@@ -4,15 +4,17 @@
 
 ## Office Hours
 
-<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVOWiqktfUq04EB45CS_UtiWwiN2LK-sqmkzQS2LxfGZcdY_T6MXZg9lwshC-MbbE0DsrO1fInl_UR/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="70%" height="600" ></iframe></p>
+Offices hours and availability will be posted in the second week of the semester.
 
-* indicates graduate TA, able to give advice in 5240.
+[//]: # (<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVOWiqktfUq04EB45CS_UtiWwiN2LK-sqmkzQS2LxfGZcdY_T6MXZg9lwshC-MbbE0DsrO1fInl_UR/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="70%" height="600" ></iframe></p>)
+
+[//]: # (* indicates graduate TA, able to give advice in 5240.)
 
 ## Regrade Requests
 
 In order to submit a regrade request, first wait 24 hours after you receive the grade. Requests must be made within two weeks of receiving an on-time grade, or one week of receiving a grade for a late submission. Please submit all regrade requests by filling out the survey below. We ask that you read it carefully, think carefully before requesting a regrade, and note that a regrade **may result in a lower grade.** 
 
-NB: We are working hard for quick, accurate, fair feedback. That said, Gradescope has been very challenging to work with, and there may be errors such as ungraded workbook assignments. In this case you will be granted extra slip days on the next workbook assignment. Please do actively check your assignment submission, and if it lacks a grade or comment, fill out the regrade form.
+NB: We are working hard for quick, accurate, fair feedback. We do a fair amount of work in this class to ensure inter-grader consistency. If you have questions about grading, we ask that you bring them up in private Ed Discussion posts.
 
 Please note:
 
@@ -20,26 +22,28 @@ Please note:
 -   If we regrade your assignment, this could result in your grade going up or down.
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
-[Regrade Form](https://cornell.ca1.qualtrics.com/jfe/form/SV_9NMk6yyRiTF75mS)
+The regrade form will go live after the first grades are returned.
+[//]: # ([Regrade Form](https://cornell.ca1.qualtrics.com/jfe/form/SV_9NMk6yyRiTF75mS))
 
 ## In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. Over and above the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/) we use a course [code of conduct]() derived from the Mozilla and Ubuntu codes of conduct.
 
 Students are expected to come to class on time, whether in person or remote, and to treat eachother and teaching staff respectfully.
 
-## Zoom policy (in case of pandemic)
+[//]: # (## Zoom policy (in case of pandemic)
 
-You need to log in to Zoom using your Cornell netID to attend lecture/section- Please keep your microphone muted except when it is your turn to talk, and make sure that your screen name is set with your first and last name.
+[//]: # (You need to log in to Zoom using your Cornell netID to attend lecture/section- Please keep your microphone muted except when it is your turn to talk, and make sure that your screen name is set with your first and last name.)
 
-We appreciate that it can be uncomfortable to give the entire class a view into your personal life. In **lecture** you are **not** required to have your camera on. As lecturers, though, we have to admit that we love to see you, and to get feedback from you. We do ask you to **turn your cameras on when we have small-group breakout sessions** of 5 or fewer students; the quality of conversation and co-design improves greatly with a visual channel.
+[//]: # (We appreciate that it can be uncomfortable to give the entire class a view into your personal life. In **lecture** you are **not** required to have your camera on. As lecturers, though, we have to admit that we love to see you, and to get feedback from you. We do ask you to **turn your cameras on when we have small-group breakout sessions** of 5 or fewer students; the quality of conversation and co-design improves greatly with a visual channel.)
 
-In **section**, to foster a personal, relational climate and collabroative design work, **you are required to have camera on**; to accommodate students in special circumstaces, exceptions are possible by contacting your section TA privately.
+[//]: # (In **section**, to foster a personal, relational climate and collabroative design work, **you are required to have camera on**; to accommodate students in special circumstaces, exceptions are possible by contacting your section TA privately.)
 
-If you need to step out temporarily during lecture or section, **please log out** of the Zoom meeting and log back in when you return. This avoids other students having the unpleasant experience of getting into a breakout room to find the other "students" are zombie attenders.
+[//]: # (If you need to step out temporarily during lecture or section, **please log out** of the Zoom meeting and log back in when you return. This avoids other students having the unpleasant experience of getting into a breakout room to find the other students are actually zombie attenders.)
 
-Please treat our Zoom classes as you would in-person class in terms of dress and appearance. Your camera should not reveal anything potentially offensive.Of course, babies, little siblings, grandparents, pets, messy rooms, etc. are fine --- we're all working in unusual locations.
+[//]: # (Please treat our Zoom classes as you would in-person class in terms of dress and appearance. Your camera should not reveal anything potentially offensive.Of course, babies, little siblings, grandparents, pets, messy rooms, etc. are fine --- we're all working in unusual locations.)
 
-You may use the "Everyone" chat channel to share questions or comments about the lecture; we will also use chat at times for in-class exercises. Public and private **chat channels should be used for course-related work**. Personal comments or other non-section dialogues should not be sent in Zoom chat, even with friends. Flirting on chat channels is off-topic and may easily be experienced as sexual harrassment, even if this is not your intention. Please remember that anything said on a private chat channel in the Zoom meeting may potentially be seen by the course instructors, and keep your comments on appropriate topics.
+[//]: # (You may use the _Everyone_ chat channel to share questions or comments about the lecture; we will also use chat at times for in-class exercises. Public and private **chat channels should be used for course-related work**. Personal comments or other non-section dialogues should not be sent in Zoom chat, even with friends. Flirting on chat channels is off-topic and may easily be experienced as sexual harrassment, even if this is not your intention. Please remember that anything said on a private chat channel in the Zoom meeting may potentially be seen by the course instructors, and keep your comments on appropriate topics.)
+
 
 ## Late policy
 

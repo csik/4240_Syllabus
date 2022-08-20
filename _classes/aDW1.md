@@ -1,5 +1,7 @@
 ---
-title: "Design Workbook: Module 1"
+title: "Design Workbook 1"
 type: assignment
 ---
-[Design workbook](dw) covering all readings in Unit 1, to be submitted in Gradescope by 10pm.
+Please find a passage (1-4 sentences) you found especially compelling from ONE of [Nissenbaum, Papanek, or Wiener] the readings. Write it out at the top of your paper, then write a passage explaining the idea in your own words. 
+
+The goal of this is to be able to demonstrate that you understood a critical or evocative part of the reading, and to demonstrate to the grader that you understood it. 

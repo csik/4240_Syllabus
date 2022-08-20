@@ -1,7 +1,7 @@
 ---
-title: "Design Workbook: Module 2"
+title: "Design Workbook 2"
 type: assignment
 ---
-Design workbook covering all readings in Unit 2, to be submitted in Gradescope by 11:59pm.
+Second Design Workbook, covering ONE OF [Gaver, Gaver and Martin, Pierce and Paulos, or Bleecker].
 
-Full list of acceptable readings [here](https://courses.infosci.cornell.edu/info4240/2021fa/2021/09/29/DW2-READINGS.html).
+First, follow the instructions from DW1. Then, in the remaining part of the paper, speculate a design ...

@@ -1,5 +1,7 @@
 ---
-title: "Design Workbook: Module 6"
+title: "Design Workbook 6"
 type: assignment
 ---
-Design workbook covering all readings in Unit 6 to be submitted in Gradescope by 11:59pm.
+Sixth Design workbook, with response from ONE of [Liboiron, Liboiron, Reinsborough and Canning] and another from one of [Gillespie, Smucker].
+
+Due 11:59pm.

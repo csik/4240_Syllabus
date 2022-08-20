@@ -1,4 +1,4 @@
 ---
-title: "No lecture: Fall Break / Indigenous People's Day"
+title: "No lecture: Fall Break"
 type: holiday
 ---
