@@ -12,7 +12,7 @@ The social impact of technologies is typically thought about fairly late, if eve
 Key questions we’ll address over the semester include:
  * How can we "read" what social and cultural values a technology design consciously or unconsciously promotes? 
  * How and to what degree can social impact be "written into" a technology?   
- * How can we embed social and cultural values into our designs?
+ * How can I intentionally embed social and cultural values into my designs?
 
 Throughout the course, through readings and lectures, we’ll learn from a variety of arguments that others have made about technology and values. Each module contains one or two example “design strategies” that others have used and that you’ll be able to draw from in your future life and career. Throughout the course you'll have the opportunity to create many conceptual designs, in dialog with the readings and lectures, in order to flex your creative and analytical skills.
 
@@ -22,14 +22,16 @@ Technical background is not needed for this course, but may be drawn upon if you
 
 Across the contemporary world, technologies are an intimate part of our daily lives, and often frame one’s choices. The act of designing technologies does not simply create efficiencies or functionality; it also offers possibilities for (and constraints on) our possibile actions, ways of looking at the world, and modes through which we can relate to one another. Designs, intentionally or not, embody (and legislate) values -– ones our communities of users sometimes accept, sometimes reject, sometimes build on, and sometimes alter.
 
-This course will equip students to find their own answers to two key questions:
+This course will equip students to find their own answers to three key questions:
 
 1. *What values do specific technology designs embody, and how and to what extent do they do so?*
    We will look at current and historical case studies of design interventions to identify ways in which technologies can, intentionally or unintentionally, promote specific values and to analyze how those values play out in practice in the complex worlds of everyday life.
 2. *How and to what extent is it possible to design technologies to reflect specific values?*
    We will examine and practice a variety of design strategies (methods) intended to incorporate values in design, and analyze their benefits and drawbacks.
+3. *How can I intentionally embed social and cultural values into my designs?*
+   All through the semester, through workbooks and miniprojects, students submit designs and receive feedback on them. These designs are highly conceptual, responding to social and cultural arguments from course readings, and in turn making their own arguments. Through this process students will confront the power of designers to enable or constrain their user's choices, essentially rewriting society and culture.
 
-These questions cross between two domains which are not often brought into conversation in undergraduate education: technology *design* and the social, cultural, historical, and political *analysis* of technologies. In this course, we will develop or improve a facility to think, make arguments, and design using techniques from critically-informed technology analysis. This hybrid approach borrows and blends ideas and techniques from human-computer interaction, engineering, product design, science & technology studies, and the arts. This course is expected to serve students from engineering, the humanities, the social sciences, and the arts and design. If you are interested in reflecting on and improving the role of technology in society, you’re in the right place. 
+These questions cross between two domains which are not often brought into conversation in undergraduate education: technology *design* and the social, cultural, historical, and political *analysis* of technologies. In this course, we will develop or improve a facility to think, make arguments, and design using techniques from critically-informed technology analysis. This hybrid approach borrows and blends ideas and techniques from human-computer interaction, engineering, product design, science & technology studies, and the arts. This course is expected to serve students from engineering, the humanities, the social sciences, and the arts and design. Even if a student doesn't go into design, they are subject to countless design decisions, and the course serves to establish a form of literacy in understanding the values behind those decisions. If you are interested in reflecting on and improving the role of technology in society, you’re in the right place. 
 
 This course is oriented to an advanced undergraduate and master's student audience. An ability to read critically and willingness to take intellectual risks are essential in this course.
 

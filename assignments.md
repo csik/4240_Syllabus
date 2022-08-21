@@ -21,9 +21,11 @@ After most lectures you'll have until the following lecture to answer a short Ca
 
 ## Design workbooks
 
-Over the course of the semester, you will document your thoughts and ideas in response to the readings in a **design workbook.** Each page in your workbook will identify a specific idea from the author's arguments that caught your attention, and explore its implications through a rough design sketch, annotated with thoughts about how your design relates to, extends, challenges, or otherwise explores the author's idea you chose to respond to. At the end of each **module**, you will submit the portion of your design workbook that responds to readings **from that module**. We strongly suggest that you write up each design response directly after finishing the corresponding reading, rather than waiting until the end of the module. You should expect each design response in your workbook to take about 20 minutes to execute. If you find it taking significantly longer, please visit office hours for aid in tuning up your strategies for crafting responses.
+Over the course of the semester, you will document your thoughts and ideas in response to the readings in a **design workbook.** Each page in your workbook will identify a specific idea from the author's arguments that caught your attention, and explore its implications through a rough design sketch, annotated with thoughts about how your design relates to, extends, challenges, or otherwise explores the author's idea you chose to respond to. We strongly suggest that you write up each design response directly after finishing the corresponding reading, rather than waiting until the end of the week. You should expect each design workbook response to take about 30 minutes to execute. If you find it taking significantly longer, please visit office hours for aid in tuning up your strategies for crafting responses.
 
-These workbooks are central to the course, and we encourage you to have fun with them. That said, the key to doing them successfully is to **show that you understood the reading**. At their core, they are like a book review that you can use as a springboard to synthesize something creative each week. But remember: show mastery of the reading first!
+These workbooks are central to the course, and we encourage you to have fun with them. That said, the key to doing them successfully is to **show that you understood the reading**. At their core, they are like a tiny book review, but one that you can use as a springboard to synthesize something creative each week. But remember: show mastery of the reading first!
+
+Several times during the semester you'll put up your workbooks in section and the class will look at and discuss them in a design critique. You must save paper copies of all your prior workbooks to take to critique!
 
 ## Design mini-projects
 
@@ -39,20 +41,23 @@ We do not excuse individual absences in this course. We understand that people w
 
 ## Final exam
 
-The final exam will be a written exam where you craft a critically engaged design analysis and exploration on a topic in current events. You'll be allowed to choose from several of the design strategies covered in the course. The exam questions (minus the topic and which strategies to use) will be released before exam period so that you can prepare for it.
+The optional final exam will be a written exam where you craft a critically engaged design analysis and exploration on a topic in current events. You'll be allowed to choose from several of the design strategies covered in the course. The exam questions (minus the topic and which strategies to use) will be released before exam period so that you can prepare for it.
+
+If you don't take the exam, your grade on it will be the same as the points you scored in the other activities divided by 85. IE, if you have received 80/85 (94.11%) points by the end of the semester, and choose not to take the final, you'll receive (80/85)*15 on the final, making your final exam and your final course score 94.11.
 
 ## Grade breakdown
 
--   5%: Lecture Quizzes
--   40%: Design workbook
--   40%: Design mini-projects
--   15%: Final exam
+-   07.5%:  Active Learning & Pre-Lecture Quizzes
+-   35.0%:  Design workbook
+-   07.5%:  Design workbook critiques
+-   35.0%:  Design mini-projects
+-   15.0%:  Optional final exam
 
 Grading is not just a matter of numbers, but also of case-based judgment. The instructors reserve the right to adjust grades by up to half a letter grade based on knowledge of your performance not summed up in this tidy formula.
 
 # Academic Integrity
 
-Our expectation is that you are generally aware of the need for academic integrity and self-motivated to achieve it. Issues with academic integrity that have come up in this course in the past have typically arisen because a student was unaware of the specific requirements of [academic integrity at Cornell](https://theuniversityfaculty.cornell.edu/dean/academic-integrity/code-of-academic-integrity/), rather than students trying to "game the system" for their own advantage. Some examples of situations encountered include:
+Our expectation is that you are generally aware of the need for academic integrity, and are self-motivated to achieve it. Issues with academic integrity that have come up in this course in the past have typically arisen because a student was unaware of the specific requirements of [academic integrity at Cornell](https://theuniversityfaculty.cornell.edu/dean/academic-integrity/code-of-academic-integrity/), rather than students trying to "game the system" for their own advantage. Some examples of situations encountered include:
 
 -   Not knowing how to properly cite or use non-academic on-line sources, informal sources such as another student's comments in class, or another person's ideas (as opposed to their words)
 -   Not being aware when doing literature reviews that close paraphrasing of someone else's text is considered a form of plagiarism, even when the original text is cited

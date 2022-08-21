@@ -4,7 +4,7 @@
 
 ## Office Hours
 
-Offices hours and availability will be posted in the second week of the semester.
+Offices hours and availability will be posted ->here<- in the second week of the semester.
 
 [//]: # (<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVOWiqktfUq04EB45CS_UtiWwiN2LK-sqmkzQS2LxfGZcdY_T6MXZg9lwshC-MbbE0DsrO1fInl_UR/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="70%" height="600" ></iframe></p>)
 
@@ -23,7 +23,6 @@ Please note:
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
 The regrade form will go live after the first grades are returned.
-[//]: # ([Regrade Form](https://cornell.ca1.qualtrics.com/jfe/form/SV_9NMk6yyRiTF75mS))
 
 ## In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. Over and above the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/) we use a course [code of conduct]() derived from the Mozilla and Ubuntu codes of conduct.

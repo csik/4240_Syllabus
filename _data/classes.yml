@@ -1,42 +1,6 @@
-  - date: 2022-07-18
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-07-19
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-07-20
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-07-21
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-07-22
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-08-10
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-08-13
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-08-15
-    type: section
-    slug: sSectionBlank
-
   - date: 2022-08-20
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-08-22
-    type: module
-    slug: mIntroduction
+    type: holiday
+    slug: hSummerBreak
 
   - date: 2022-08-23
     type: lecture
@@ -178,6 +142,10 @@
     type: assignment
     slug: aDW8
 
+  - date: 2022-10-17
+    type: module
+    slug: mExpandingParticipation
+
   - date: 2022-10-18
     type: lecture
     slug: lParticipatoryDesign
@@ -187,12 +155,8 @@
     slug: aMP2
 
   - date: 2022-10-20
-    type: module
-    slug: mExpandingParticipation
-
-  - date: 2022-10-20
     type: lecture
-    slug: lPDPartnerMeetups
+    slug: lCivicConversations
 
   - date: 2022-10-21
     type: section
@@ -205,8 +169,8 @@
 
   - date: 2022-10-25
     type: lecture
-    slug: lCivicConversations
-
+    slug: lPDPartnerMeetups
+    
   - date: 2022-10-27
     type: lecture
     slug: lDialogicArtPractice
@@ -280,11 +244,11 @@
     type: lecture
     slug: lSiliconValley
 
-  - date: 2022-11-23
+  - date: 2022-11-24
     type: holiday
     slug: hThanksgiving
 
-  - date: 2022-11-26
+  - date: 2022-11-25
     type: holiday
     slug: hDayAfterThanksgiving
 
