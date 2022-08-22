@@ -1,4 +1,4 @@
 ---
 title: "No lecture: happy Thanksgiving."
-type: lecture
+type: holiday
 ---
