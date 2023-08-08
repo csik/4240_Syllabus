@@ -1,6 +1,6 @@
 ## Individual assignments
 - [Design Workbook](dw) 
-- [Miniproject 1: Persuasive technology OR Political Visualization](mp1)
+- [Miniproject 1: Persuasive technology](mp1)
 - [Miniproject 2: Infrastructural design](mp2)
 - [Miniproject 3: Participatory design](mp3)
 - [Miniproject 4: Critical design](mp4)
@@ -25,11 +25,13 @@ Over the course of the semester, you will document your thoughts and ideas in re
 
 These workbooks are central to the course, and we encourage you to have fun with them. That said, the key to doing them successfully is to **show that you understood the reading**. At their core, they are like a tiny book review, but one that you can use as a springboard to synthesize something creative each week. But remember: show mastery of the reading first!
 
-Several times during the semester you'll put up your workbooks in section and the class will look at and discuss them in a design critique. You must save paper copies of all your prior workbooks to take to critique!
+Design Workbooks will be submitted through Canvas. Several times during the semester you'll put up your workbooks in section and the class will look at and discuss them in a design critique. You must save paper copies of all your prior workbooks to take to critique!
 
 ## Design mini-projects
 
 Over the course of the semester, you will have several **design mini-projects** which will help you develop facility in some of the design methods we are learning about in the course. These are each structured a bit differently, and one involves a partner. They are slightly more work than a module's workbooks.
+
+Design mini-projects will be submitted through Canvas. 
 
 ## Class participation
 
@@ -37,7 +39,7 @@ Your **participation in class** is essential to your success in the course. In
 
 Sections are not recorded to allow for the privacy of section participants and their contributions. Lectures are not recorded because we've found that students who watch videos of lectures retain far less than if they come in person. We're trying to help you get a good grade. You may note that sections don't formally affect your grade, but we strongly encourage you to attend unless you are ill, because sections help prepare you for every assignment in the course. How much does attending section help? In previous years, students who did not significantly engage in section received, on average, a full letter lower final grade compared to students who attended regularly!
 
-We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material.
+We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class. Slip days should help you with these. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material. Otherwise, we expect you to contact other students for notes and to help you catch up on missed lectures or sections.
 
 ## Final exam
 

@@ -8,5 +8,8 @@ readings:
 ---
 Designing software and hardware to persuade people to alter their ways of thinking or their behavior, and thereby contribute to solving social problems.
 
+A Guide to Persuasive Affordances:
+[Guide]({{ site.url }}{{ site.baseurl }}/my_assets/img/persuasive_affordances.pdf)
+
 Additional resources: Another useful how-to for persuasive technology:
 Fogg: [Creating persuasive technologies: An eight-step design process](https://doi.org/10.1145/1541948.1542005)

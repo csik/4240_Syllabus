@@ -20,7 +20,7 @@
 
   - date: 2022-08-30
     type: lecture
-    slug: lSpeculativeDesgn
+    slug: lSpeculativeWorkbooks
 
   - date: 2022-09-01
     type: lecture
@@ -30,7 +30,7 @@
     type: section
     slug: sSectionBlank
 
-  - date: 2022-09-05
+  - date: 2022-09-06
     type: assignment
     slug: aDW2
 
@@ -160,8 +160,8 @@
 
   - date: 2022-10-21
     type: section
-    slug: sSectionBlank
-    topic: Partner finding PD section
+    slug: sSectionCrit1
+    topic: Critiques!
 
   - date: 2022-10-24
     type: assignment
@@ -169,20 +169,24 @@
 
   - date: 2022-10-25
     type: lecture
-    slug: lPDPartnerMeetups
+    slug: lPDPartnerFindElicit
     
   - date: 2022-10-27
     type: lecture
-    slug: lDialogicArtPractice
+    slug: lPDPartnerMeetups
 
   - date: 2022-10-28
     type: section
     slug: sSectionBlank
     topic: PD second section
 
-  - date: 2022-10-31
+  - date: 2022-11-01
     type: assignment
     slug: aDW10
+
+  - date: 2022-11-01
+    type: module
+    slug: mDesigningImagination
 
   - date: 2022-11-01
     type: lecture
@@ -190,35 +194,31 @@
 
   - date: 2022-11-03
     type: lecture
-    slug: lMentalHealthDay1
-
-  - date: 2022-11-04
-    type: assignment
-    slug: aMP3
+    slug: lCriticalDesign 
 
   - date: 2022-11-04
     type: section
-    slug: sSectionCancelled
+    slug: sSectionBlank
 
   - date: 2022-11-07
     type: assignment
     slug: aDW11
 
-  - date: 2022-11-07
-    type: module
-    slug: mDesigningImagination
-
   - date: 2022-11-08
     type: lecture
-    slug: lCriticalDesign
+    slug: lCriticalDesignWorkshop
 
   - date: 2022-11-10
     type: lecture
-    slug: lCriticalDesignWorkshop
+    slug: lAfrofuturism
 
   - date: 2022-11-11
     type: section
     slug: sSectionBlank
+
+  - date: 2022-11-11
+    type: assignment
+    slug: aMP3
 
   - date: 2022-11-14
     type: assignment
@@ -226,17 +226,17 @@
 
   - date: 2022-11-15
     type: lecture
-    slug: lAfrofuturism
+    slug: lFinalReview
 
   - date: 2022-11-17
     type: lecture
-    slug: lFinalReview
+    slug: lMentalHealthDay1
 
   - date: 2022-11-18
     type: section
     slug: sSectionBlank
 
-  - date: 2022-11-21
+  - date: 2022-11-22
     type: assignment
     slug: aDW13
 
@@ -252,11 +252,11 @@
     type: holiday
     slug: hDayAfterThanksgiving
 
-  - date: 2022-11-28
+  - date: 2022-11-29
     type: assignment
     slug: aDW14
 
-  - date: 2022-11-28
+  - date: 2022-11-29
     type: module 
     slug: mForwardOutward
 
@@ -274,7 +274,7 @@
 
   - date: 2022-12-02
     type: section
-    slug: sSectionBlank
+    slug: sSectionCrit2
 
   - date: 2022-12-05
     type: assignment

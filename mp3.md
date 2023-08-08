@@ -17,7 +17,7 @@ Good participatory design results in surprises - surprises to the designer about
 
 ### Instructions
 
-1.  In the first section of Module 4 (10/21), we will **form teams of two**. In your team, **decide who wants to be the 'designer' and who the 'user.'** If you are not present in section on that day, you will need to find a friend who is willing to act as the 'user' for you (this does not need to be a person in this class). If your friend is not in 4240, you must play the 'designer' role while your friend is the 'user.'
+1.  In  the (10/28) section of Module 4, we will **form teams of two**. In your team, **decide who wants to be the 'designer' and who the 'user.'** If you are not present in section on that day, you will need to find a friend who is willing to act as the 'user' for you (this does not need to be a person in this class). If your friend is not in 4240, you must play the 'designer' role while your friend is the 'user.'
     *   If you are working with another student in 4240, make sure to note the **full name** and the **netID** of your partner.
 2.  **Identify an activity** that the user regularly engages in for which you wish to design. **The activity should be one about which the user feels s/he is an expert, and about which the designer knows little**.
 3.  After interviewing the user briefly about the activity, **develop a hands-on, creative elicitation technique** tailored to that activity which you will use to develop specific insights into and concrete details about that activity. You should start by brainstorming several techniques before settling on and fleshing out your chosen technique.
@@ -30,11 +30,11 @@ Good participatory design results in surprises - surprises to the designer about
         *   Participatory design techniques are often **physical, visual, and creative**.
         *   They focus on **reducing** as much as possible **the power differential** between the designer and the person designed for.
         *   They should be **specifically tailored to address the nuances of the task at hand.**
-4.  By the lecture on 10/28, **execute** the elicitation technique you developed as part of a participatory design session. This process should take about 30 minutes but could take a bit longer if you are in the groove. **Your goal here should be to collaboratively elicit as much detail as possible**. You should **both** take notes to document your process and capture details of the activity that seem important, and note surprises that come up along the course of discussion. It might be helpful to **take photographs** of stages in the design process for your own notes or to include in your submission.
+4.  By the section on 11/4, **execute** the elicitation technique you developed as part of a participatory design session. This process should take about 30 minutes but could take a bit longer if you are in the groove. **Your goal here should be to collaboratively elicit as much detail as possible**. You should **both** take notes to document your process and capture details of the activity that seem important, and note surprises that come up along the course of discussion. It might be helpful to **take photographs** of stages in the design process for your own notes or to include in your submission.
 5.  Develop your design, by doing the following:
     1.  **Review the results** of the discussion so far. What is striking or surprising about the activity, for the designer or for the now-sensitized user? What mismatches seem to exist between currently existing technology and what your user actually does?
     2.  Using paper, markers, or other supplies, **collaboratively develop a concept prototype** for a technology that would contribute positively to this activity. Make sure **both parties agree** that this would be a desirable technology.
-    3.  **Annotate the technology design** with descriptions of how the design responds to specific details of the user's activity that came up in earlier discussions.We will provide time in our lecture slot on 10/28 to develop your project design, and on 10/29 to further understand PD.
+    3.  **Annotate the technology design** with descriptions of how the design responds to specific details of the user's activity that came up in earlier discussions. We will provide time in our lecture slot on 10/27 to develop your project design, and in section on 10/28 to further understand MP3.
 6.  After elicitation and design, each participant will write up his or her own brief **experience report**. This report will contain the following components:
     1.  Your **role** in the process (user or designer).
     2.  **Your partner's full name**.
@@ -42,14 +42,16 @@ Good participatory design results in surprises - surprises to the designer about
     4.  (400 words, with optional images) A description of **how your technique worked out in practice**, and what you learned about the user's activity you are designing for through it.
     5.  (100-200 words) A description of the nature of any **surprises** that came up for you during the course of design and what you learned from them. Hint: if there were no surprises, you probably did something wrong.
     6.  (700 words) A **reflection** explaining how and to what degree your team instantiated participatory design **with specific references to the reading and class notes**.
+    NB: Word counts are strict limits. Graders will stop reading the assignment when they are reached and points past that point will be counted.
 
-To aid you in getting the miniproject done with minimal pain, we will devote section on 10/22 to starting to develop your elicitation technique, and the lecture slot on 10/28 to creating the resulting design and taking notes towards your individual project report. Finally, we will give you further taining on how to transition from elicitation to design in section on 10/29. You will profit the most from this set up if you deploy the elicitation techniques prior to lecture on 10/28.
+To aid you in getting the miniproject done with minimal pain, we will devote section on 10/28 to starting to testing your elicitation technique against common pitfalls, and we will give you further taining on how to transition from elicitation to design in section on 11/4. You will profit the most from this set up if you deploy the elicitation techniques prior 11/4. As with all design techniques in this class, iteration is always profitable.
 
 ### Submission
 
 Deliverables:
 
-1.  A photograph of your annotated technology sketch (i.e. the designed prototype, **with annotations** stating clearly how each design feature relates to a specific thing that you learned through your elicitation process). This submission is the same for both partners on your team and only needs to be submitted by one of you. Make sure you agree on who is submitting it!
-2.  Your individual experience report, as detailed above. Each student will need to submit their report separately. If you are working with a user outside of this class, they do not need to submit a report.
+1.  The group submission should be photograph/scan of your annotated technology sketch (i.e. the designed prototype, **with annotations** stating clearly how each design feature relates to a specific thing that you learned through your elicitation process). This submission is the same for both partners on your team and only needs to be submitted by one of you. Make sure you agree on who is uploading it, and obviously put both your netids on it!
+2.  Your individual experience report, as detailed above. Each student will need to write and submit their report separately. This is where the elicitation process is described, from your perspective. If you are working with a user outside of this class, the outsider does not need to submit a report.
+Please pay attention to word counts in both sections!
 
-Your project is due electronically via submission to Canvas by **11:59pm** on Friday, Nov. 4. Your submissions must be in .pdf format (you can print your design image to pdf to produce this).
+Your project is due electronically via submission to Canvas by **11:59pm** on Friday, Nov. 11. Your submissions must be in .pdf format (you can print your design image to pdf to produce this). Passages beyond the word limits will not be counted toward the assignment.

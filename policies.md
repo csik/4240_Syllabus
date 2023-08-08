@@ -4,9 +4,7 @@
 
 ## Office Hours
 
-Offices hours and availability will be posted ->here<- in the second week of the semester.
-
-[//]: # (<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSVOWiqktfUq04EB45CS_UtiWwiN2LK-sqmkzQS2LxfGZcdY_T6MXZg9lwshC-MbbE0DsrO1fInl_UR/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="70%" height="600" ></iframe></p>)
+<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQa02N9-0tYwMp-T1oS9kdfNvi6PUnWyp-AMYo8qhdp1vjF2QY-Xse8A8Q_jiJkcNNmgk3rXRzCBlmB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500" ></iframe></p>
 
 [//]: # (* indicates graduate TA, able to give advice in 5240.)
 
@@ -18,16 +16,21 @@ NB: We are working hard for quick, accurate, fair feedback. We do a fair amount 
 
 Please note:
 
+-   Please read the form carefully.
 -   Regrade requests must be submitted **within 2 weeks** of receiving your grade.
--   If we regrade your assignment, this could result in your grade going up or down.
+-   **If we regrade your assignment, this could result in your grade going up or down.**
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
-The regrade form will go live after the first grades are returned.
+[//]: # (The regrade form will go live after the first fully graded assignments are returned.)
+[//]: # ([Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_9BT4ShCg4GjUFi6) )
+
 
 ## In-person policy
-In both lecture and section we aim for robust dialog in a mutually supportive environment. Over and above the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/) we use a course [code of conduct]() derived from the Mozilla and Ubuntu codes of conduct.
+In both lecture and section we aim for robust dialog in a mutually supportive environment. At a minimum, we expect you to follow the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/).
 
 Students are expected to come to class on time, whether in person or remote, and to treat eachother and teaching staff respectfully.
+
+We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class. We expect you to contact other students for notes and to help you catch up on missed lectures or sections. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material. 
 
 [//]: # (## Zoom policy (in case of pandemic)
 
@@ -55,6 +58,9 @@ Additional homework extensions can only be granted by the professors and are onl
 **The final exam** carries a late penalty of 1 full letter grade (10 points out of 100) per hour late, starting immediately after the final exam is due (i.e. a final exam which is 10 minutes late will incur a full letter grade penalty).
 
 Please note late assignments may be (very) delayed in grading, as they fall outside our regular course rhythm. This means that you may not receive feedback in time to incorporate it into future assignments, which is another reason to avoid using slip days early!
+
+## Word Limits
+Passages beyond the stated word limits will not be counted toward the assignment. This can have a major impact, so please take word limits seriously.
 
 ## Addressing special circumstances
 
