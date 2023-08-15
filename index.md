@@ -4,8 +4,8 @@ INFO/STS 4240/5240: Designing Technologies for Social Impact (DTSI)
 # Course Description
 
 **Instructors:** Prof. Chris Csíkszentmihályi (starring special guest Prof. Phoebe Sengers)\
-**Lecture:** Tu, Th 1:00pm - 2:15pm\
-**Sections:** Fridays, [various times and locations](https://classes.cornell.edu/browse/roster/FA22/class/INFO/4240)
+**Lecture:** Tu, Th 1:25pm   2:40pm\
+**Sections:** Fridays, [various times and locations](https://classes.cornell.edu/search/roster/FA23?q=INFO+4240&days-type=any&crseAttrs-type=any&breadthDistr-type=any&pi=)
 
 The social impact of technologies is typically thought about fairly late, if ever, in the design process. Even though it can be difficult for designers to predict what effects technologies will have, design decisions always "lock in" particular social values early on. In this course, we will draw on science & technology studies, technology design, and the arts to analyze the *values* embodied in technology design, and to design technologies that promote *positive* social impact. We do this by learning how to develop *arguments* about technologies — hypotheses that can be discussed, prototyped, and proven or refuted. These arguments take different forms in different assignments, but most take the form of either text or a design.
 

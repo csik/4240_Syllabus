@@ -4,7 +4,9 @@
 
 ## Office Hours
 
-<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQa02N9-0tYwMp-T1oS9kdfNvi6PUnWyp-AMYo8qhdp1vjF2QY-Xse8A8Q_jiJkcNNmgk3rXRzCBlmB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500" ></iframe></p>
+<!--   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQa02N9-0tYwMp-T1oS9kdfNvi6PUnWyp-AMYo8qhdp1vjF2QY-Xse8A8Q_jiJkcNNmgk3rXRzCBlmB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500" ></iframe></p> -->
+
+*Office hours will be listed here starting the second week of the semester.*
 
 [//]: # (* indicates graduate TA, able to give advice in 5240.)
 
@@ -55,7 +57,7 @@ Life happens. We believe you are the best judge of when you need a break in the 
 
 Additional homework extensions can only be granted by the professors and are only granted under truly exceptional circumstances. It is wise to save your slip days for illness, sudden personal emergencies, and other unexpected events. **We strongly discourage using slip days on your first assignment.**  Indeed, we encourage you to try to hoard them as much as possible, as semesters rarely become more easy as they go along.
 
-**The final exam** carries a late penalty of 1 full letter grade (10 points out of 100) per hour late, starting immediately after the final exam is due (i.e. a final exam which is 10 minutes late will incur a full letter grade penalty).
+Most students opt to not take the final exam, but the **final exam** carries a late penalty of 1 full letter grade (10 points out of 100) per hour late, starting immediately after the final exam is due (i.e. a final exam which is 10 minutes late will incur a full letter grade penalty).
 
 Please note late assignments may be (very) delayed in grading, as they fall outside our regular course rhythm. This means that you may not receive feedback in time to incorporate it into future assignments, which is another reason to avoid using slip days early!
 
@@ -76,7 +78,7 @@ Some other resources that might be of use include:
 
 # Disseminating course materials
 
-**The teaching team owns copyright on all materials we produce**. We make as much available publically as we can in order to aid others teaching or taking similar courses. When we cannot make materials public - for example, because it might violate someone else's copyright - we provide them to course participants in print or through Canvas. These materials **should therefore not be provided to any third-party site**, even if your intention is to aid other students. To do so is a violation of our copyright. Please trust our judgement about what can be made public and what can't.
+**The teaching team owns copyright on all materials we produce**. We make as much available publically as we can in order to aid others teaching or taking similar courses. When we cannot make materials public   for example, because it might violate someone else's copyright   we provide them to course participants in print or through Canvas. These materials **should therefore not be provided to any third-party site**, even if your intention is to aid other students. To do so is a violation of our copyright. Please trust our judgement about what can be made public and what can't.
 
 # Reusing material on this site
 

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Miniproject 1
+class: MP1
 ---
 
 
@@ -43,7 +44,9 @@ Deliverables:
 1.  Your three early design sketches. The "sketch" may be in words, or include an image. Each sketch must clearly be labelled with the specific affordance it builds on.
 2.  Your final design, including the 4 elements described in step 6 of the instructions (behavior description; mechanism description; visual sketch; argument for effectiveness).
 
-Your project is due electronically via submission to Canvas by **11:59pm on Sept 30**\. Both deliverables will be included in a single file upload. Your submission must be in .pdf format. Passages beyond the word limits will not be counted toward the assignment. If you prefer to do design work with your hands, you may do your project on paper and submit photos of the result embedded in a .pdf.
+{% assign class = site.data.classes[page.class] %}
+
+Your project is due electronically via submission to Canvas by **11:59pm on {{class.date}}**\. Both deliverables will be included in a single file upload. Your submission must be in .pdf format. Passages beyond the word limits will not be counted toward the assignment. If you prefer to do design work with your hands, you may do your project on paper and submit photos of the result embedded in a .pdf.
 
 ### Grading rubric
 
@@ -114,7 +117,7 @@ Your grade will consist of the following elements:
 <p>Change how people think about a situation so that they will act differently.</p>
 </td>
 <td>
-<p>People have different mental models of how thermostats work - some think of turning up the temperature as increasing the flow of heat, while others think of it as changing the temperature at which the furnace switches on or off. The latter model tends to lead to&nbsp; less energy use.&nbsp; Thermostats could be designed to more clearly evoke a "switch" model to reduce energy usage.</p>
+<p>People have different mental models of how thermostats work -- some think of turning up the temperature as increasing the flow of heat, while others think of it as changing the temperature at which the furnace switches on or off. The latter model tends to lead to&nbsp; less energy use.&nbsp; Thermostats could be designed to more clearly evoke a "switch" model to reduce energy usage.</p>
 </td>
 </tr>
 <tr>

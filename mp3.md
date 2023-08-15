@@ -13,7 +13,7 @@ The goal of this project is to give you an experiential sense of how participato
 
 The key attribute of participatory design is that intended users and designers work together to create a design which does justice to the complexity of the users' actual practices. In this mini-project, you will practice this on a brief scale. You will form a team of two. One person will be designated "the designer", the other "the user." The team will develop an original elicitation technique, use it to investigate a practice of the user, and collaboratively sketch a technology design that is appropriate for that practice based on the insights that the elicitation techniques developed.
 
-Good participatory design results in surprises - surprises to the designer about the nature of the activity to be designed for and what really matters in it, and surprises to the user with new realizations of what his or her activity is about and what it might be possible to create for it. For this project, you will document your design, describe how its features relate to details of user practice, and explain surprises that came up for you along the way.
+Good participatory design results in surprises -- surprises to the designer about the nature of the activity to be designed for and what really matters in it, and surprises to the user with new realizations of what his or her activity is about and what it might be possible to create for it. For this project, you will document your design, describe how its features relate to details of user practice, and explain surprises that came up for you along the way.
 
 ### Instructions
 
@@ -54,4 +54,5 @@ Deliverables:
 2.  Your individual experience report, as detailed above. Each student will need to write and submit their report separately. This is where the elicitation process is described, from your perspective. If you are working with a user outside of this class, the outsider does not need to submit a report.
 Please pay attention to word counts in both sections!
 
-Your project is due electronically via submission to Canvas by **11:59pm** on Friday, Nov. 11. Your submissions must be in .pdf format (you can print your design image to pdf to produce this). Passages beyond the word limits will not be counted toward the assignment.
+{% assign class = site.data.classes[page.class] %}
+Your project is due electronically via submission to Canvas by **11:59pm** on Friday, {{class.date}}. Your submissions must be in .pdf format (you can print your design image to pdf to produce this). Passages beyond the word limits will not be counted toward the assignment.

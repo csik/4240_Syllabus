@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Miniproject 2
+class: MP2
 ---
 
 <h2>Mini-project 2: Infrastructural design</h2>
@@ -27,7 +28,7 @@ Here are some materials that we will be using to help shape MP2:
 
 <p>You will make this argument in the form of an op-ed, i.e. a brief, structured argument that is accessible to, and influential for, a wide audience.</p>
 
-<p>Skills for this miniproject will be covered in section on Oct. 8 (writing an op-ed) and Oct. 15 (making a technical change to an infrastructure). Please review also your lecture notes from Sept. 30, Oct. 5, Oct. 7,  and the associated readings for more background.</p>
+<p>Skills for this miniproject will be covered in section on Oct. 6 (writing an op-ed) and Oct. 13 (making a technical change to an infrastructure). Please review also your lecture notes from Sept. 28, Oct. 3, Oct. 5, and the associated readings for more background.</p>
 
 <h3>Instructions</h3>
 
@@ -60,7 +61,8 @@ Deliverables:
 
 Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using the word counter in Google Docs, under Tools->Word Count.
 
-Your project is due electronically via submission through Canvas by 11:59pm on Wed, Oct 19. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
+{% assign class = site.data.classes[page.class] %}
+Your project is due electronically via submission through Canvas by <b>11:59pm on {{class.date}}</b>. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
 <!--
 <h3>Grading rubric</h3>
@@ -121,7 +123,7 @@ The argument should pre-empt possible skeptics and critics by acknowledging any 
 
 <p>How much you pay for electricity could change radically under a new proposal in New York State. In the future, your electric bill may depend on how good you are at time management.</p>
 
-<p>This is because, as a recent Ithaca Journal report uncovered, there are plans to charge radically different prices for electricity depending on the time of day <a href="http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/">[1]</a>. As part of an experimental ‘smart metering’ system, Avangrid - the parent company of New York State Electric & Gas and Rochester Gas & Electric - is proposing to change the delivery charge for electricity from current flat rates of 4-5 cents per KWH, to 3 cents in off-peak times and a whopping 18 cents in peak times. Under the proposed plan, electrical consumers who are able to reorganize their energy-intensive activities to occur at non-peak times – for example by running the dryer at 11pm – may decrease costs by up to 40 per cent. But consumers who cannot could see their bills double or triple.</p>
+<p>This is because, as a recent Ithaca Journal report uncovered, there are plans to charge radically different prices for electricity depending on the time of day <a href="http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/">[1]</a>. As part of an experimental ‘smart metering’ system, Avangrid -- the parent company of New York State Electric & Gas and Rochester Gas & Electric -- is proposing to change the delivery charge for electricity from current flat rates of 4-5 cents per KWH, to 3 cents in off-peak times and a whopping 18 cents in peak times. Under the proposed plan, electrical consumers who are able to reorganize their energy-intensive activities to occur at non-peak times – for example by running the dryer at 11pm – may decrease costs by up to 40 per cent. But consumers who cannot could see their bills double or triple.</p>
 
 <p>This policy addresses an important issue with our electrical infrastructure. Utilities need to generate enough electricity to meet demand at peak times. As peak demand rises, they have to build more plants, but that extra capacity often stands idle. The idea, then, is that charging people more for electricity when it is in demand will encourage people to shift electrical use to non-peak times. This will let us wring more out of our current infrastructure, rather than having to build more. In addition, shifting people to use electricity when it is in greater supply will help us manage the transition from fossil fuels, which are available 24 hours a day, to wind and solar energy, whose supply varies over the day. Avangrid’s experimental system is a test run of variable charging for electricity that is expected to be the future across the nation.</p>
 
@@ -155,3 +157,4 @@ The argument should pre-empt possible skeptics and critics by acknowledging any 
 6. https://www.eia.gov/consumption/<br>
 
 7. https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/ <br>
+

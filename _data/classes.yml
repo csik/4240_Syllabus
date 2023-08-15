@@ -1,289 +1,367 @@
-  - date: 2022-08-20
+SummerBreak:
+    date: 2023-08-15
     type: holiday
     slug: hSummerBreak
 
-  - date: 2022-08-23
+Introduction:
+    date: 2023-08-21
+    type: module
+    slug: mIntroduction
+
+TDSI:
+    date: 2023-08-22
     type: lecture
     slug: lTDSI
 
-  - date: 2022-08-25
+ValuesInDesign:
+    date: 2023-08-24
     type: lecture
     slug: lValuesInDesign 
 
-  - date: 2022-08-26
+SectionBlank1:
+    date: 2023-08-25
     type: section
     slug: sSectionBlank
 
-  - date: 2022-08-29
+DW1:
+    date: 2023-08-28
     type: assignment
     slug: aDW1
 
-  - date: 2022-08-30
+SpeculativeWorkbooks:
+    date: 2023-08-29
     type: lecture
     slug: lSpeculativeWorkbooks
 
-  - date: 2022-09-01
+RespondingToReadings:
+    date: 2023-08-31
     type: lecture
     slug: lRespondingToReadings
 
-  - date: 2022-09-02
+SectionBlank2:
+    date: 2023-09-01
     type: section
     slug: sSectionBlank
 
-  - date: 2022-09-06
+DW2:
+    date: 2023-09-05
     type: assignment
     slug: aDW2
 
-  - date: 2022-09-06
+Impact:
+    date: 2023-09-05
     type: lecture
     slug: lImpact
 
-  - date: 2022-09-08
+CaseModernist:
+    date: 2023-09-07
     type: lecture
     slug: lCaseModernist
 
-  - date: 2022-09-09
+SectionBlank3:
+    date: 2023-09-08
     type: section
     slug: sSectionBlank
 
-  - date: 2022-09-12
+DW3:
+    date: 2023-09-11
     type: assignment
     slug: aDW3
 
-  - date: 2022-09-13
+DesignLegislation:
+    date: 2023-09-11
     type: module
     slug: mDesignLegislation
 
-  - date: 2022-09-13
+PersuasiveComputing:
+    date: 2023-09-12
     type: lecture
     slug: lPersuasiveComputing
 
-  - date: 2022-09-15
+PoliInfoVis:
+    date: 2023-09-14
     type: lecture
     slug: lPoliInfoVis
 
-  - date: 2022-09-16
+SectionBlank4:
+    date: 2023-09-15
     type: section
     slug: sSectionBlank
 
-  - date: 2022-09-19
+DW4:
+    date: 2023-09-18
     type: assignment
     slug: aDW4
 
-  - date: 2022-09-20
+PoliGames:
+    date: 2023-09-19
     type: lecture
     slug: lPoliGames
 
-  - date: 2022-09-22
+PersuationCoercion:
+    date: 2023-09-21
     type: lecture
     slug: lPersuationCoercion
 
-  - date: 2022-09-23
+SectionBlank5:
+    date: 2023-09-22
     type: section
     slug: sSectionBlank
 
-  - date: 2022-09-26
+DW5:
+    date: 2023-09-25
     type: assignment
     slug: aDW5
 
-  - date: 2022-09-27
+ExpandingFraming:
+    date: 2023-09-26
     type: lecture
     slug: lExpandingFraming
 
-  - date: 2022-09-29
+PoliticsAlgorithms:
+    date: 2023-09-28
     type: lecture
     slug: lPoliticsAlgorithms
 
-  - date: 2022-09-30
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-09-30
-    type: assignment
-    slug: aMP1
-
-  - date: 2022-10-02
-    type: module
-    slug: mInfrastructuring
-
-  - date: 2022-10-03
-    type: assignment
-    slug: aDW6
-
-  - date: 2022-10-04
-    type: lecture
-    slug: lInfrastructure
-
-  - date: 2022-10-06
-    type: lecture
-    slug: lInfrastructuralActivism
-
-  - date: 2022-10-07
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-10-11
-    type: holiday
-    slug: hFallBreak 
-
-  - date: 2022-10-12
-    type: assignment
-    slug: aDW7
-
-  - date: 2022-10-13
-    type: lecture
-    slug: lData-DrivenWork
-
-  - date: 2022-10-14
-    type: section
-    slug: sSectionBlank
-
-  - date: 2022-10-17
-    type: assignment
-    slug: aDW8
-
-  - date: 2022-10-17
-    type: module
-    slug: mExpandingParticipation
-
-  - date: 2022-10-18
-    type: lecture
-    slug: lParticipatoryDesign
-
-  - date: 2022-10-19
-    type: assignment
-    slug: aMP2
-
-  - date: 2022-10-20
-    type: lecture
-    slug: lCivicConversations
-
-  - date: 2022-10-21
+SectionCrit1:
+    date: 2023-09-29
     type: section
     slug: sSectionCrit1
     topic: Critiques!
 
-  - date: 2022-10-24
+MP1:
+    date: 2023-09-29
+    type: assignment
+    slug: aMP1
+
+Infrastructuring:
+    date: 2023-10-02
+    type: module
+    slug: mInfrastructuring
+
+DW6:
+    date: 2023-10-02
+    type: assignment
+    slug: aDW6
+
+Infrastructure:
+    date: 2023-10-03
+    type: lecture
+    slug: lInfrastructure
+
+InfrastructuralActivism:
+    date: 2023-10-05
+    type: lecture
+    slug: lInfrastructuralActivism
+
+SectionBlank6:
+    date: 2023-10-06
+    type: section
+    slug: sSectionBlank
+
+FallBreak:
+    date: 2023-10-07
+    type: holiday
+    slug: hFallBreak 
+
+DW7:
+    date: 2023-10-12
+    type: assignment
+    slug: aDW7
+
+Data-DrivenWork:
+    date: 2023-10-12
+    type: lecture
+    slug: lData-DrivenWork
+
+SectionBlank7:
+    date: 2023-10-13
+    type: section
+    slug: sSectionBlank
+
+DW8:
+    date: 2023-10-16
+    type: assignment
+    slug: aDW8
+
+ExpandingParticipation:
+    date: 2023-10-17
+    type: module
+    slug: mExpandingParticipation
+
+ParticipatoryDesign:
+    date: 2023-10-17
+    type: lecture
+    slug: lParticipatoryDesign
+
+CivicConversations:
+    date: 2023-10-19
+    type: lecture
+    slug: lCivicConversations
+
+MP2:
+    date: 2023-10-20
+    type: assignment
+    slug: aMP2
+
+SectionBlank8:
+    date: 2023-10-20
+    type: section
+    slug: aSectionBlank
+
+DW9:
+    date: 2023-10-23
     type: assignment
     slug: aDW9
 
-  - date: 2022-10-25
+PDPartnerFindElicit:
+    date: 2023-10-24
     type: lecture
     slug: lPDPartnerFindElicit
     
-  - date: 2022-10-27
+PDPartnerMeetups:
+    date: 2023-10-26
     type: lecture
     slug: lPDPartnerMeetups
 
-  - date: 2022-10-28
+SectionBlank9:
+    date: 2023-10-28
     type: section
     slug: sSectionBlank
     topic: PD second section
 
-  - date: 2022-11-01
+DW10:
+    date: 2023-10-30
     type: assignment
     slug: aDW10
 
-  - date: 2022-11-01
+DesigningImagination:
+    date: 2023-10-30
     type: module
     slug: mDesigningImagination
 
-  - date: 2022-11-01
+NarrativeImpact:
+    date: 2023-10-31
     type: lecture
     slug: lNarrativeImpact
 
-  - date: 2022-11-03
+CriticalDesign:
+    date: 2023-11-02
     type: lecture
     slug: lCriticalDesign 
 
-  - date: 2022-11-04
+SectionBlank1o:
+    date: 2023-11-03
     type: section
     slug: sSectionBlank
 
-  - date: 2022-11-07
+DW11:
+    date: 2023-11-06
     type: assignment
     slug: aDW11
 
-  - date: 2022-11-08
+CriticalDesignWorkshop:
+    date: 2023-11-07
     type: lecture
     slug: lCriticalDesignWorkshop
 
-  - date: 2022-11-10
+Afrofuturism:
+    date: 2023-11-09
     type: lecture
     slug: lAfrofuturism
 
-  - date: 2022-11-11
+SectionBlank11:
+    date: 2023-11-10
     type: section
     slug: sSectionBlank
 
-  - date: 2022-11-11
+MP3:
+    date: 2023-11-10
     type: assignment
     slug: aMP3
 
-  - date: 2022-11-14
+DW12:
+    date: 2023-11-13
     type: assignment
     slug: aDW12
 
-  - date: 2022-11-15
+FinalReview:
+    date: 2023-11-14
     type: lecture
     slug: lFinalReview
 
-  - date: 2022-11-17
+MentalHealthDay1:
+    date: 2023-11-16
     type: lecture
     slug: lMentalHealthDay1
 
-  - date: 2022-11-18
+SectionBlank12:
+    date: 2023-11-17
     type: section
     slug: sSectionBlank
 
-  - date: 2022-11-22
+DW13:
+    date: 2023-11-20
     type: assignment
     slug: aDW13
 
-  - date: 2022-11-22
+SiliconValley:
+    date: 2023-11-21
     type: lecture
     slug: lSiliconValley
 
-  - date: 2022-11-24
+Thanksgiving:
+    date: 2023-11-23
     type: holiday
     slug: hThanksgiving
 
-  - date: 2022-11-25
+DayAfterThanksgiving:
+    date: 2023-11-24
     type: holiday
     slug: hDayAfterThanksgiving
 
-  - date: 2022-11-29
-    type: assignment
-    slug: aDW14
-
-  - date: 2022-11-29
+ForwardOutward:
+    date: 2023-11-27
     type: module 
     slug: mForwardOutward
 
-  - date: 2022-11-29
+DW14:
+    date: 2023-11-27
+    type: assignment
+    slug: aDW14
+
+BeyondSV:
+    date: 2023-11-28
     type: lecture
     slug: lBeyondSV
 
-  - date: 2022-12-01
-    type: assignment
-    slug: aMP4
-
-  - date: 2022-12-01
+CourseConclusion:
+    date: 2023-11-30
     type: lecture
     slug: lCourseConclusion
 
-  - date: 2022-12-02
+MP4:
+    date: 2023-12-01
+    type: assignment
+    slug: aMP4
+ 
+SectionCrit2:
+    date: 2023-12-01
     type: section
     slug: sSectionCrit2
 
-  - date: 2022-12-05
+DW15:
+    date: 2023-12-04
     type: assignment
     slug: aDW15
 
-  - date: 2022-12-12
+FinalSession1:
+    date: 2023-12-08
     type: assignment
     slug: aFinalSession1
 
-  - date: 2022-12-14
+FinalSession2:
+    date: 2023-12-11
     type: assignment
     slug: aFinalSession2
+

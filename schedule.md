@@ -15,7 +15,8 @@
 {% assign asscount = 1 %}
 
 <div id="all_schedule">
-{% for class in site.data.classes %}
+{% for blob in site.data.classes %}
+{% assign class = blob[1] %}
 {% capture test %}_classes/{{class.slug}}.md{% endcapture %}
 {% assign node = site.classes | where:"relative_path", test | first %}
 
