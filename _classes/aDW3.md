@@ -10,4 +10,4 @@ Friday's sections are about how to use lifeworlds and "noun substitutions" to he
 
 Together, the first three quarters of this workbook should take roughly 3/4 of a page. Don't be afraid to choose a small font, so long as it is legible.
 
-Due Monday, Sept. 12 at 11:59pm on Canvas.
+Due 11:59pm on Canvas.
