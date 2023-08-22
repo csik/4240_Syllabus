@@ -3,4 +3,6 @@ title: "MiniProject 3: Participatory Design"
 type: assignment
 ---
 
-Due 11:59pm.
+The goal of [MP3](mp3) is to use and evaluate your experience with participatory design.
+
+Due 11:59pm on Canvas.
