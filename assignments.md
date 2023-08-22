@@ -47,7 +47,7 @@ The optional final exam will be a written exam where you craft a critically enga
 
 If you don't take the exam, your grade on it will be the same as the points you scored in the other activities divided by 85. IE, if you have received 80/85 (94.11%) points by the end of the semester, and choose not to take the final, you'll receive (80/85)*15 on the final, making your final exam and your final course score 94.11.
 
-## Grade breakdown
+## Grade Breakdown
 
 -   07.5%:  Active Learning & Pre-Lecture Quizzes
 -   35.0%:  Design workbook
@@ -56,6 +56,22 @@ If you don't take the exam, your grade on it will be the same as the points you 
 -   15.0%:  Optional final exam
 
 Grading is not just a matter of numbers, but also of case-based judgment. The instructors reserve the right to adjust grades by up to half a letter grade based on knowledge of your performance not summed up in this tidy formula.
+
+## Grading Scale
+           
+This class adheres to Cornell’s grading scale:  
+
+| A+        | 98-100%       | 4.3  | 
+| A         | 93-97%        | 4.0  | 
+| A-        | 90-92%        | 3.7  | 
+| B+ 	    | 88-89% 		| 3.3  | 
+| B 	    | 83-87% 		| 3.0  | 
+| B- 	    | 80-82% 		| 2.7  | 
+| C+ 	    | 78-79% 		| 2.3  | 
+| C 	    | 73-77% 		| 2.0  | 
+| C- 	    | 70-72% 		| 1.7  | 
+| D 	    | 60-69% 		| 1.3  | 
+| F 	    | Below 60% 	| 0.0  | 
 
 # Academic Integrity
 
