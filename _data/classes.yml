@@ -16,7 +16,7 @@ TDSI:
 ValuesInDesign:
     date: 2023-08-24
     type: lecture
-    slug: lValuesInDesign 
+    slug: lValuesInDesign
 
 SectionBlank1:
     date: 2023-08-25
@@ -160,9 +160,9 @@ SectionBlank6:
     slug: sSectionBlank
 
 FallBreak:
-    date: 2023-10-07
+    date: 2023-10-10
     type: holiday
-    slug: hFallBreak 
+    slug: hFallBreak
 
 DW7:
     date: 2023-10-12
@@ -207,7 +207,7 @@ MP2:
 SectionBlank8:
     date: 2023-10-20
     type: section
-    slug: aSectionBlank
+    slug: sSectionBlank
 
 DW9:
     date: 2023-10-23
@@ -218,7 +218,7 @@ PDPartnerFindElicit:
     date: 2023-10-24
     type: lecture
     slug: lPDPartnerFindElicit
-    
+
 PDPartnerMeetups:
     date: 2023-10-26
     type: lecture
@@ -248,7 +248,7 @@ NarrativeImpact:
 CriticalDesign:
     date: 2023-11-02
     type: lecture
-    slug: lCriticalDesign 
+    slug: lCriticalDesign
 
 SectionBlank1o:
     date: 2023-11-03
@@ -322,7 +322,7 @@ DayAfterThanksgiving:
 
 ForwardOutward:
     date: 2023-11-27
-    type: module 
+    type: module
     slug: mForwardOutward
 
 DW14:
@@ -344,7 +344,7 @@ MP4:
     date: 2023-12-01
     type: assignment
     slug: aMP4
- 
+
 SectionCrit2:
     date: 2023-12-01
     type: section
@@ -364,4 +364,3 @@ FinalSession2:
     date: 2023-12-11
     type: assignment
     slug: aFinalSession2
-
