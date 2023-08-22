@@ -17,6 +17,7 @@ class: MP2
 ## MATERIALS FROM SECTION
 
 Here are some materials that we will be using to help shape MP2:
+
 1. [What is an oped made of?]({{ site.url }}{{ site.baseurl }}/my_assets/img/What is an oped made of.docx)
 1. [Sample oped.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Sample oped.docx)
 1. [Oped creation worksheet.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet.docx)
@@ -62,7 +63,7 @@ Deliverables:
 Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using the word counter in Google Docs, under Tools->Word Count.
 
 {% assign class = site.data.classes[page.class] %}
-Your project is due electronically via submission through Canvas by <b>11:59pm on {{class.date}}</b>. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
+Your project is due electronically via submission through Canvas by <b>11:59pm on Friday, {{class.date}}</b>. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
 <!--
 <h3>Grading rubric</h3>
@@ -93,7 +94,7 @@ Your project is due electronically via submission through Canvas by <b>11:59pm o
 
 <h4>1. A lede</h4>
 
-This is the opener of the op-ed. It needs to be short and punchy to grab the reader’s attention, for example through a compelling example, a surprising statement, or a dramatic anecdote. The lede must draw in the reader, so they want to read the op-ed instead of moving on to the next article. Usually but not always ledes tie to contemporary events: something that happened recently, either in the news or (less frequently) in your own life. 
+This is the opener of the op-ed. It needs to be short and punchy to grab the reader’s attention, for example through a compelling example, a surprising statement, or a dramatic anecdote. The lede must draw in the reader, so they want to read the op-ed instead of moving on to the next article. Usually but not always ledes tie to contemporary events: something that happened recently, either in the news or (less frequently) in your own life.
 
 <h4>2. A thesis</h4>
 Op-eds are short pieces of accessible public writing; they are not the place to make complex, nuanced arguments. Instead, op-eds must be anchored in a clear, unequivocal position you are taking on an issue. This is what is called the ‘thesis’ – the single main point the argument is going to make. Your thesis may be written explicitly into the op-ed, or it may be the conclusion that the reader comes to after they read it. Whether or not it is explicitly written into the op-ed, it must be crystal-clear in the author’s head while writing it, and in the reader's head after reading it.
@@ -131,7 +132,7 @@ The argument should pre-empt possible skeptics and critics by acknowledging any 
 
 <p>For example, low-income households will likely take a hard hit. Rearranging one’s schedule of activities simply takes time and thought which people who are already struggling to meet their families’ daily needs may be unable to muster <a href="http://www.sciencedaily.com/releases/2013/07/130702100757.htm">[2]</a>. In addition, lower-income consumers may have less control over factors that influence their electricity use, as Tawanna Dillahunt has shown holds for renters who want to reduce energy use <a href="http://dx.doi.org/10.1145/1620545.1620583">[3]</a>. Finally, planning one’s future time use can be nearly impossible for workers subject to the constantly changing, just-in-time work scheduling practices that are becoming more common in lower-wage sectors <a href="https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html">[4]</a>. Consumers in any of these situations will find their electrical bills skyrocketing, with little they can practically do about it.</p>
 
-<p>But the losers under this policy are not just low-income households. Plotting your personal activities over the day to optimize your benefit, as variable pricing encourage consumers to do, is a form of time management that comes naturally to white-collar professionals who plan their own schedules. But for other workers, these ways of thinking are not necessarily natural, or even desirable.</p> 
+<p>But the losers under this policy are not just low-income households. Plotting your personal activities over the day to optimize your benefit, as variable pricing encourage consumers to do, is a form of time management that comes naturally to white-collar professionals who plan their own schedules. But for other workers, these ways of thinking are not necessarily natural, or even desirable.</p>
 
 <p>For example, in my research into how rural Canadians organize their work, rural fisherman-farmers taught me that planning your time in advance doesn’t make sense when your work options are continuously altered by unpredictable weather conditions. If you wait to use your chainsaw until rates are down, it may be dark outside, or it may be raining sideways. Thriving in these conditions relies not on futile attempts to predict what will happen, but on savvy responses in the moment to conditions fundamentally outside your control. Fishermen-farmers are certainly able to plan out their activities in time when they have to, but it’s not their bread-and-butter. As a result, they are not particularly good at it; nor should they have to be.</p>
 
@@ -143,18 +144,16 @@ The argument should pre-empt possible skeptics and critics by acknowledging any 
 
 <p>But this policy deserves more fundamental rethinking. As environmental researcher Max Liboiron argues, a more effective design strategy than trying to get consumers to consciously redesign their behavior is to change the factors that influence what people do unthinkingly <a href="https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/">[7]</a>. Electrical policy should shift from forcing people to consciously restructure their behavior, to making non-peak electrical usage an automatic solution.  For example, utilities could work with device manufacturers to make the default ‘on’ time for large appliances such as dishwashers and washing machines be when prices are low. If you need them to turn on right away, you would push an extra button. The expensive option would be the decision that requires extra thought. This form of restructuration would have the benefits of variable pricing without penalizing consumers who don’t manage their time like a white-collar professional.</p>
 
+1. <http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/> <br>
 
-1. http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/ <br>
+2. <http://www.sciencedaily.com/releases/2013/07/130702100757.htm<br>>
 
-2. http://www.sciencedaily.com/releases/2013/07/130702100757.htm<br>
+3. <http://dx.doi.org/10.1145/1620545.1620583<br>>
 
-3. http://dx.doi.org/10.1145/1620545.1620583<br>
+4. <https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html<br>>
 
-4. https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html<br>
+5. <https://doi.org/10.1145/2621931<br>>
 
-5. https://doi.org/10.1145/2621931<br>
+6. <https://www.eia.gov/consumption/<br>>
 
-6. https://www.eia.gov/consumption/<br>
-
-7. https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/ <br>
-
+7. <https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/> <br>

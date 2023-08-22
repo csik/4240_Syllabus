@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Miniproject 3
+class: MP3
 ---
 
 ## Mini-project 3: Participatory design
@@ -55,4 +56,4 @@ Deliverables:
 Please pay attention to word counts in both sections!
 
 {% assign class = site.data.classes[page.class] %}
-Your project is due electronically via submission to Canvas by **11:59pm** on Friday, {{class.date}}. Your submissions must be in .pdf format (you can print your design image to pdf to produce this). Passages beyond the word limits will not be counted toward the assignment.
+Your project is due electronically via submission to Canvas by <b>11:59pm on Friday, {{class.date}}</b>. Your submissions must be in .pdf format (you can print your design image to pdf to produce this). Passages beyond the word limits will not be counted toward the assignment.
