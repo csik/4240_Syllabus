@@ -3,6 +3,7 @@ title: "Design Workbook 2"
 type: assignment
 ---
 Second Design Workbook, covering ONE OF [Gaver, Gaver and Martin, Pierce and Paulos, or Bleecker].
+
 <!--
 This week you'll practice the first and second part of a design workbook.  For **part one**, please excerpt a passage (1-4 sentences) that you found especially compelling from ONE of [Gaver, Gaver and Martin, Pierce and Paulos, or Bleecker] the readings. Write it out at the top of your paper, cite it, then write your own passage explaining their idea in your own words (4-5 sentences, usually). All this should be 120 words maximum! Please make sure to recapitulate and not simply reword!  Take a moment to think of another, clearer way of saying what the author said. This should take about a quarter of a page.
 
