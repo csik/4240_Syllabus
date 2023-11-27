@@ -55,6 +55,8 @@ Davis, Ben. *A Critique of Social Practice Art / International Socialist Review
 
 Dörk, Marian, et al. "Critical InfoVis: Exploring the Politics of Visualization." *CHI '13 Extended Abstracts on Human Factors in Computing Systems*, Association for Computing Machinery, 2013, pp. 2189--98. *ACM Digital Library*, doi:[10.1145/2468356.2468739](https://doi.org/10.1145/2468356.2468739).
 
+Dow Schull, Natasha. 2005. Digital Gambling: The Coincidence of Desire and Design. The ANNALS of the American Academy of Political and Social Science 597, 1 (January 2005), 65–81. DOI:https://doi.org/10.1177/0002716204270435
+
 Dunne, Anthony, and Fiona Raby. *Design Noir: The Secret Life of Electronic Objects*. August, 2001.
 
 Edgerton, David. *The Shock of the Old: Technology and Global History since 1900*. Oxford University Press, 2007.

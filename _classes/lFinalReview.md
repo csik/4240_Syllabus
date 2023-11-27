@@ -2,4 +2,4 @@
 title: Final Exam Review
 type: lecture
 ---
-We'll review where we've come and plot out paths moving forward.
+We'll review the methods we've covered so far in the semester, I'll distribute a mock exam, and talk through the exam shell.

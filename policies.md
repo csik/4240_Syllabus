@@ -4,11 +4,8 @@
 
 ## Office Hours
 
-<!--   <p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQa02N9-0tYwMp-T1oS9kdfNvi6PUnWyp-AMYo8qhdp1vjF2QY-Xse8A8Q_jiJkcNNmgk3rXRzCBlmB/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="500" ></iframe></p> -->
-
-*Office hours will be listed here starting the second week of the semester.*
-
-[//]: # (* indicates graduate TA, able to give advice in 5240.)
+<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFZA4eOxctxD9ro8T7fG75vJiFrjO3vKdQ8nlc3FERp0dT7EadJcsmqWwpxnF0Jw/pubhtml?gid=190009905&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="420" ></iframe></p>
+(Γ indicates graduate TA, able to give advice in 5240. α indicates a visual communication specialist)
 
 ## Regrade Requests
 
@@ -23,8 +20,7 @@ Please note:
 -   **If we regrade your assignment, this could result in your grade going up or down.**
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
-[//]: # (The regrade form will go live after the first fully graded assignments are returned.)
-[//]: # ([Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_9BT4ShCg4GjUFi6) )
+[Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_ernUgTsMPxzBAFM)
 
 
 ## In-person policy

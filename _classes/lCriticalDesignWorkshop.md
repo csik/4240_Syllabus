@@ -1,6 +1,6 @@
 ---
-title: Critical Design Workshop
+title: PD Elicitation/Final Design Workshop
 type: lecture
 readings: "Boyd: [Tactic: Prefigurative Politics](https://www.beautifultrouble.org/toolbox/#/tool/prefigurative-politics/)"
 ---
-Refining design techniques to express and question values and futures in design.
+Lecture today is replaced with an opportunity to do MP3 PD elicitations or final designs. Lecture staff will be available in the lecture hall to help and give feedback.

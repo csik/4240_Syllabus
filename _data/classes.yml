@@ -123,11 +123,10 @@ PoliticsAlgorithms:
     type: lecture
     slug: lPoliticsAlgorithms
 
-SectionCrit1:
+SectionBlank5a:
     date: 2023-09-29
     type: section
-    slug: sSectionCrit1
-    topic: Critiques!
+    slug: sSectionBlank
 
 MP1:
     date: 2023-09-29
@@ -149,10 +148,10 @@ Infrastructure:
     type: lecture
     slug: lInfrastructure
 
-InfrastructuralActivism:
+Data-DrivenWork:
     date: 2023-10-05
     type: lecture
-    slug: lInfrastructuralActivism
+    slug: lData-DrivenWork
 
 SectionBlank6:
     date: 2023-10-06
@@ -169,15 +168,16 @@ DW7:
     type: assignment
     slug: aDW7
 
-Data-DrivenWork:
+InfrastructuralActivism:
     date: 2023-10-12
     type: lecture
-    slug: lData-DrivenWork
+    slug: lInfrastructuralActivism
 
-SectionBlank7:
+SectionCrit1:
     date: 2023-10-13
     type: section
-    slug: sSectionBlank
+    slug: sSectionCrit1
+    topic: Critiques!
 
 DW8:
     date: 2023-10-16
@@ -199,11 +199,6 @@ CivicConversations:
     type: lecture
     slug: lCivicConversations
 
-MP2:
-    date: 2023-10-20
-    type: assignment
-    slug: aMP2
-
 SectionBlank8:
     date: 2023-10-20
     type: section
@@ -213,6 +208,11 @@ DW9:
     date: 2023-10-23
     type: assignment
     slug: aDW9
+
+MP2:
+    date: 2023-10-23
+    type: assignment
+    slug: aMP2
 
 PDPartnerFindElicit:
     date: 2023-10-24
@@ -356,11 +356,6 @@ DW15:
     slug: aDW15
 
 FinalSession1:
-    date: 2023-12-08
-    type: assignment
-    slug: aFinalSession1
-
-FinalSession2:
     date: 2023-12-11
     type: assignment
-    slug: aFinalSession2
+    slug: aFinalSession1
