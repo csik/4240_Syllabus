@@ -20,15 +20,24 @@ Please note:
 -   **If we regrade your assignment, this could result in your grade going up or down.**
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
-[Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_ernUgTsMPxzBAFM)
+[Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_exncV244wClDeg6)
 
 
 ## In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. At a minimum, we expect you to follow the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/).
 
-Students are expected to come to class on time, whether in person or remote, and to treat eachother and teaching staff respectfully.
+Students are expected to come to class on time, and to treat eachother and teaching staff respectfully. Faking attendance, for oneself or another, is an academic integrity violation.
 
 We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class. We expect you to contact other students for notes and to help you catch up on missed lectures or sections. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material. 
+
+## Is AI A'ight?
+We have strong advice about where generative AI is best used in the course, if at all. The first point is that while there are countless marketers who are trying to scare you into thinking that you will miss out if you don't use it, people have graduated from Cornell since 1869 without it. There's far more evidence that education works better without using AI than with it.
+
+It could be that some of our highly-graded responses used LLMs, but we're pretty sure that *many of the workbooks that did poorly in prior years used AI*. Put it this way: if you do a few workbooks that score in the A range, it may be safe to try LLMs, because you know you have a good eye for whether it's churning out good work. But until you score well on your own, AI won't save you. None of the AIs currently generate high quality speculative design on their own, and until you are good at speculative design, you won't be able to help them.
+
+AI will no doubt give you a reasonable summary of articles. That said, it will be much worse at finding a single compelling quote that struck you. Indeed, they aren't able to give quotes because of copyright in many cases. And the summary will be similar to what it gives other students -- not great when our graders respond positively to novel takes. Finding a novel SPECULATIVE design from a text through AI is difficult and often wrong without significant investment. The LLM usually defaults to common marketing phrases that are *useless* in our assignments. We've done experiments to find good speculative designs using ChatGPT and Bard, and in the end it requires so much back-and-forth to get the AI in the right zone for speculative design that it's easier to do it with your own noggin. So workbooks are not a great place to use AI if you're concerned about doing well, let alone actually developing a sense of the text. 
+
+Where we *do* actively encourage generative AI is for generating images for *some* of your workbooks. If your ability to "read" images is a lot better than your ability to make them, as is the case for most of us, you're in a sweet spot for using AI to create prototypes of designs, show a design in use, etc. Beware that this can be a huuuuuuuuuuuge rabbit hole though, and we're going to judge the image by what it communicates. So if there's weirdness and "chaff" like nonsense text or extra fingers, that is part of your submission, just as if in the text portion you had typd asdfoi opiaff9082. Some of the best workbooks we've seen use [xkcd](https://xkcd.com/1741/) style drawings or [stick figures](https://xkcd.com/974/), or [clip art](https://thumbs.dreamstime.com/b/weird-unusual-odd-jobs-clipart-vector-set-stick-figure-pictogram-representing-include-embalmer-sperm-donor-egg-donor-69642623.jpg). Regardless, when we start grading for novelty mid-way through the semester, if you've been using generative AI for images, you'll have to switch to other methods (the reverse is alright too) to get that extra credit.
 
 [//]: # (## Zoom policy (in case of pandemic)
 

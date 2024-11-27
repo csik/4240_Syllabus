@@ -1,8 +1,10 @@
 ---
 title: "Silicon Valley's Theory of Impact"
 type: lecture
-readings:
-  - "Schulz: [Tomorrowland: How Silicon Valley Shapes Our Futures](http://www.spiegel.de/international/germany/spiegel-cover-story-how-silicon-valley-shapes-our-future-a-1021557.html)"
+readings: 
+  - "Schulz: [Tomorrowland: How Silicon Valley Shapes Our Futures](http://www.spiegel.de/international/germany/spiegel-cover-story-how-silicon-valley-shapes-our-future-a-1021557.html)" 
+  - "Guthman: The Problem With Solutions (in course reader)"
+  
 ---
 How do IT developers in Silicon Valley frame how they are making a difference? What kind of a difference are they making?
 

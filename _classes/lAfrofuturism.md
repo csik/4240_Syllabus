@@ -2,7 +2,7 @@
 title: "Afrofuturism: Historically Grounded Design Futures"
 type: lecture
 readings:
-  - "Womack: Evolution of a space cadet (in the course reader)"
+  - "Harrington, Klassen, and Rankin: ['All that You Touch, You Change': Expanding the Canon of Speculative Design Towards Black Futuring.](https://doi.org/10.1145/3491102.3502118)"
   - "Nelson: ['Making the impossible possible:' An interview with Nalo Hopkinson](http://socialtext.dukejournals.org/content/20/2_71/97)"
   - "Sargent: [Afrofuturist museum mines artifacts from the future](https://www.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future)"
 ---

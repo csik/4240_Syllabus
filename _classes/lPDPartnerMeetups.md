@@ -10,8 +10,9 @@ readings:
 No lecture today. Meet with your participatory design partner to finalize your expert skill (orienting it socially) and elicitaion design. Course staff will be available in the lecture slot for zoom office hours to help if needed:
 
 Join Zoom Meeting
-[https://cornell.zoom.us/j/4094222286?pwd=TUs0RE51WFB6YWpZSzhHQk9wenIrZz09](https://cornell.zoom.us/j/4094222286?pwd=TUs0RE51WFB6YWpZSzhHQk9wenIrZz09)
+[https://cornell.zoom.us/j/94482936290?pwd=31mnCkuiGL07dCMtfg1iBsKxPJpadT.1](https://cornell.zoom.us/j/94482936290?pwd=31mnCkuiGL07dCMtfg1iBsKxPJpadT.1)
 
-Meeting ID: 409 422 2286
-Passcode: 852317
+Meeting ID: 944 8293 6290   Passcode: 712658
+
+
 

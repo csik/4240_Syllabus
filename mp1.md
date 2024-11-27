@@ -30,7 +30,7 @@ In this project, you will develop and flesh out a concept design for a persuasiv
     *   Note that for this assignment, a persuasive technology must be a technology (not eg. a policy)
     *   Note that persuasive technologies are not, generally speaking, speculative.
 4.  Sleep on your first ideas.
-5.  Reflecting on your first concepts and using the skills of brainstorming and variation, continue your ideation. The idea you decide to work with may build on the best of your original ideas, it may synthesize ideas from different designs, or it may react to your first ideas by developing a new concept.
+5.  Reflecting on your first concepts and using the skills of brainstorming and variation, continue your ideation. The idea you decide to work with may build on the best one of your three sketches (but must significantly advance beyond the sketch, ie not simply add details to one of them, but be stronger concept), it may synthesize ideas from different designs, or it may react to your first ideas by developing a new concept.
 6.  Develop your final idea into a full-fledged design. This design should include the following elements:
     1.  A precise description of the behavior you would like to change, and how it relates to the issue that matters to you (ca 1 paragraph). **Make sure this behavior is specific, observable, and measurable** (cf persuasive computing lecture).
     2.  A description of the mechanism the device or application will use to persuade users to change the behavior. This description should identify the persuasive affordance you are using, explain how the device instantiates that affordance, and describe how you expect the workings of the device to change the behavior in question. (ca 400 words)
@@ -45,19 +45,7 @@ Deliverables:
 2.  Your final design, including the 4 elements described in step 6 of the instructions (behavior description; mechanism description; visual sketch; argument for effectiveness).
 
 {% assign class = site.data.classes[page.class] %}
-
-Your project is due electronically via submission to Canvas by **11:59pm on {{class.date}}**\. Both deliverables will be included in a single file upload. Your submission must be in .pdf format. Passages beyond the word limits will not be counted toward the assignment. If you prefer to do design work with your hands, you may do your project on paper and submit photos of the result embedded in a .pdf.
-
-### Grading rubric
-
-Your grade will consist of the following elements:
-
-1.  9 points: **Effective, accurate early sketching**: 3 early conceptual sketches that correctly reflect different persuasive affordances. The sketches explore clearly different parts of the design space.
-2.  6 points: **Behavior precision**: Description of target behavior is precise and clearly connected to the social impact issue of interest.
-3.  20 points: **Persuasive mechanism design**: Mechanism design which reflects the persuasive technology design direction by (a) tying clearly into the behavior of interest, (b) being compelling for the target audience to use (c) being robust in the face of likely use (and nonuse), and (d) persuading rather than coercing. This part of your grade is based on your mechanism description, sketch of the device, and your persuasive argument.
-4.  5 points: **Design quality**: The design is significantly advanced from the original sketches and is creative and original.
-5.  10 points: **Effort**: Effort has been put into the assignment.
-
+Your project is due electronically via submission to Canvas by **11:59pm on {{class.date | date: "%A, %b %-d" }}**\. Both deliverables will be included in a single file upload. Your submission must be in .pdf format. Passages beyond the word limits will not be counted toward the assignment. If you prefer to do design work with your hands, you may do your project on paper and submit photos of the result embedded in a .pdf.
 
 
 ### Guide to Persuasive Affordances

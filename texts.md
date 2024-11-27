@@ -85,6 +85,8 @@ Gillespie, Tarleton. "The Relevance of Algorithms." *Media Technologies*, The M
 
 Hancock, Jay. "They Pledged to Donate Rights to Their COVID Vaccine, Then Sold Them to Pharma." *Kaiser Health News*, 25 Aug. 2020, <https://khn.org/news/rather-than-give-away-its-covid-vaccine-oxford-makes-a-deal-with-drugmaker/>.
 
+Harrington, C.N., Klassen, S., Rankin, Y.A., 2022. “All that You Touch, You Change”: Expanding the Canon of Speculative Design Towards Black Futuring, in: Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems, CHI ’22. Association for Computing Machinery, New York, NY, USA, pp. 1–10. <https://doi.org/10.1145/3491102.3502118>
+
 Hustwit, Gary. *Objectified*. 2009, <https://www.hustwit.com/objectified>.
 
 "If We Want Design to Be a Tool for Liberation, We'll Need More Than Good Intentions." *Eye on Design*, 22 July 2020. *eyeondesign.aiga.org*, <https://eyeondesign.aiga.org/for-design-to-truly-be-a-tool-for-liberation-were-going-to-need-more-than-just-good-intentions/>.

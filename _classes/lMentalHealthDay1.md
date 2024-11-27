@@ -1,6 +1,7 @@
 ---
 title: "Mental Health Day"
 type: lecture
+readings:
 ---
 Everyone needs a break sometimes. Take one today.
 

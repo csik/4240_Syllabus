@@ -9,6 +9,6 @@ type: assignment
  - [The list of all strategies that might be required for parts 2 & 3 of the exam]({{ site.url }}{{ site.baseurl }}/my_assets/img/List of Possible Strategies for the 4240 Final.pdf)
 
 '''
-INFO 4240 001      12/11/2023     2:00 PM   Final Exam Online Issued
-            DUE     12/12/2023     2:00 PM
+INFO 4240 001      12/11/2024     2:00 PM   Final Exam Online Issued
+            DUE     12/12/2024     2:00 PM
 '''

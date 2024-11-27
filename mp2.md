@@ -25,9 +25,9 @@ Here are some materials that we will be using to help shape MP2:
 
 <h3>Overview</h3>
 
-<p>Contemporary life in the US and many other nations is deeply influenced by computational platforms: code and algorithms that shape what we do, how we communicate, and what we know. In this miniproject, you will make an argument for a change to the design of a contemporary computational platforms with widespread effect, which will result (according to your argument) in an improvement in the social impact of that platform. <b>The change will be at the level of code, i.e. a technical change to the algorithms on which the system relies</b>, rather than, for example, a change to how the system is advertised and promoted.</p>
+<p>Contemporary life in the US and many other nations is deeply influenced by computational platforms: code and algorithms that shape what we do, how we communicate, and what we know. In this miniproject, you will make an argument for a change to the design of a contemporary computational platform with widespread effect, which will result (according to your argument) in an improvement in the social impact of that platform. <b>The change will be at the level of code, i.e. a technical change to the algorithms on which the system relies</b>, rather than, for example, a change to how the system is advertised and promoted. It should be a discrete, incremental change, of the type we descibed in our Sweeney example from lecture, that should not require the platform to significantly change its mission or business model.</p> 
 
-<p>You will make this argument in the form of an op-ed, i.e. a brief, structured argument that is accessible to, and influential for, a wide audience.</p>
+<p>You will make this argument in the form of an op-ed, i.e. a brief, structured argument that is accessible to, and influential for, a wide audience. Op-eds are written to these wide audiences with the hope that the audience can contribute to pressuring for change, or be part of the change themselves. They may also be written to those in power at the same time, but not exclusively.</p>
 
 <p>Skills for this miniproject will be covered in section on Oct. 6 (writing an op-ed) and Oct. 13 (making a technical change to an infrastructure). Please review also your lecture notes from Sept. 28, Oct. 3, Oct. 5, and the associated readings for more background.</p>
 
@@ -63,7 +63,7 @@ Deliverables:
 Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using the word counter in Google Docs, under Tools->Word Count.
 
 {% assign class = site.data.classes[page.class] %}
-Your project is due electronically via submission through Canvas by <b>11:59pm on Friday, {{class.date}}</b>. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
+Your project is due electronically via submission through Canvas by <b>11:59pm on {{class.date | date: "%A, %b %-d" }}</b>. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
 
 <!--
 <h3>Grading rubric</h3>
@@ -97,12 +97,12 @@ Your project is due electronically via submission through Canvas by <b>11:59pm o
 This is the opener of the op-ed. It needs to be short and punchy to grab the reader’s attention, for example through a compelling example, a surprising statement, or a dramatic anecdote. The lede must draw in the reader, so they want to read the op-ed instead of moving on to the next article. Usually but not always ledes tie to contemporary events: something that happened recently, either in the news or (less frequently) in your own life.
 
 <h4>2. A thesis</h4>
-Op-eds are short pieces of accessible public writing; they are not the place to make complex, nuanced arguments. Instead, op-eds must be anchored in a clear, unequivocal position you are taking on an issue. This is what is called the ‘thesis’ – the single main point the argument is going to make. Your thesis may be written explicitly into the op-ed, or it may be the conclusion that the reader comes to after they read it. Whether or not it is explicitly written into the op-ed, it must be crystal-clear in the author’s head while writing it, and in the reader's head after reading it.
+Op-eds are short pieces of accessible public writing; they are not the place to make complex, nuanced arguments. Instead, op-eds must be anchored in a clear, unequivocal position you are taking on an issue. This is what is called the ‘thesis’ – the single main point the argument is going to make. Your thesis may be written explicitly into the op-ed, or it may be the conclusion that the reader comes to after they read it. Whether or not it is explicitly written into the op-ed, it must be crystal-clear in the author’s head while writing it, and in the reader's head after reading it. Note that the thesis is not the _problem_ but rather why the problem needs the technical change.
 
 <h4>3. An argument grounded in evidence</h4>
-The thesis’s validity will be undergirded by several points (in the real world, usually 2-4; for this assignment, 3). Each point must draw on credible evidence, such as: statistics, news, reports from credible organizations, expert quotes, scholarship, history, or first-hand experience. Each point must contribute directly towards supporting the overall thesis.
+The thesis’s validity will be undergirded by several points (in the real world, usually 2-4; for this assignment, 3). Each point must draw on credible evidence, such as: statistics, news, reports from credible organizations, expert quotes, scholarship, history, or first-hand experience. Each point must contribute directly towards supporting the technical change (NOT the problem itself).
 
-<p> As is true in all forms of writing in this course, text and ideas from others must be properly quoted and cited in your op-ed. However, <b>op-eds do not use formal academic citation</b>. They attribute sources by naming them within the text ("A recent study by researchers at Brigham Young University showed...") and/or including URLs. See below for an example of this kind of citation.</p>
+<p> As is true in all forms of writing in this course, text and ideas from others must be properly quoted and cited in your op-ed. However, <b>op-eds do not use formal academic citation</b>. They attribute sources by naming them within the text ("A recent study by researchers at Brigham Young University showed...") with [inline URLs](https://www.youtube.com/watch?v=dQw4w9WgXcQ).</p>
 
 <h4>4. “To be sure”</h4>
 The argument should pre-empt possible skeptics and critics by acknowledging any flaws or shortcomings in your argument, and addressing any obvious counterarguments. Effective strategies to do this include:

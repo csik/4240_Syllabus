@@ -1,361 +1,362 @@
 SummerBreak:
-    date: 2023-08-15
+    date: 2024-08-15
     type: holiday
     slug: hSummerBreak
 
-Introduction:
-    date: 2023-08-21
+CourseIntroduction:     #MODULE
+    date: 2024-08-25
     type: module
     slug: mIntroduction
 
 TDSI:
-    date: 2023-08-22
+    date: 2024-08-27
     type: lecture
     slug: lTDSI
 
 ValuesInDesign:
-    date: 2023-08-24
+    date: 2024-08-29
     type: lecture
     slug: lValuesInDesign
 
 SectionBlank1:
-    date: 2023-08-25
+    date: 2024-08-30
     type: section
     slug: sSectionBlank
 
 DW1:
-    date: 2023-08-28
+    date: 2024-09-03
     type: assignment
     slug: aDW1
 
 SpeculativeWorkbooks:
-    date: 2023-08-29
+    date: 2024-09-03
     type: lecture
     slug: lSpeculativeWorkbooks
 
 RespondingToReadings:
-    date: 2023-08-31
+    date: 2024-09-05
     type: lecture
     slug: lRespondingToReadings
 
 SectionBlank2:
-    date: 2023-09-01
+    date: 2024-09-06
     type: section
     slug: sSectionBlank
 
 DW2:
-    date: 2023-09-05
+    date: 2024-09-09
     type: assignment
     slug: aDW2
 
 Impact:
-    date: 2023-09-05
+    date: 2024-09-10
     type: lecture
     slug: lImpact
 
 CaseModernist:
-    date: 2023-09-07
+    date: 2024-09-12
     type: lecture
     slug: lCaseModernist
 
 SectionBlank3:
-    date: 2023-09-08
+    date: 2024-09-13
     type: section
     slug: sSectionBlank
 
-DW3:
-    date: 2023-09-11
-    type: assignment
-    slug: aDW3
-
-DesignLegislation:
-    date: 2023-09-11
+DesignLegislation:     #MODULE
+    date: 2024-09-15
     type: module
     slug: mDesignLegislation
 
+DW3:
+    date: 2024-09-16
+    type: assignment
+    slug: aDW3
+
 PersuasiveComputing:
-    date: 2023-09-12
+    date: 2024-09-17
     type: lecture
     slug: lPersuasiveComputing
 
 PoliInfoVis:
-    date: 2023-09-14
+    date: 2024-09-19
     type: lecture
     slug: lPoliInfoVis
 
 SectionBlank4:
-    date: 2023-09-15
+    date: 2024-09-20
     type: section
     slug: sSectionBlank
 
 DW4:
-    date: 2023-09-18
+    date: 2024-09-23
     type: assignment
     slug: aDW4
 
 PoliGames:
-    date: 2023-09-19
+    date: 2024-09-24
     type: lecture
     slug: lPoliGames
 
 PersuationCoercion:
-    date: 2023-09-21
+    date: 2024-09-26
     type: lecture
     slug: lPersuationCoercion
 
 SectionBlank5:
-    date: 2023-09-22
+    date: 2024-09-27
     type: section
     slug: sSectionBlank
 
 DW5:
-    date: 2023-09-25
+    date: 2024-09-30
     type: assignment
     slug: aDW5
 
 ExpandingFraming:
-    date: 2023-09-26
+    date: 2024-10-01
     type: lecture
     slug: lExpandingFraming
 
 PoliticsAlgorithms:
-    date: 2023-09-28
+    date: 2024-10-03
     type: lecture
     slug: lPoliticsAlgorithms
 
 SectionBlank5a:
-    date: 2023-09-29
+    date: 2024-10-04
     type: section
     slug: sSectionBlank
 
 MP1:
-    date: 2023-09-29
+    date: 2024-10-06
     type: assignment
     slug: aMP1
 
-Infrastructuring:
-    date: 2023-10-02
+Infrastructuring:     #MODULE
+    date: 2024-10-06
     type: module
     slug: mInfrastructuring
 
 DW6:
-    date: 2023-10-02
+    date: 2024-10-07
     type: assignment
     slug: aDW6
 
 Infrastructure:
-    date: 2023-10-03
+    date: 2024-10-08
     type: lecture
     slug: lInfrastructure
 
 Data-DrivenWork:
-    date: 2023-10-05
+    date: 2024-10-10
     type: lecture
     slug: lData-DrivenWork
 
 SectionBlank6:
-    date: 2023-10-06
+    date: 2024-10-11
     type: section
     slug: sSectionBlank
 
 FallBreak:
-    date: 2023-10-10
+    date: 2024-10-15
     type: holiday
     slug: hFallBreak
 
-DW7:
-    date: 2023-10-12
-    type: assignment
-    slug: aDW7
-
 InfrastructuralActivism:
-    date: 2023-10-12
+    date: 2024-10-17
     type: lecture
     slug: lInfrastructuralActivism
 
-SectionCrit1:
-    date: 2023-10-13
+SectionCrit1: #first crits pt. 1
+    date: 2024-10-18
     type: section
     slug: sSectionCrit1
     topic: Critiques!
 
-DW8:
-    date: 2023-10-16
-    type: assignment
-    slug: aDW8
-
-ExpandingParticipation:
-    date: 2023-10-17
+ExpandingParticipation:     #MODULE
+    date: 2024-10-20
     type: module
     slug: mExpandingParticipation
 
+DW7:
+    date: 2024-10-21
+    type: assignment
+    slug: aDW7
+
 ParticipatoryDesign:
-    date: 2023-10-17
+    date: 2024-10-22
     type: lecture
     slug: lParticipatoryDesign
 
 CivicConversations:
-    date: 2023-10-19
+    date: 2024-10-24
     type: lecture
     slug: lCivicConversations
 
-SectionBlank8:
-    date: 2023-10-20
+SectionBlank8: # first crits part 2?
+    date: 2024-10-25
     type: section
-    slug: sSectionBlank
-
-DW9:
-    date: 2023-10-23
-    type: assignment
-    slug: aDW9
+    slug: sSectionBlank 
 
 MP2:
-    date: 2023-10-23
+    date: 2024-10-27 # late to offer time after first crits
     type: assignment
     slug: aMP2
 
+DW8:
+    date: 2024-10-28 # due ebd so that we can grade them
+    type: assignment
+    slug: aDW8
+
 PDPartnerFindElicit:
-    date: 2023-10-24
+    date: 2024-10-29
     type: lecture
     slug: lPDPartnerFindElicit
 
 PDPartnerMeetups:
-    date: 2023-10-26
+    date: 2024-10-31
     type: lecture
-    slug: lPDPartnerMeetups
+    slug: lPDPartnerMeetups 
 
 SectionBlank9:
-    date: 2023-10-27
+    date: 2024-11-01
     type: section
     slug: sSectionBlank
     topic: PD second section
 
-DW10:
-    date: 2023-10-30
+DW9:
+    date: 2024-11-04
     type: assignment
-    slug: aDW10
+    slug: aDW9
 
-DesigningImagination:
-    date: 2023-10-30
+DesigningImagination:      #MODULE
+    date: 2024-11-03
     type: module
     slug: mDesigningImagination
 
 NarrativeImpact:
-    date: 2023-10-31
+    date: 2024-11-05
     type: lecture
     slug: lNarrativeImpact
 
 CriticalDesign:
-    date: 2023-11-02
+    date: 2024-11-07
     type: lecture
     slug: lCriticalDesign
-
+ 
 SectionBlank1o:
-    date: 2023-11-03
+    date: 2024-11-08
     type: section
     slug: sSectionBlank
 
-DW11:
-    date: 2023-11-06
+DW10:
+    date: 2024-11-11
     type: assignment
-    slug: aDW11
+    slug: aDW10
 
 CriticalDesignWorkshop:
-    date: 2023-11-07
+    date: 2024-11-12
     type: lecture
-    slug: lCriticalDesignWorkshop
+    slug: lCriticalDesignWorkshop  
 
 Afrofuturism:
-    date: 2023-11-09
+    date: 2024-11-14
     type: lecture
     slug: lAfrofuturism
 
 SectionBlank11:
-    date: 2023-11-10
+    date: 2024-11-15
     type: section
     slug: sSectionBlank
 
 MP3:
-    date: 2023-11-10
+    date: 2024-11-15
     type: assignment
     slug: aMP3
 
-DW12:
-    date: 2023-11-13
+DW11:
+    date: 2024-11-18
     type: assignment
-    slug: aDW12
+    slug: aDW11
 
-FinalReview:
-    date: 2023-11-14
-    type: lecture
-    slug: lFinalReview
-
-MentalHealthDay1:
-    date: 2023-11-16
+MentalHealthDay:
+    date: 2024-11-19
     type: lecture
     slug: lMentalHealthDay1
 
-SectionBlank12:
-    date: 2023-11-17
-    type: section
-    slug: sSectionBlank
-
-DW13:
-    date: 2023-11-20
-    type: assignment
-    slug: aDW13
-
 SiliconValley:
-    date: 2023-11-21
+    date: 2024-11-21
     type: lecture
     slug: lSiliconValley
 
-Thanksgiving:
-    date: 2023-11-23
-    type: holiday
-    slug: hThanksgiving
+SectionBlank12:
+    date: 2024-11-22
+    type: section
+    slug: sSectionBlank
 
-DayAfterThanksgiving:
-    date: 2023-11-24
-    type: holiday
-    slug: hDayAfterThanksgiving
-
-ForwardOutward:
-    date: 2023-11-27
+ForwardOutward:      #MODULE
+    date: 2024-11-24
     type: module
     slug: mForwardOutward
 
-DW14:
-    date: 2023-11-27
+DW12:
+    date: 2024-11-25
     type: assignment
-    slug: aDW14
+    slug: aDW12 
+
+FinalReview:
+    date: 2024-11-26
+    type: lecture
+    slug: lFinalReview
+
+Thanksgiving:
+    date: 2024-11-27
+    type: holiday
+    slug: hThanksgiving
+
+EndThanksgiving:
+    date: 2024-11-28
+    type: holiday
+    slug: hDayAfterThanksgiving
+
+#Note that this should be due before grading session?
+DW13:
+    date: 2024-12-03
+    type: assignment
+    slug: aDW13
+
+MP4:
+    date: 2024-12-03
+    type: assignment
+    slug: aMP4
 
 BeyondSV:
-    date: 2023-11-28
+    date: 2024-12-03
     type: lecture
     slug: lBeyondSV
 
 CourseConclusion:
-    date: 2023-11-30
+    date: 2024-12-05
     type: lecture
     slug: lCourseConclusion
 
-MP4:
-    date: 2023-12-01
-    type: assignment
-    slug: aMP4
-
 SectionCrit2:
-    date: 2023-12-01
+    date: 2024-12-06
     type: section
     slug: sSectionCrit2
 
+DW14:
+    date: 2024-12-09
+    type: assignment
+    slug: aDW14
+
 DW15:
-    date: 2023-12-04
+    date: 2024-12-09
     type: assignment
     slug: aDW15
 
-FinalSession1:
-    date: 2023-12-11
-    type: assignment
-    slug: aFinalSession1
+#FinalSession1:
+#    date: 2024-12-11
+#    type: assignment
+#    slug: aFinalSession1

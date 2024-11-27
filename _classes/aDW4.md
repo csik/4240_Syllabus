@@ -11,6 +11,6 @@ ALL FOUR quarters of the design workbook are due for any of the readings above. 
 3. Iterate Two More (Different) Designs, once sentence each, but also based on the idea of the quote
 4. What Did You Learn About the Author’s Points By Making the Designs?
 
-Full description of how to do a design workbook [here]({{ site.baseurl }}/dw).
+Together, your responses to these four parts should take no more than a single page. Full description of how to do a design workbook [here]({{site.url}}/{{ site.baseurl }}/dw).
 
-Due Monday, 9/18, 11:59pm on Canvas.
+Due Monday, 11:59pm on Canvas.
