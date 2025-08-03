@@ -1,5 +1,5 @@
 SummerBreak:
-    date: 2024-08-15
+    date: 2024-07-15
     type: holiday
     slug: hSummerBreak
 
@@ -9,122 +9,122 @@ CourseIntroduction:     #MODULE
     slug: mIntroduction
 
 TDSI:
-    date: 2024-08-27
+    date: 2024-08-26
     type: lecture
     slug: lTDSI
 
 ValuesInDesign:
-    date: 2024-08-29
+    date: 2024-08-28
     type: lecture
     slug: lValuesInDesign
 
 SectionBlank1:
-    date: 2024-08-30
+    date: 2024-08-29
     type: section
     slug: sSectionBlank
 
 DW1:
-    date: 2024-09-03
+    date: 2024-09-02
     type: assignment
     slug: aDW1
 
 SpeculativeWorkbooks:
-    date: 2024-09-03
+    date: 2024-09-02
     type: lecture
     slug: lSpeculativeWorkbooks
 
 RespondingToReadings:
-    date: 2024-09-05
+    date: 2024-09-04
     type: lecture
     slug: lRespondingToReadings
 
 SectionBlank2:
-    date: 2024-09-06
+    date: 2024-09-05
     type: section
     slug: sSectionBlank
 
 DW2:
-    date: 2024-09-09
+    date: 2024-09-08
     type: assignment
     slug: aDW2
 
 Impact:
-    date: 2024-09-10
+    date: 2024-09-09
     type: lecture
     slug: lImpact
 
 CaseModernist:
-    date: 2024-09-12
+    date: 2024-09-11
     type: lecture
     slug: lCaseModernist
 
 SectionBlank3:
-    date: 2024-09-13
+    date: 2024-09-12
     type: section
     slug: sSectionBlank
 
 DesignLegislation:     #MODULE
-    date: 2024-09-15
+    date: 2024-09-14
     type: module
     slug: mDesignLegislation
 
 DW3:
-    date: 2024-09-16
+    date: 2024-09-15
     type: assignment
     slug: aDW3
 
 PersuasiveComputing:
-    date: 2024-09-17
+    date: 2024-09-16
     type: lecture
     slug: lPersuasiveComputing
 
 PoliInfoVis:
-    date: 2024-09-19
+    date: 2024-09-18
     type: lecture
     slug: lPoliInfoVis
 
 SectionBlank4:
-    date: 2024-09-20
+    date: 2024-09-19
     type: section
     slug: sSectionBlank
 
 DW4:
-    date: 2024-09-23
+    date: 2024-09-22
     type: assignment
     slug: aDW4
 
 PoliGames:
-    date: 2024-09-24
+    date: 2024-09-23
     type: lecture
     slug: lPoliGames
 
 PersuationCoercion:
-    date: 2024-09-26
+    date: 2024-09-25
     type: lecture
     slug: lPersuationCoercion
 
 SectionBlank5:
-    date: 2024-09-27
+    date: 2024-09-26
     type: section
     slug: sSectionBlank
 
 DW5:
-    date: 2024-09-30
+    date: 2024-09-29
     type: assignment
     slug: aDW5
 
 ExpandingFraming:
-    date: 2024-10-01
+    date: 2024-09-30
     type: lecture
     slug: lExpandingFraming
 
 PoliticsAlgorithms:
-    date: 2024-10-03
+    date: 2024-10-02
     type: lecture
     slug: lPoliticsAlgorithms
 
 SectionBlank5a:
-    date: 2024-10-04
+    date: 2024-10-03
     type: section
     slug: sSectionBlank
 
@@ -138,64 +138,64 @@ Infrastructuring:     #MODULE
     type: module
     slug: mInfrastructuring
 
-DW6:
-    date: 2024-10-07
-    type: assignment
-    slug: aDW6
-
 Infrastructure:
-    date: 2024-10-08
+    date: 2024-10-07
     type: lecture
     slug: lInfrastructure
 
+DW6:
+    date: 2024-10-08
+    type: assignment
+    slug: aDW6
+
 Data-DrivenWork:
-    date: 2024-10-10
+    date: 2024-10-09
     type: lecture
     slug: lData-DrivenWork
 
 SectionBlank6:
-    date: 2024-10-11
+    date: 2024-10-10
     type: section
     slug: sSectionBlank
 
 FallBreak:
-    date: 2024-10-15
+    date: 2024-10-11
     type: holiday
     slug: hFallBreak
 
 InfrastructuralActivism:
-    date: 2024-10-17
+    date: 2024-10-16
     type: lecture
     slug: lInfrastructuralActivism
 
 SectionCrit1: #first crits pt. 1
-    date: 2024-10-18
+    date: 2024-10-17
     type: section
     slug: sSectionCrit1
     topic: Critiques!
 
 ExpandingParticipation:     #MODULE
-    date: 2024-10-20
+    date: 2024-10-18
     type: module
     slug: mExpandingParticipation
 
 DW7:
-    date: 2024-10-21
+    date: 2024-10-20
     type: assignment
     slug: aDW7
 
 ParticipatoryDesign:
-    date: 2024-10-22
+    date: 2024-10-21
     type: lecture
     slug: lParticipatoryDesign
 
 CivicConversations:
-    date: 2024-10-24
+    date: 2024-10-23
     type: lecture
     slug: lCivicConversations
 
-SectionBlank8: # first crits part 2?
-    date: 2024-10-25
+SectionBlank8: 
+    date: 2024-10-24
     type: section
     slug: sSectionBlank 
 
@@ -204,114 +204,114 @@ MP2:
     type: assignment
     slug: aMP2
 
-DW8:
-    date: 2024-10-28 # due ebd so that we can grade them
-    type: assignment
-    slug: aDW8
-
 PDPartnerFindElicit:
-    date: 2024-10-29
+    date: 2024-10-28
     type: lecture
     slug: lPDPartnerFindElicit
 
+DW8:
+    date: 2024-10-29 # due ebd so that we can grade them
+    type: assignment
+    slug: aDW8
+
 PDPartnerMeetups:
-    date: 2024-10-31
+    date: 2024-10-30
     type: lecture
     slug: lPDPartnerMeetups 
 
 SectionBlank9:
-    date: 2024-11-01
+    date: 2024-10-31
     type: section
     slug: sSectionBlank
     topic: PD second section
 
 DW9:
-    date: 2024-11-04
+    date: 2024-11-03
     type: assignment
     slug: aDW9
 
 DesigningImagination:      #MODULE
-    date: 2024-11-03
+    date: 2024-11-04
     type: module
     slug: mDesigningImagination
 
 NarrativeImpact:
-    date: 2024-11-05
+    date: 2024-11-04
     type: lecture
     slug: lNarrativeImpact
 
 CriticalDesign:
-    date: 2024-11-07
+    date: 2024-11-06
     type: lecture
     slug: lCriticalDesign
  
 SectionBlank1o:
-    date: 2024-11-08
+    date: 2024-11-07
     type: section
     slug: sSectionBlank
 
 DW10:
-    date: 2024-11-11
+    date: 2024-11-10
     type: assignment
     slug: aDW10
 
 CriticalDesignWorkshop:
-    date: 2024-11-12
+    date: 2024-11-11
     type: lecture
     slug: lCriticalDesignWorkshop  
 
 Afrofuturism:
-    date: 2024-11-14
+    date: 2024-11-13
     type: lecture
     slug: lAfrofuturism
 
 SectionBlank11:
-    date: 2024-11-15
+    date: 2024-11-14
     type: section
     slug: sSectionBlank
 
 MP3:
-    date: 2024-11-15
+    date: 2024-11-17
     type: assignment
     slug: aMP3
 
 DW11:
-    date: 2024-11-18
+    date: 2024-11-19
     type: assignment
     slug: aDW11
 
 MentalHealthDay:
-    date: 2024-11-19
+    date: 2024-11-18
     type: lecture
     slug: lMentalHealthDay1
 
 SiliconValley:
-    date: 2024-11-21
+    date: 2024-11-18
     type: lecture
     slug: lSiliconValley
 
-SectionBlank12:
-    date: 2024-11-22
-    type: section
-    slug: sSectionBlank
-
 ForwardOutward:      #MODULE
-    date: 2024-11-24
+    date: 2024-11-20
     type: module
     slug: mForwardOutward
 
+SectionBlank12:
+    date: 2024-11-21
+    type: section
+    slug: sSectionBlank
+
 DW12:
-    date: 2024-11-25
+    date: 2024-11-24
     type: assignment
     slug: aDW12 
 
 FinalReview:
-    date: 2024-11-26
+    date: 2024-11-25
     type: lecture
     slug: lFinalReview
 
 Thanksgiving:
-    date: 2024-11-27
+    date: 2024-11-26
     type: holiday
     slug: hThanksgiving
 
@@ -322,37 +322,37 @@ EndThanksgiving:
 
 #Note that this should be due before grading session?
 DW13:
-    date: 2024-12-03
+    date: 2024-12-02
     type: assignment
     slug: aDW13
 
 MP4:
-    date: 2024-12-03
+    date: 2024-12-02
     type: assignment
     slug: aMP4
 
 BeyondSV:
-    date: 2024-12-03
+    date: 2024-12-02
     type: lecture
     slug: lBeyondSV
 
 CourseConclusion:
-    date: 2024-12-05
+    date: 2024-12-04
     type: lecture
     slug: lCourseConclusion
 
 SectionCrit2:
-    date: 2024-12-06
+    date: 2024-12-05
     type: section
     slug: sSectionCrit2
 
 DW14:
-    date: 2024-12-09
+    date: 2024-12-08
     type: assignment
     slug: aDW14
 
 DW15:
-    date: 2024-12-09
+    date: 2024-12-08
     type: assignment
     slug: aDW15
 
