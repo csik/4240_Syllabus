@@ -18,6 +18,14 @@ After doing this project you will be able to:
 *   Use sketches and text to compellingly convey design ideas.
 *   Construct a strong, specific argument for how design is intended to work.
 
+{% if site.data.yearly.MP1.value == "not_published" %}
+<p></p>
+<p></p>
+*This assignment is not yet published.*
+
+<p></p>
+{% else %}
+
 ### Overview
 
 In this project, you will develop and flesh out a concept design for a persuasive technology to address a social issue that you care about.
@@ -176,3 +184,4 @@ Your project is due electronically via submission to Canvas by **11:59pm on {{cl
 </tr>
 
 </tbody></table><br></p>
+{% endif %}

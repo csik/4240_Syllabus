@@ -1,7 +1,7 @@
 # Course Texts
 ## Textbook
 
-The course uses a "digital only" [course reader](https://cornellstore.vitalsource.com/products/designing-technoloy-for-social-impact-christopher-csikszentmihalyi-v9781649504975?term=9781649504975), which you can purchase from the Cornell Store. We only include articles or chapters that cannot be shared any other (legal) way. There is no paper reader -- once purchased you will be able to download it.
+The course uses a "digital only" [course reader](https://www.cornellstore.com/adoption-search-results?ccid=721166&itemid=1089846), which you can purchase from the Cornell Store. We only include articles or chapters that cannot be shared any other (legal) way. There is no paper reader -- once purchased you will be able to download it. If you are strapped for cash, you can probably find the chapters in the reader in books in the library.
 
 The rest of the course readings are available on-line. To access many of these readings through the links, you will need to be on the Cornell network, or logged in to the Cornell library through a proxy using your NetID. You can find out more about how to do this [here](https://www.library.cornell.edu/services/apps/passkey).
 
@@ -49,7 +49,7 @@ Consolvo, Sunny, et al. "Designing for Behavior Change in Everyday Life." *Comp
 
 Crawford, Kate. "Opinion / Artificial Intelligence's White Guy Problem." *The New York Times*, 25 June 2016. *NYTimes.com*, <https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html>.
 
-"DataVizChallenge.Org: Visualize Your Taxes." *DataVizChallenge.Org*. *www.datavizchallenge.org*, <http://datavizchallenge.org/>. Accessed 4 May 2020. **Note: This resource may have been taken down by Google. See video about it here:** <https://www.youtube.com/watch?v=N118ePe_uzk>.
+"DataVizChallenge.Org: Visualize Your Taxes." *DataVizChallenge.Org*. *www.datavizchallenge.org*, <https://www.datavisualizationsociety.org/challenges>. Accessed 4 May 2020. **Note: This resource may have been taken down by Google. See video about it here:** <https://www.youtube.com/watch?v=N118ePe_uzk>.
 
 Davis, Ben. *A Critique of Social Practice Art / International Socialist Review*. *isreview.org*, <https://isreview.org/issue/90/critique-social-practice-art>. Accessed 4 May 2020.
 
@@ -101,7 +101,7 @@ Khovanskaya, Vera, and Phoebe Sengers. "Data Rhetoric and Uneasy Alliances: Data
 
 Kyng, Morten. "Designing for Cooperation: Cooperating in Design." *Communications of the ACM*, vol. 34, no. 12, Dec. 1991, pp. 65--73. *ACM Digital Library*, doi:[10.1145/125319.125323](https://doi.org/10.1145/125319.125323).
 
-Leslie, Ian. "The Scientists Who Make Apps Addictive." *1843*, Oct. 2016. *www.1843magazine.com*, <https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive>.
+Leslie, Ian. "The Scientists Who Make Apps Addictive." *1843*, Oct. 2016. *www.1843magazine.com*, <https://www.economist.com/1843/2016/10/20/the-scientists-who-make-apps-addictive>.
 
 Levy, Karen E. C. "The Contexts of Control: Information, Power, and Truck-Driving Work." *The Information Society*, vol. 31, no. 2, Routledge, Mar. 2015, pp. 160--74. *Taylor and Francis+NEJM*, doi:[10.1080/01972243.2015.998105](https://doi.org/10.1080/01972243.2015.998105).
 

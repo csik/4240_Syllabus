@@ -9,7 +9,13 @@ class: MP3
 ### Goal
 
 The goal of this project is to give you an experiential sense of how participatory design works, how to create elicitation strategies for it, and the kinds of surprises that it can turn up. **This project will be done in groups of two**.
+{% if site.data.yearly.MP3.value == "not_published" %}
+<p></p>
+<p></p>
+*This assignment is not yet published.*
 
+<p></p>
+{% else %}
 ### Overview
 
 The key attribute of participatory design is that intended users/stakeholders and designers work together to create a design which does justice to the complexity of the users' actual practices. Moreover, in PD all stakeholders are experts in their own domain, so we will use the term "user" and "expert" interchangeably. In this mini-project, you will practice this on a small/brief scale. You will form a team of two. One person will be designated "the designer", the other "the expert." The team will develop an original elicitation technique, use it to investigate a practice of the expert, and collaboratively sketch a technology design that is appropriate for that practice based on the insights that the elicitation techniques developed.
@@ -57,3 +63,4 @@ Please pay attention to word counts in both sections!
 
 {% assign class = site.data.classes[page.class] %}
 Your project is due electronically via submission to Canvas by <b>11:59pm on {{class.date | date: "%A, %b %-d" }}</b>. Your submissions must be in .pdf format (you can print your design image to pdf to produce this). Passages beyond the word limits will not be counted toward the assignment.
+{% endif %}

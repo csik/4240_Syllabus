@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Miniproject 4
+class: MP4
 ---
 
 ## Mini-project 4: Critical design
@@ -16,6 +17,14 @@ After doing this project you will be able to:
 * Use different strategies to create critical designs.
 * Iterate on early critical designs in order to improve their clarity and effectiveness.
 * Articulate a critical design in terms of the strange, but compelling lifeworld that it projects and in which the design makes sense.
+
+{% if site.data.yearly.MP4.value == "not_published" %}
+<p></p>
+<p></p>
+*This assignment is not yet published.*
+
+<p></p>
+{% else %}
 
 ### Overview
 
@@ -46,3 +55,5 @@ Deliverables:
 
 {% assign class = site.data.classes[page.class] %}
 Your designs are due electronically to Canvas by <b>4:00pm on {{class.date | date: "%A, %b %-d" }}</b>. ¡Note the different time! Your submission must be in .pdf format. Passages beyond the word limits will not be counted toward the assignment. As always, if you prefer to do design work with your hands, you may do your project on paper and upload photos of the result, embedded into a pdf. It is also OK to do your written work by hand and upload photos as long as your handwriting is legible and the scan quality is good.
+
+{% endif %}

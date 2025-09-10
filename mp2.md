@@ -11,9 +11,15 @@ class: MP2
 <p>This project has two goals:
 <ul>
 <li>To give you hands-on practice in making design interventions at the level of infrastructure (code and algorithms that structure many people's practices).</li>
-<li>To develop skills in expressing ideas about social impact in the form of an op-ed which can have wide influence.</li>
-</ul></p>  
 
+{% if site.data.yearly.MP2.value == "not_published" %}
+<p></p>
+<p></p>
+*This assignment is not yet published.*
+
+<p></p>
+{% else %}
+</ul></p> 
 ## MATERIALS FROM SECTION
 
 Here are some materials that we will be using to help shape MP2:
@@ -157,3 +163,6 @@ The argument should pre-empt possible skeptics and critics by acknowledging any 
 6. <https://www.eia.gov/consumption/<br>>
 
 7. <https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/> <br>
+
+
+{% endif %}

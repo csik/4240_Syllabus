@@ -4,9 +4,25 @@
 
 ## Office Hours
 
-<p align="center"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQFZA4eOxctxD9ro8T7fG75vJiFrjO3vKdQ8nlc3FERp0dT7EadJcsmqWwpxnF0Jw/pubhtml?gid=190009905&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="420" ></iframe></p>
-(Γ indicates graduate TA, able to give advice in 5240. α indicates a visual communication specialist)
 
+| Day of Week | Time               | Name         | Location (Zoom Link or Physical Location)                                                                                                                                                                                             |
+| ----------- | ------------------ | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Monday      | 3:30-4:30pm        | Sreya        | [Zoom](https://cornell.zoom.us/j/9044365225?pwd=RG9jU3JucVVObHY0eTV3TTlsdHZPZz09) Meeting ID: 904 436 5225 Passcode: 12345                                                                                                            |
+| Monday      | 9:30 am - 10:30 am | Hannah Whang | Meeting ID: 998 380 0681 Passcode: 829341<br>[https://cornell.zoom.us/j/9983800681?pwd=dXNlRk01Y1ZVVVJpUEdBNG9WcjFKQT09](https://cornell.zoom.us/j/9983800681?pwd=dXNlRk01Y1ZVVVJpUEdBNG9WcjFKQT09)                                   |
+| Monday      | 3pm-4pm            | Hamid Rezaee | [Zoom](https://cornell.zoom.us/j/5706606180?pwd=cmo0TTcyekhNaTZMQXFQTEc3SXlJUT09), Meeting ID: 570 660 6180, Passcode: 467578                                                                                                         |
+| Tuesday     | 2:00 - 4:00 PM     | Shaun        | [https://cornell.zoom.us/j/98954220391?pwd=2dMOZL4NDahIxjJTcL3ZTLQl1lTqv4.1](https://cornell.zoom.us/j/98954220391?pwd=2dMOZL4NDahIxjJTcL3ZTLQl1lTqv4.1)<br>Meeting ID: 989 5422 0391<br>Passcode: 799065                             |
+| Wednesday   | 1:30-2:30 pm       | Shreya       | [Zoom](https://cornell.zoom.us/j/9044365225?pwd=RG9jU3JucVVObHY0eTV3TTlsdHZPZz09) Meeting ID: 904 436 5225 Passcode: 12345                                                                                                            |
+| Wednesday   | 12:30-1:30 pm      | Baihe Peng   | [Zoom](https://cornell.zoom.us/j/91757909414?pwd=NGleCx5rySLiSxYY47YvX1NVaeD63T.1) Meeting ID: 917 5790 9414 Passcode: 123123                                                                                                         |
+| Thursday    | 3:00 - 4:00 PM     | Jasmine      | [Zoom](https://cornell.zoom.us/j/98993588065?pwd=6qFrZtXGdesaLprBoAbYMcGRAAmQSm.1) Meeting ID: 989 9358 8065 Password: 4240                                                                                                           |
+| Friday      | 1:30-2:30 PM       | Eden         | Zoom Meeting ID: 434 361 8848 PasscodeL b61yNc [https://us05web.zoom.us/j/4343618848?pwd=ZHNGa1hoZkdxWm9oUVhFZEUrSUxvdz09&omn=84259965429](https://us05web.zoom.us/j/4343618848?pwd=ZHNGa1hoZkdxWm9oUVhFZEUrSUxvdz09&omn=84259965429) |
+| Friday      | 2:30 - 3:30 PM     | Reya         | [https://cornell.zoom.us/j/92725118265?pwd=lSeqPdWFSYjiTp6kxE0pRSNYlTirDp.1](https://cornell.zoom.us/j/92725118265?pwd=lSeqPdWFSYjiTp6kxE0pRSNYlTirDp.1) Meeting ID: 927 2511 8265<br>Passcode: 707126                                |
+| Friday      | 5:00pm-6pm         | Hamid Rezaee | [Zoom](https://cornell.zoom.us/j/5706606180?pwd=cmo0TTcyekhNaTZMQXFQTEc3SXlJUT09), Meeting ID: 570 660 6180, Passcode: 467578                                                                                                         |
+|             |                    |              |                                                                                                                                                                                                                                       |
+|             |                    |              |                                                                                                                                                                                                                                       |
+|             |                    |              | [Prof's hours can be booked at http://calendly.com/csik](http://calendly.com/csik)                                                                                                                                                    |
+
+
+<!--
 ## Regrade Requests
 
 In order to submit a regrade request, first wait 24 hours after you receive the grade. Requests must be made within two weeks of receiving an on-time grade, or one week of receiving a grade for a late submission. Please submit all regrade requests by filling out the survey below. We ask that you read it carefully, think carefully before requesting a regrade, and note that a regrade **may result in a lower grade.** 
@@ -21,23 +37,23 @@ Please note:
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
 [Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_exncV244wClDeg6)
-
+-->
 
 ## In-person policy
-In both lecture and section we aim for robust dialog in a mutually supportive environment. At a minimum, we expect you to follow the campus code of student conduct [linked from here](https://assembly.cornell.edu/tools-tabs-resources/campus-code-conduct/).
+In both lecture and section we aim for robust dialog in a mutually supportive environment. At a minimum, we expect you to follow the campus code of student conduct [linked from here](https://assembly.cornell.edu/resources/student-code-conduct).
 
-Students are expected to come to class on time, and to treat eachother and teaching staff respectfully. Faking attendance, for oneself or another, is an academic integrity violation.
+Students are expected to come to class on time, and to treat each other and teaching staff respectfully. Faking attendance, for oneself or another, is an academic integrity violation.
 
-We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class. We expect you to contact other students for notes and to help you catch up on missed lectures or sections. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material. 
+We do not excuse individual absences in this course. We understand that people will sometimes have family conflicts, job interviews, religious commitments, illnesses, and other reasons why they cannot come to class: we allow three missed lectures. If you miss a lecture, we expect you to contact other students for notes and to help you catch up on missed lectures or sections. If you have a serious situation that will potentially force you to miss a significant number of classes, please contact Prof. Csíkszentmihályi at cpc83 @ cornell.edu or via Ed Discussions to make an alternative plan for covering course material. 
 
 ## Is AI A'ight?
-We have strong advice about where generative AI is best used in the course, if at all. The first point is that while there are countless marketers who are trying to scare you into thinking that you will miss out if you don't use it, people have graduated from Cornell since 1869 without it. There's far more evidence that education works better without using AI than with it.
+We have strong advice about where generative AI is best used in the course, if at all. The first point is that while there are countless marketers who are trying to scare you into thinking that you will miss out if you don't use it, people have graduated from Cornell since 1869 without it. Like social media, mercury, and meth, the negative impacts can take a long time to understand, so for this class we're "leaning out" from AI.
 
-It could be that some of our highly-graded responses used LLMs, but we're pretty sure that *many of the workbooks that did poorly in prior years used AI*. Put it this way: if you do a few workbooks that score in the A range, it may be safe to try LLMs, because you know you have a good eye for whether it's churning out good work. But until you score well on your own, AI won't save you. None of the AIs currently generate high quality speculative design on their own, and until you are good at speculative design, you won't be able to help them.
+It could be that some of our highly-graded responses used LLMs, but we're pretty sure that *many of the workbooks that did poorly in prior years used AI*. None of the AIs currently generate high quality speculative design on their own, and until you are good at speculative design, you won't know what to ask them.
 
-AI will no doubt give you a reasonable summary of articles. That said, it will be much worse at finding a single compelling quote that struck you. Indeed, they aren't able to give quotes because of copyright in many cases. And the summary will be similar to what it gives other students -- not great when our graders respond positively to novel takes. Finding a novel SPECULATIVE design from a text through AI is difficult and often wrong without significant investment. The LLM usually defaults to common marketing phrases that are *useless* in our assignments. We've done experiments to find good speculative designs using ChatGPT and Bard, and in the end it requires so much back-and-forth to get the AI in the right zone for speculative design that it's easier to do it with your own noggin. So workbooks are not a great place to use AI if you're concerned about doing well, let alone actually developing a sense of the text. 
+AI will no doubt give you a reasonable summary of articles. That said, it will be much worse at finding a single compelling quote that struck you. And the summary will be similar to what it gives other students -- not great when our graders respond positively to novel takes. Finding a novel SPECULATIVE design from a text through AI is difficult and often wrong without significant investment. The LLM usually defaults to common marketing phrases that are *useless* in our assignments. We've done experiments to find good speculative designs using ChatGPT and its ilk, and in the end it requires so much back-and-forth to get the AI in the right zone for speculative design that it's easier to do it with your own noggin. So workbooks are not a great place to use AI if you're concerned about doing well, let alone actually developing a sense of the text. 
 
-Where we *do* actively encourage generative AI is for generating images for *some* of your workbooks. If your ability to "read" images is a lot better than your ability to make them, as is the case for most of us, you're in a sweet spot for using AI to create prototypes of designs, show a design in use, etc. Beware that this can be a huuuuuuuuuuuge rabbit hole though, and we're going to judge the image by what it communicates. So if there's weirdness and "chaff" like nonsense text or extra fingers, that is part of your submission, just as if in the text portion you had typd asdfoi opiaff9082. Some of the best workbooks we've seen use [xkcd](https://xkcd.com/1741/) style drawings or [stick figures](https://xkcd.com/974/), or [clip art](https://thumbs.dreamstime.com/b/weird-unusual-odd-jobs-clipart-vector-set-stick-figure-pictogram-representing-include-embalmer-sperm-donor-egg-donor-69642623.jpg). Regardless, when we start grading for novelty mid-way through the semester, if you've been using generative AI for images, you'll have to switch to other methods (the reverse is alright too) to get that extra credit.
+Where we *do* actively encourage generative AI is for generating images for *some* of your workbooks. If your ability to "read" images is a lot better than your ability to make them, as is the case for most of us, you're in a sweet spot for using AI to create prototypes of designs, show a design in use, etc. Beware that this can be a huuuuuuuuuuuge rabbit hole though, and we're going to judge the image by what it communicates, not how good it looks. So if there's weirdness and "chaff" like nonsense text or extra fingers, that is part of your submission. Some of the best workbooks we've seen use [xkcd](https://xkcd.com/1741/) style drawings or [stick figures](https://xkcd.com/974/), or [clip art](https://thumbs.dreamstime.com/b/weird-unusual-odd-jobs-clipart-vector-set-stick-figure-pictogram-representing-include-embalmer-sperm-donor-egg-donor-69642623.jpg). Regardless, when we start grading for novelty mid-way through the semester, if you've been using generative AI for images, you'll have to switch to other methods (the reverse is alright too) to get that extra credit.
 
 [//]: # (## Zoom policy (in case of pandemic)
 
@@ -77,14 +93,14 @@ Some other resources that might be of use include:
 
 1.  [Office of Student Disability Services](https://sds.cornell.edu/)
 2.  [Cornell Health CAPS (Counseling & Psychological Services)](https://health.cornell.edu/services/counseling-psychiatry)
-3.  Undocumented/DACA Student support: In the Dean of Students office, contact Kevin Graham (Kevin.Graham @ cornell.edu) and see [this list of campus resources](https://scl.cornell.edu/sub/identity-resources/undocumented-daca-support)
+3.  Undocumented/DACA Student support: In the Dean of Students office, contact Victor Cuicahua (vc356@cornell.edu) and see [this list of campus resources](https://scl.cornell.edu/undocumented-daca-support).
 
-## Copyright policy
+# Copyright policy
 
-# Disseminating course materials
+## Disseminating course materials
 
 **The teaching team owns copyright on all materials we produce**. We make as much available publically as we can in order to aid others teaching or taking similar courses. When we cannot make materials public   for example, because it might violate someone else's copyright   we provide them to course participants in print or through Canvas. These materials **should therefore not be provided to any third-party site**, even if your intention is to aid other students. To do so is a violation of our copyright. Please trust our judgement about what can be made public and what can't.
 
-# Reusing material on this site
+## Reusing material on this site
 
 Other instructors from anywhere in the world are welcome to reuse materials, texts, assignment descriptions, policies, or anything else you find useful on this publically available webpage. You do not need to ask permission, although we appreciate hearing it if it's been useful to you!

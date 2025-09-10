@@ -5,6 +5,7 @@ readings:
   - "Harrington, Klassen, and Rankin: ['All that You Touch, You Change': Expanding the Canon of Speculative Design Towards Black Futuring.](https://doi.org/10.1145/3491102.3502118)"
   - "Nelson: ['Making the impossible possible:' An interview with Nalo Hopkinson](http://socialtext.dukejournals.org/content/20/2_71/97)"
   - "Sargent: [Afrofuturist museum mines artifacts from the future](https://www.vice.com/en_us/article/8qv34x/afrofuturist-museum-artifacts-from-the-future)"
+  - "Womack: The world of Black Sci-Fi and Fantasy Culture. Only the chapter [Evolution of a Space Cadet](https://static1.squarespace.com/static/57718389725e25272beacd64/t/5f998f434c2ae52feda5ca70/1603899211765/Afrofuturism+the+world+of+black+sci-fi+and+fantasy+culture++by+Ytasha+L.+Womack..pdf)"
 ---
 Imagining alternative technological worlds and histories which start from experiences of the African diaspora.
 

@@ -2,7 +2,7 @@
 title: "Design Workbook 5"
 type: assignment
 ---
-Fifth Design Workbook, one response on [Bogost OR Schull OR Williams].
+Fifth Speculative Design Workbook, one response on [Bogost OR Schull OR Williams].
 
 Going forward, all workbooks must have these sections:
 
@@ -11,6 +11,6 @@ Going forward, all workbooks must have these sections:
 3. Iterate Two More (Different) SPECULATIVE Designs, once sentence each, but also based on the idea of the quote
 4. What Did You Learn About the Author’s Points By Making the Designs?
 
-Full description of how to do a design workbook [here]({{site.url}}/{{ site.baseurl }}/dw).
+Full description of how to do a design workbook [here]({{site.url}}{{ site.baseurl }}/dw).
 
-Due 11:59pm on Canvas.
+Due 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).

@@ -4,4 +4,4 @@ type: assignment
 ---
 Twelfth Design Workbook, a response to [Schulz].
 
-Due 11:59pm on Canvas.
+Due 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).

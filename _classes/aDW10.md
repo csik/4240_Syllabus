@@ -4,4 +4,4 @@ type: assignment
 ---
 Tenth submission, a response to one of [Lipartito OR Dunne & Raby].
 
-Due 11:59pm on Canvas.
+Due 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).
