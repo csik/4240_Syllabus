@@ -1,0 +1,33 @@
+lecture_location: 
+  value: "Morrison Hall 146"
+
+lecture_times:
+  value: "T/Th 10:10am - 11:25am"
+
+year:
+  value: 2025
+
+ed:
+  value: "https://edstem.org/us/courses/82260"
+
+canvas:
+  value: "https://canvas.cornell.edu/courses/80450"
+
+MP1:
+  value: "not_published"
+
+MP2:
+  value: "not_published"
+
+MP3:
+  value: "not_published"
+  
+MP4:
+  value: "not_published"
+
+DW1:
+  Canvas_URL: "/assignments/844168"
+
+DW2:
+  Canvas_URL: "/assignments/844175"
+
