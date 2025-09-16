@@ -13,4 +13,4 @@ ALL FOUR quarters of the design workbook are due for any of the readings above. 
 
 Together, your responses to these four parts should take no more than a single page. At this point you should proabably reread the full description of how to do a design workbook [here]({{site.url}}{{ site.baseurl }}/dw), paying special attention to part four.
 
-Due Monday, 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).
+Due 1:25pm on [Canvas]({{site.data.yearly.canvas.value}}).

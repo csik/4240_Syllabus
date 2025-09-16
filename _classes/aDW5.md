@@ -13,4 +13,4 @@ Going forward, all workbooks must have these sections:
 
 Full description of how to do a design workbook [here]({{site.url}}{{ site.baseurl }}/dw).
 
-Due 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).
+Due 1:25pm on [Canvas]({{site.data.yearly.canvas.value}}).

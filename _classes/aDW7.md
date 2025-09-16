@@ -11,4 +11,4 @@ This design workbook may use one of (for all three designs):
 
 **Please be explicit as to which you are using.**
 
-Due 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).
+Due 1:25pm on [Canvas]({{site.data.yearly.canvas.value}}).

@@ -89,7 +89,7 @@ SectionBlank4:
     slug: sSectionBlank
 
 DW4:
-    date: 2025-09-22
+    date: 2025-09-23
     type: assignment
     slug: aDW4
 
@@ -109,7 +109,7 @@ SectionBlank5:
     slug: sSectionBlank
 
 DW5:
-    date: 2025-09-29
+    date: 2025-09-30
     type: assignment
     slug: aDW5
 
@@ -144,7 +144,7 @@ Infrastructure:
     slug: lInfrastructure
 
 DW6:
-    date: 2025-10-08
+    date: 2025-10-07
     type: assignment
     slug: aDW6
 
@@ -180,7 +180,7 @@ ExpandingParticipation:     #MODULE
     slug: mExpandingParticipation
 
 DW7:
-    date: 2025-10-20
+    date: 2025-10-21
     type: assignment
     slug: aDW7
 
@@ -210,7 +210,7 @@ PDPartnerFindElicit:
     slug: lPDPartnerFindElicit
 
 DW8:
-    date: 2025-10-29 # due ebd so that we can grade them
+    date: 2025-10-28 # due ebd so that we can grade them
     type: assignment
     slug: aDW8
 
@@ -226,7 +226,7 @@ SectionBlank9:
     topic: PD second section
 
 DW9:
-    date: 2025-11-03
+    date: 2025-11-04
     type: assignment
     slug: aDW9
 
@@ -251,7 +251,7 @@ SectionBlank1o:
     slug: sSectionBlank
 
 DW10:
-    date: 2025-11-10
+    date: 2025-11-11
     type: assignment
     slug: aDW10
 
@@ -276,7 +276,7 @@ MP3:
     slug: aMP3
 
 DW11:
-    date: 2025-11-19
+    date: 2025-11-18
     type: assignment
     slug: aDW11
 
@@ -301,7 +301,7 @@ SectionBlank12:
     slug: sSectionBlank
 
 DW12:
-    date: 2025-11-24
+    date: 2025-11-25
     type: assignment
     slug: aDW12 
 

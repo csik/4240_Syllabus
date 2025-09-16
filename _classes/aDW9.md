@@ -4,4 +4,4 @@ type: assignment
 ---
 Ninth Design Workbook, a response to ONE of [Miranda OR Davis].
 
-Due 1:59pm on [Canvas]({{site.data.yearly.canvas.value}}).
+Due 1:25pm on [Canvas]({{site.data.yearly.canvas.value}}).

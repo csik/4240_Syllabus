@@ -14,7 +14,7 @@ canvas:
   value: "https://canvas.cornell.edu/courses/80450"
 
 MP1:
-  value: "not_published"
+  value: "published"
 
 MP2:
   value: "not_published"
