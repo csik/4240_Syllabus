@@ -17,8 +17,6 @@ You are expected to 1) have thoughtfully read the day's reading **before** com
 
 You are responsile for being attentive in lecture, and taking notes. You should be keeping an ear out for the main points of the lecture -- often they will be said several times in slightly different ways. We will rarely if ever ask you to recount a date, specific fact, or name from a lecture, but if we mention a name or event you should be familiar with it. An example from the first lecture: You should have written down the main arguments that Nissenbaum and Papenek made, and have a good idea of why OLPC ran into trouble in the field. 
 
-After most lectures you'll have until the following lecture to answer a short Canvas quiz. The quiz will ask some fairly simple questions that refer to the lecture. If you can answer all the questions without a problem, you've mastered the important points of the lecture. If you miss them, you're going to want to either 1) take more careful notes, or 2) think a bit longer before answering; sometimes the question won't be clear but if you think about individual parts of the story you'll be able to derive it.
-
 ## Design workbooks
 
 Over the course of the semester, you will document your thoughts and ideas in response to the readings in a **design workbook.** Each page in your workbook will identify a specific idea from the author's arguments that caught your attention, and explore its implications through a rough design sketch, annotated with thoughts about how your design relates to, extends, challenges, or otherwise explores the author's idea you chose to respond to. We strongly suggest that you write up each design response directly after finishing the corresponding reading, rather than waiting until the end of the week. You should expect each design workbook response to take about 30 minutes to execute. If you find it taking significantly longer, please visit office hours for aid in tuning up your strategies for crafting responses.
@@ -49,7 +47,7 @@ If you don't take the exam, your grade on it will be the same as the points you 
 
 ## Grade Breakdown
 
--   07.5%:  Active Learning & Pre-Lecture Quizzes
+-   07.5%:  Active learning & possibly lecture quizzes
 -   35.0%:  Design workbook
 -   07.5%:  Design workbook critiques
 -   35.0%:  Design mini-projects
