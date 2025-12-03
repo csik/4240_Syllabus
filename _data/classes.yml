@@ -240,10 +240,10 @@ NarrativeImpact:
     type: lecture
     slug: lNarrativeImpact
 
-CriticalDesign:
+Afrofuturism:
     date: 2025-11-06
     type: lecture
-    slug: lCriticalDesign
+    slug: lAfrofuturism
  
 SectionBlank1o:
     date: 2025-11-07
@@ -260,10 +260,10 @@ CriticalDesignWorkshop:
     type: lecture
     slug: lCriticalDesignWorkshop  
 
-Afrofuturism:
+CriticalDesign:
     date: 2025-11-13
     type: lecture
-    slug: lAfrofuturism
+    slug: lCriticalDesign
 
 SectionBlank11:
     date: 2025-11-14
@@ -275,20 +275,20 @@ MP3:
     type: assignment
     slug: aMP3
 
-DW11:
-    date: 2025-11-18
-    type: assignment
-    slug: aDW11
-
 MentalHealthDay:
     date: 2025-11-18
     type: lecture
     slug: lMentalHealthDay1
 
 SiliconValley:
-    date: 2025-11-18
+    date: 2025-11-20
     type: lecture
     slug: lSiliconValley
+
+DW11:
+    date: 2025-11-20
+    type: assignment
+    slug: aDW11
 
 ForwardOutward:      #MODULE
     date: 2025-11-20
@@ -326,15 +326,15 @@ DW13:
     type: assignment
     slug: aDW13
 
-MP4:
-    date: 2025-12-02
-    type: assignment
-    slug: aMP4
-
 BeyondSV:
     date: 2025-12-02
     type: lecture
     slug: lBeyondSV
+
+MP4:
+    date: 2025-12-03
+    type: assignment
+    slug: aMP4
 
 CourseConclusion:
     date: 2025-12-04

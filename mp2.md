@@ -4,165 +4,79 @@ title: Miniproject 2
 class: MP2
 ---
 
-<h2>Mini-project 2: Infrastructural design</h2>
-
-<h3>Goal</h3>
-
-<p>This project has two goals:
-<ul>
-<li>To give you hands-on practice in making design interventions at the level of infrastructure (code and algorithms that structure many people's practices).</li>
+## Mini-project 2: Infrastructural Re/Design
 
 {% if site.data.yearly.MP2.value == "not_published" %}
-<p></p>
-<p></p>
 *This assignment is not yet published.*
-
-<p></p>
 {% else %}
-</ul></p> 
-## MATERIALS FROM SECTION
+### Goals
+The goal of this second miniproject is to understand the role of infrastructure in everyday life, and practice designing modifications to infrastructure. Infrastructure has inertia: major design of new infrastructure is developed at scale by big committees and consortia; on smaller scales it works by incremental in-place redesign and relatively minor updates. Infrastructure designs have to pay attention to breaking changes both above and below the point of design.
 
-Here are some materials that we will be using to help shape MP2:
+After doing this project you will be able to:
+*   Analyze the impacts of existing infrastructure on a new product.
+*   Think of the impacts that infrastructure redesigns might have on an environment and the people in it.
+*   Use video and text to explore and simulate new technologies.
+*   Design within infrastructural constraints, including: incremental redesigns; interactions between the technical and the social; the creation of winners and losers by infrastructural choices, etc. 
 
-1. [What is an oped made of?]({{ site.url }}{{ site.baseurl }}/my_assets/img/What is an oped made of.docx)
-1. [Sample oped.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Sample oped.docx)
-1. [Oped creation worksheet.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet.docx)
-1. [Oped creation worksheet_online.]({{ site.url }}{{ site.baseurl }}/my_assets/img/Oped creation worksheet_online.docx)
+### Assignment: Re/Design
+You work for billionaire technologist Leon Skum, whose widely anticipated humanoid robot is just now hitting the market. It's an amazing technology, but the first of its kind, so as it is deployed into diverse domestic and work environments it is running into hurdles (sometimes literally). Your job is to figure out how to design infrastructure to support it, but more importantly how to augment existing infrastructure in specific environments where the robot is used.
 
-<h3>Overview</h3>
+This miniproject will consist of re/designing three infrastructural elements that support the humanoid robot: one re/design will be new proposed infrastructure, while the two others are modifications to existing infrastructure that will be necessary for the robot to function well. You will make a video of the robot working, and encountering friction in its work. Then you will describe the three modifications in a short three page paper. We don't expect you to build an actual robot, so **you or a friend will act as the robot for the video**. 
 
-<p>Contemporary life in the US and many other nations is deeply influenced by computational platforms: code and algorithms that shape what we do, how we communicate, and what we know. In this miniproject, you will make an argument for a change to the design of a contemporary computational platform with widespread effect, which will result (according to your argument) in an improvement in the social impact of that platform. <b>The change will be at the level of code, i.e. a technical change to the algorithms on which the system relies</b>, rather than, for example, a change to how the system is advertised and promoted. It should be a discrete, incremental change, of the type we descibed in our Sweeney example from lecture, that should not require the platform to significantly change its mission or business model.</p> 
+Some backstory for the robot:
+- weighs about 90kg
+- has vision and some lidar, but it needs external video for fine motor operations
+- active battery life of 6 hours, fewer if lethargic, and needs 2 hours to charge
+- sold with a charging station (about the size of a minifridge)
+- dextrous enough to open drawers and move objects, but its hands don't have touch sensation so it can't currently, for example: unload a dishwasher; plant a seedling; change a baby; or fold and hang laundry (or similar fine motor control tasks with soft or delicate objects).
+- about as smart as an LLM is now, meaning able to interact, but also prone to mistakes, errors of context, mis-recognition, and hallucinations. In a physical world the robot could be dangerous or make serious mistakes with real-world implications -- unless it is assisted by a compliant environment.
 
-<p>You will make this argument in the form of an op-ed, i.e. a brief, structured argument that is accessible to, and influential for, a wide audience. Op-eds are written to these wide audiences with the hope that the audience can contribute to pressuring for change, or be part of the change themselves. They may also be written to those in power at the same time, but not exclusively.</p>
+<h3>Project components:</h3>
 
-<p>Skills for this miniproject will be covered in section on Oct. 6 (writing an op-ed) and Oct. 13 (making a technical change to an infrastructure). Please review also your lecture notes from Sept. 28, Oct. 3, Oct. 5, and the associated readings for more background.</p>
+<h4>The Video:</h4>
+- a single video submission
+- describes the environment and work of the robot in that environment, and should demonstrate the insufficient or incorrect infrastructure you will redesign
+- should be 20 seconds to 60 seconds (we will only view material up to 60 seconds and ignore the rest)
+- should be polished enough, narratively and in terms of visual quality, that we can understand what is going on (hint: share it with peers without explaining much, and see if they can recount what you meant to communicate without you helping them)
+- does not need to be more polished than that bare minimum of communication
+- can be with or without sound, dialog
+- should NOT have credits/titles. Cold open, cold close (it can have subtitles if the robot speaks another language than English, or other information graphics that help the view understand what's going on)
+- will be submitted via canvas (see assignment page for accepted video formats) 
 
-<h3>Instructions</h3>
+Your video should communicate three key points:
+- **The environment where the robot works** and is underserved by existing infrastructure. Finding the right environment/tasks is the design space that you should hold open for a while, and perhaps make some drafts around. We encourage you to try and find an environment and reasonable robot tasks that can clearly communicate inadequate infrastructure for a humanoid robot. Do you work at the Statler? In a lab? Dorm rooms are fine, but perhaps lazy depending on how you do them. Don't choose an environment where it will be difficult for the viewer of the video to understand what's going on, where to look, why the robot is doing what it's doing, etc.
+- **The robot's task/s in the environment.** Domestic cleaning robots are the go-to, but what about a robot that guards your drinks at the party? A robot that keeps score of arguments with your roommate? A robot that helps you serve coffee during your shift at Green Dragon? It can be physical work, emotional work, aesthetic work, etc. You won't be scored for creativity, but use it! The task/s should be clear.
+- **Why each design/redesign is necessary** for the robot to be a success. These should be shown in context of use. Does the robot successfully fill cups of water, but knocks unexpected containers off the table? Does it have great icebreaker lines but can't read social queues? Does it pick apples well but scare visitors to the orchard? 
 
-<ol>
-<li>Brainstorm a list of computational platforms which you feel are having an impact on a significant group in contemporary society.</li>
-<li>Ask yourself, "If I had the power, how would I change the impact of this platform?"</li>
-<li>Comparing your desired impact to what you believe the platform currently does, brainstorm possible design changes that would alter that impact. For example, I might decide that Facebook is causing political polarization by catching people in filter bubbles where they only interact with people of similar political viewpoints. If so, I could change the design of Facebook so that it automatically identifies the political viewpoint of its users, and then makes sure half of my feed had posts from people whose viewpoint is significantly different from mine.</li>
-<li>Sleep on your initial ideas.</li>
-<li>Review your ideas, selecting a few which you feel are the most compelling.</li>
-<li>Refine your proposed ideas, with an eye to making sure (1) your idea is original, (2) an average reader would consider it technically plausible, and (3) it would be likely to have the impact you want. In the previous example, I might decide that Facebook would calculate user political viewpoints by checking the sources of the news articles that the user posts, and that I would reduce the amount of the feed artificially taken up by people with different viewpoints to 10 per cent so that users would not become alienated from the platform.</li>
-<li>Select your best idea, and write an op-ed that advocates for your design change. Your op-ed must make a <b>simple, clear, coherent argument</b> for the value of your design change, i.e. why this change would be effective in bringing about a better social impact. Your argument should be <b>compelling for a broad audience</b>.</li>
-</ol>
+The video may also feature the new redesigns, but this is optional and is not part of the rubric. Moreover, it will make it harder to fit everything into a minute, and make the video production more complicated. That said, if you have a great idea of how to fit it all in, that's fine. You'll still need to write the next section, though.
 
-<p>
-<b>Please study carefully the appendix below for more information about how to write op-eds.</b> This will provide more details on what we will be looking for in your assignment.
-</p>
+<h4>The Three Re/Designs</h4>
+Each re/design is on its own single page, no more no less. Each of the three re/designs has three parts:
+- First, at the top of each page should be a **header** that includes:
+Name: [Name of Infrastructure Being Re/Designed]
+Marker: [The Exact Second in the Video Where Infrastructure Problem is Identified]
+- Second, there should be a textual description of **how the robot is underserved by existing infrastructure.** (2-4 sentences, depending on how communicative the video is)
+- Third, a drawing and/or textual description of **how the infrastructure will be designed/redesigned to make the work for the robot (or the people around it) more easy.** (About 1/2-2/3 of the page) Designs one and two should be redesigns of existing infrastructure, the third can be as well, but can optionally be a proposed new piece of infrastructure. 
 
-<h3>Submission</h3>
-
-Deliverables:
-<ol>
-<li>Your op-ed. It must include the following components:
-<ol>
-<li>A <b>lede</b> or opener which draws the reader into your argument</li>
-<li>A clear, easy to understand <b>description</b> of the original design change you are advocating for.</li>
-<li>3 distinct <b>points</b> which support your argument that this design change would create the particular positive impact on society that you intend. Each point is undergirded with concrete <b>evidence</b>.</li>
-<li>Acknowledgement of 1 or more obvious <b>counterarguments</b>, with effective argumentation disarming each.</li>
-<li>A <b>conclusion</b> which includes a clear recommendation for what should be done differently.</li>
-</ol>
-
-Your op-ed has a <b>strict word limit</b> of <b>700 words</b>. <em>Any additional words will not be graded</em>. You can check how many words we will think your op-ed has by using the word counter in Google Docs, under Tools->Word Count.
+Please remember what we covered about infrastructure in lectures: when redesigning one has to pay attention to upstream/downstream dependencies; think of the interaction between the technical and the social; target incremental change (often the least change possible); there may be winners and losers. To be clear, we expect some discussion of how / for who these redesigns might make the environment harder or easier to be or work in, or have unexpected impacts. It's perfectly alright to conclude that the redesign is so narrow and straightforward that there will be no unintended consequences. If, however, a TA can think of an implication of the redesign that you do not mention, but is so obvious that you should have thought of it, they will grade accordingly.
+<br/><br/>
+Lastly, we're giving you a lot of leeway in this assignment. We expect many different approaches and encourage you to enjoy the process. We imagine that some of the infrastructure you address will be very technical, depending on the environment, and in other cases it will be less technical but needing change because of the new (humanoid robot technology) that relies on it. We don't prefer one to the other, rather we just want either approach well explained and well thought through. Finally, our no magic rule applies: the tasks and re/designs should be credible enough one could imagine them in the real world, even if they aren't quotidian. In all cases, good redesigns will be as narrow and non-breaking as possible. 
 
 {% assign class = site.data.classes[page.class] %}
-Your project is due electronically via submission through Canvas by <b>11:59pm on {{class.date | date: "%A, %b %-d" }}</b>. Your submission must be in *.pdf format*. In line with standard newspaper submission practices, for this miniproject <b>your document must be plain text</b> (no images and no handwriting).
+You will upload one video file, and one pdf with the written component. Your project is due electronically via submission to Canvas by **11:59pm on {{class.date | date: "%A, %b %-d" }}**
+<br/><br/>
+There are unending AI slop videos of humanoid robots, many of them disturbingly sexist. To save you some mental anguish I've put together a small list of 2025 videos to give you a sense of the state of the art:
 
-<!--
-<h3>Grading rubric</h3>
+[1](https://www.youtube.com/watch?v=6N1ZdYjPeFQ)
+[2](https://www.youtube.com/watch?v=bPSLMX_V38E)
+[3](https://www.youtube.com/shorts/EdIAA1zROiA)
+[4](https://www.youtube.com/shorts/TO0NDF5pOR8)
+[5](https://www.youtube.com/shorts/a-Wc16CmDk0)
+[6](https://www.youtube.com/watch?v=DrNcXgoFv20)
+<br/><br/>
+<br/><br/>
 
-<p>Your op-ed will be graded along the following dimensions:
-<ul>
-<li><b>Lede (10&#37):</b> A compelling opening grabs the reader&#39;s attention and draws them into the op-ed.</li>
-<li><b>Thesis (15&#37;):</b> The op-ed argument overall is structured to make a single, clear, coherent point about how the intended design change would make a pecific positive social impact.</li>
-<li><b>Description (15&#37;):</b> The op-ed describes a specific, original, technically plausible design change to a computational platform that would be embodied in code.</li>
-<li><b>3 points (5&#37; each):</b> Each point is clearly rooted in reliable evidence and supports the overall claim that this design change makes the intended social change.</li>
-<li><b>Counterarguments (15&#37;):</b> Obvious counterarguments are addressed in a way that is convincing and respectful to possible critics.</li>
-<li><b>Conclusion (10&#37;):</b> The op-ed concludes with a specific, concrete action that the reader can engage in or advocate for and that follows on the intended argument.</li>
-<li><b>Argument overall (20&#37;):</b> Taken as a whole, the op-ed makes a convincing, compelling, and broadly accessible argument that this design change should be implemented and would improve social impact. As an everyday newspaper reader, I would be interested to read this argument and be convinced by it.</li>
-</ul>
-
-<p>Note: fulfilling all these components will result in an A (95) on this project. To get an A+, the project must go above and beyond, for example by presenting a truly creative and insightful design change, making an exceptionally strong argument, or being written in an unusually lively and compelling manner.</p>
-
--->
-
-<h3>Appendix I: Op-ed writing</h3>
-
-<p>
-(Adapted from: <a href="https://www.theopedproject.org/oped-basics/">The OpEd Project</a>; this is a great resource!)</p>
-
-<p>An op-ed is a short argument to a public audience, that newspapers typically printed "opposite the editorial page" (hence: op-ed). Op-eds can be influential in that they can sway readers to support a position that you care about. To do so, they need to be carefully crafted to speak understandably to a wide audience.The rhetorical strategies of an op-ed are useful for many kinds of persuasive public writing.</p>
-
-<p>An op-ed typically consists of the following components:</p>
-
-<h4>1. A lede</h4>
-
-This is the opener of the op-ed. It needs to be short and punchy to grab the reader’s attention, for example through a compelling example, a surprising statement, or a dramatic anecdote. The lede must draw in the reader, so they want to read the op-ed instead of moving on to the next article. Usually but not always ledes tie to contemporary events: something that happened recently, either in the news or (less frequently) in your own life.
-
-<h4>2. A thesis</h4>
-Op-eds are short pieces of accessible public writing; they are not the place to make complex, nuanced arguments. Instead, op-eds must be anchored in a clear, unequivocal position you are taking on an issue. This is what is called the ‘thesis’ – the single main point the argument is going to make. Your thesis may be written explicitly into the op-ed, or it may be the conclusion that the reader comes to after they read it. Whether or not it is explicitly written into the op-ed, it must be crystal-clear in the author’s head while writing it, and in the reader's head after reading it. Note that the thesis is not the _problem_ but rather why the problem needs the technical change.
-
-<h4>3. An argument grounded in evidence</h4>
-The thesis’s validity will be undergirded by several points (in the real world, usually 2-4; for this assignment, 3). Each point must draw on credible evidence, such as: statistics, news, reports from credible organizations, expert quotes, scholarship, history, or first-hand experience. Each point must contribute directly towards supporting the technical change (NOT the problem itself).
-
-<p> As is true in all forms of writing in this course, text and ideas from others must be properly quoted and cited in your op-ed. However, <b>op-eds do not use formal academic citation</b>. They attribute sources by naming them within the text ("A recent study by researchers at Brigham Young University showed...") with [inline URLs](https://www.youtube.com/watch?v=dQw4w9WgXcQ).</p>
-
-<h4>4. “To be sure”</h4>
-The argument should pre-empt possible skeptics and critics by acknowledging any flaws or shortcomings in your argument, and addressing any obvious counterarguments. Effective strategies to do this include:
-<ul>
-<li>Acknowledge and dismiss: Acknowledge that a counterargument exists, but argue why that counterargument is not so important.</li>
-<li>Validate and trump: Acknowledge that an important counterargument exists, and explain how your argument addresses it.</li>
-<li>Personal caveat: Address a personal limitation that may come up (e.g. "As CEO of Google, it might seem that I am biased in my view on algorithmic fairness") and explain why you have credibility anyway</li>
-</ul>
-
-<p>The "to be sure" must be written in a tone that will speak to potential critics, i.e. by trying on the shoes of those who might disagree with you. If you want them to listen to you, you need to make clear you have heard them. The "to be sure" must communicate respect and empathy, based in an imagination of your opponent as intelligent and moral (whether or not this is what you actually believe).</p>
-
-<h4>5. Conclusion</h4>
-
-<p>The end of the op-ed must make a clear recommendation of what should happen differently based on the argument it makes. A weak conclusion argues for a general attitude change (e.g. "people should be aware that food waste is a big problem"). A strong conclusion recommends something concrete that should be done differently, ideally something your reader is in a position to implement or advocate for immediately (e.g. "Designate one day a week to use up leftovers in your refrigerator.")</p>
-
-<h3>Appendix II: Example op-ed</h3>
-
-<p><em>Note: this was written by Prof. Sengers for a "Bloomberg" type audience.  It was not written for this assignment so it does not exactly fit the assignment requirements, but should give you a sense of how op-ed writing and referencing work.</em></p>
-
-<p>How much you pay for electricity could change radically under a new proposal in New York State. In the future, your electric bill may depend on how good you are at time management.</p>
-
-<p>This is because, as a recent Ithaca Journal report uncovered, there are plans to charge radically different prices for electricity depending on the time of day <a href="http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/">[1]</a>. As part of an experimental ‘smart metering’ system, Avangrid -- the parent company of New York State Electric & Gas and Rochester Gas & Electric -- is proposing to change the delivery charge for electricity from current flat rates of 4-5 cents per KWH, to 3 cents in off-peak times and a whopping 18 cents in peak times. Under the proposed plan, electrical consumers who are able to reorganize their energy-intensive activities to occur at non-peak times – for example by running the dryer at 11pm – may decrease costs by up to 40 per cent. But consumers who cannot could see their bills double or triple.</p>
-
-<p>This policy addresses an important issue with our electrical infrastructure. Utilities need to generate enough electricity to meet demand at peak times. As peak demand rises, they have to build more plants, but that extra capacity often stands idle. The idea, then, is that charging people more for electricity when it is in demand will encourage people to shift electrical use to non-peak times. This will let us wring more out of our current infrastructure, rather than having to build more. In addition, shifting people to use electricity when it is in greater supply will help us manage the transition from fossil fuels, which are available 24 hours a day, to wind and solar energy, whose supply varies over the day. Avangrid’s experimental system is a test run of variable charging for electricity that is expected to be the future across the nation.</p>
-
-<p>While the motivation for this idea is laudable, the likely social implications are not. This is because the cost of variable pricing will be carried by households that are unwilling or unable to systematically rethink the timing of their energy-intensive activities. These are often vulnerable households.</p>
-
-<p>For example, low-income households will likely take a hard hit. Rearranging one’s schedule of activities simply takes time and thought which people who are already struggling to meet their families’ daily needs may be unable to muster <a href="http://www.sciencedaily.com/releases/2013/07/130702100757.htm">[2]</a>. In addition, lower-income consumers may have less control over factors that influence their electricity use, as Tawanna Dillahunt has shown holds for renters who want to reduce energy use <a href="http://dx.doi.org/10.1145/1620545.1620583">[3]</a>. Finally, planning one’s future time use can be nearly impossible for workers subject to the constantly changing, just-in-time work scheduling practices that are becoming more common in lower-wage sectors <a href="https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html">[4]</a>. Consumers in any of these situations will find their electrical bills skyrocketing, with little they can practically do about it.</p>
-
-<p>But the losers under this policy are not just low-income households. Plotting your personal activities over the day to optimize your benefit, as variable pricing encourage consumers to do, is a form of time management that comes naturally to white-collar professionals who plan their own schedules. But for other workers, these ways of thinking are not necessarily natural, or even desirable.</p>
-
-<p>For example, in my research into how rural Canadians organize their work, rural fisherman-farmers taught me that planning your time in advance doesn’t make sense when your work options are continuously altered by unpredictable weather conditions. If you wait to use your chainsaw until rates are down, it may be dark outside, or it may be raining sideways. Thriving in these conditions relies not on futile attempts to predict what will happen, but on savvy responses in the moment to conditions fundamentally outside your control. Fishermen-farmers are certainly able to plan out their activities in time when they have to, but it’s not their bread-and-butter. As a result, they are not particularly good at it; nor should they have to be.</p>
-
-<p>The same is true for sleep-deprived new parents, people struggling with health issues or addiction, and anyone else who finds rational control of their time beyond their current emotional, financial, or organizational means. The fundamental problem with variable pricing, as energy technology analyst Yolande Strengers points out <a href="https://doi.org/10.1145/2621931">[5]</a>, is that it assumes that electrical consumers should all be able to develop and execute a rational reorganization of their activities to optimize their energy use. And under the proposed plan, the cost for failing to live up to that moral demand is a bill up to 4 times higher.</p>
-
-<p>What should we do instead? If the goal is to even out energy demand without decimating the households who are least able to consciously manage it, there are several alternatives.</p>
-
-<p>As a start, if variable pricing does enter US homes, there should be income cut-offs under which participation would be opt-in only. But a better option would be to change the target audience for it. While variable pricing does not fit how many consumers organize their lives, it does fit with business’s conscious attention to strategy and pricing. It makes sense to concentrate variable pricing on the business context, which uses nearly twice as much energy as the residential sector <a href="https://www.eia.gov/consumption/">[6]</a>.</p>
-
-<p>But this policy deserves more fundamental rethinking. As environmental researcher Max Liboiron argues, a more effective design strategy than trying to get consumers to consciously redesign their behavior is to change the factors that influence what people do unthinkingly <a href="https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/">[7]</a>. Electrical policy should shift from forcing people to consciously restructure their behavior, to making non-peak electrical usage an automatic solution.  For example, utilities could work with device manufacturers to make the default ‘on’ time for large appliances such as dishwashers and washing machines be when prices are low. If you need them to turn on right away, you would push an extra button. The expensive option would be the decision that requires extra thought. This form of restructuration would have the benefits of variable pricing without penalizing consumers who don’t manage their time like a white-collar professional.</p>
-
-1. <http://www.ithacajournal.com/story/news/local/watchdog/2017/08/10/adjustable-pricing-tripled-rates-next-step-electric-deregulation/528720001/> <br>
-
-2. <http://www.sciencedaily.com/releases/2013/07/130702100757.htm<br>>
-
-3. <http://dx.doi.org/10.1145/1620545.1620583<br>>
-
-4. <https://www.nytimes.com/interactive/2014/08/13/us/starbucks-workers-scheduling-hours.html<br>>
-
-5. <https://doi.org/10.1145/2621931<br>>
-
-6. <https://www.eia.gov/consumption/<br>>
-
-7. <https://discardstudies.com/2014/01/23/against-awareness-for-scale-garbage-is-infrastructure-not-behavior/> <br>
 
 
 {% endif %}
+

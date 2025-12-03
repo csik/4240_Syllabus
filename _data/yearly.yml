@@ -17,13 +17,13 @@ MP1:
   value: "published"
 
 MP2:
-  value: "not_published"
+  value: "published"
 
 MP3:
-  value: "not_published"
+  value: "published"
   
 MP4:
-  value: "not_published"
+  value: "published"
 
 DW1:
   Canvas_URL: "/assignments/844168"

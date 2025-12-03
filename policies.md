@@ -23,7 +23,6 @@
 |             |                    |              | [Prof's hours can be booked at http://calendly.com/csik](http://calendly.com/csik)                                                                                                                                                    |
 
 
-<!--
 ## Regrade Requests
 
 In order to submit a regrade request, first wait 24 hours after you receive the grade. Requests must be made within two weeks of receiving an on-time grade, or one week of receiving a grade for a late submission. Please submit all regrade requests by filling out the survey below. We ask that you read it carefully, think carefully before requesting a regrade, and note that a regrade **may result in a lower grade.** 
@@ -38,7 +37,7 @@ Please note:
 -   It is possible that course staff will request a personal meeting to clear up misunderstandings around grading and/or your request.
 
 [Regrade form](https://cornell.ca1.qualtrics.com/jfe/form/SV_exncV244wClDeg6)
--->
+
 
 ## In-person policy
 In both lecture and section we aim for robust dialog in a mutually supportive environment. At a minimum, we expect you to follow the campus code of student conduct [linked from here](https://assembly.cornell.edu/resources/student-code-conduct).
@@ -73,13 +72,13 @@ Where we *do* actively encourage generative AI is for generating images for *som
 
 ## Late policy
 
-It is possible to hand in **design workbook submissions and mini-projects** up to **7 days** after the assignment is due. You will be charged "slip days" for late assignments. A slip day is accrued starting immediately after the assignment is due (i.e. an assignment which is one hour late will incur a full slip day).
+It is possible to hand in **design workbook submissions and mini-projects** up to **7 days** after the assignment is due. You will be charged "slip days" for late assignments. A slip day starts to accrue immediately after the assignment is due (i.e. an assignment which is one hour late will incur one hour toward a slip day).
 
 Life happens. We believe you are the best judge of when you need a break in the course. Therefore, we allow you some flexibility in handing in your assignments, to use at your own judgement, for situations such as routine illness, minor injuries, interviews, competing workload in other courses, extra-curricular activities, or just the need to take a break. You will have **7 free slip days** that you can use to hand homework assignments in late at any point over the semester. For example, you could hand one workbook assignment in 4 days late, and one mini-project 3 days late without penalty. Each slip day beyond the 7 allowed for the course will result in a deduction of 1/2 of a percentage point from your final course grade. Please note that **free slip days cannot be applied to the final exam or to critiques**.
 
 Additional homework extensions can only be granted by the professors and are only granted under truly exceptional circumstances. It is wise to save your slip days for illness, sudden personal emergencies, and other unexpected events. **We strongly discourage using slip days on your first assignment.**  Indeed, we encourage you to try to hoard them as much as possible, as semesters rarely become more easy as they go along.
 
-Most students opt to not take the final exam, but the **final exam** carries a late penalty of 1 full letter grade (10 points out of 100) per hour late, starting immediately after the final exam is due (i.e. a final exam which is 10 minutes late will incur a full letter grade penalty).
+Most students opt to not take the final exam, but the **final exam** carries a late penalty of 1 full letter grade (10 points out of 100) per hour late, starting immediately after the final exam is due (i.e. a final exam which is 10 minutes late will incur a full letter grade penalty). That said, you do have a lot of time to actually do the final.
 
 Please note late assignments may be (very) delayed in grading, as they fall outside our regular course rhythm. This means that you may not receive feedback in time to incorporate it into future assignments, which is another reason to avoid using slip days early!
 
